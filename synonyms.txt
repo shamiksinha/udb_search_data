@@ -1,0 +1,111 @@
+# The ASF licenses this file to You under the Apache License, Version 2.0
+# (the "License"); you may not use this file except in compliance with
+# the License.  You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+#-----------------------------------------------------------------------
+#some test synonym mappings unlikely to appear in real input text
+aaafoo => aaabar
+bbbfoo => bbbfoo bbbbar
+cccfoo => cccbar cccbaz
+fooaaa,baraaa,bazaaa
+
+# Some synonym groups specific to this example
+GB,gib,gigabyte,gigabytes
+MB,mib,megabyte,megabytes
+Television, Televisions, TV, TVs
+#notice we use "gib" instead of "GiB" so any WordDelimiterFilter coming
+#after us won't split it into two words.
+
+# Synonym mappings can be used for spelling correction too
+pixima => pixma
+
+kabi => kabibar
+kobi => kabibar
+kaabi => kabibar
+girish => girishchandra
+gireesh => girishchandra
+geereesh => girishchandra
+ghose => ghosh
+ghoshh => ghosh
+pandit => panditbar
+pondit => pandit panditbar
+ramkrishna => ramkrishnananda
+rojonikanta => rajanikanta
+torkobhushan => tarkobhushananubadito
+tarkobhushan => tarkobhushananubadito
+sri => shri
+kiran => kiranchandra
+ramanuja => ramanujacharita
+probodh => prabodhchandra
+prabodh => prabodhchandra
+pramath => pramathanath
+promoth => pramathanath
+promath => pramathanath
+promotha => pramathanath
+pramatha => pramathanath
+promatha => pramthanath
+anaath => anath
+sami => swami
+shami => swami
+same => swami
+shame => swami
+jaimini => joimini
+shonkor => shankarbhashyanubad
+shankar => shankarbhashyanubad
+paramhansadeb => paramhansadeber
+poromhansa => paramhansadeber
+poromhonso => paramhansadeber
+brahma => brahmananda
+brohma => brahmananda
+bibek => bibekananda
+vivek => bibekananda
+beebekananda => bibekananda
+bibekanondo => bibekananda
+vivekanondo => bibekananda
+bilatjatri => bilatjatrir
+bilaatjaatri => bilatjatrir
+bilaatjaatrir => bilatjatrir
+sankhipta => sangkhipta
+sonkhipto => sangkhipta
+songkhipto => sangkhipta
+dr => daktar
+doctor => daktar
+dr. => daktar
+srima => shrima
+srimo => shrima
+srim => shrima
+shrim => shrima
+sashi => soshibhushan
+soshi => soshibhushan
+rm => ramkrishna mission
+sarat => sarachchandra
+sarath => sarachchandra
+sorot => sarachchandra
+soroth => sarachchandra
+sarot => sarachchandra
+saroth => sarachchandra
+sorat => sarachchandra
+sorath => sarachchandra
+sharat => sarachchandra
+shorot => sarachchandra
+sharot => sarachchandra
+shorat => sarachchandra
+sharath => sarachchandra
+sharoth => sarachchandra
+shoroth => sarachchandra
+shorath => sarachchandra
+saratchandra => sarachchandra
+soratchandra => sarachchandra
+sorotchandra => sarachchandra
+sorotchondra => sarachchandra
+sorotchondro => sarachchandra
+anandamoyeer,anandamoyi,anandamoyee,anandamoye,anandamoy,aanandamoyi,aanandamoyee,aanandamoye,aanandamoy,aanondamoyi,aanondamoyee,aanondamoye,aanondamoy,aanondomoyi,aanondomoyee,aanondomoye,aanondomoy
+

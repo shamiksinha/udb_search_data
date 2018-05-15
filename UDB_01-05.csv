@@ -1,0 +1,698 @@
+id,bookname_ws,bookyear_i,bookmonth_txt_en_split,author_txt_en_split,subject_txt_en_split,booknumber_i
+1,UDB-001-1305-06-01-01-MAGH.pdf,1305,magh,Swami Vivekananda,Prostabana,1
+2,UDB-001-1305-06-01-01-MAGH.pdf,1305,magh,Swami Vivekananda,Raj-Yog,1
+3,UDB-001-1305-06-01-01-MAGH.pdf,1305,magh,Swami Brahmananda,Paramhansadeber Upodesh,1
+4,UDB-001-1305-06-01-01-MAGH.pdf,1305,magh,Swami Ramkrishnanandenanubaditam,Sri Sri Mukundamala Stotram,1
+5,UDB-001-1305-06-01-01-MAGH.pdf,1305,magh,,Saradananda Swami Boktritar Sarangsha,1
+6,UDB-001-1305-06-01-01-MAGH.pdf,1305,magh,,Bibidh,1
+7,UDB-001-1305-06-01-02-MAGH.pdf,1305,magh,Swami Vivekananda,Sokhar Proti,2
+8,UDB-001-1305-06-01-02-MAGH.pdf,1305,magh,,Pranayam,2
+9,UDB-001-1305-06-01-02-MAGH.pdf,1305,magh,Swami Ramkrishnanandenanubaditam,Sri Sri Mukundamala Stotram,2
+10,UDB-001-1305-06-01-02-MAGH.pdf,1305,magh,Babu Girishchandra Ghosh,Karmma,2
+11,UDB-001-1305-06-01-02-MAGH.pdf,1305,magh,,Amar Tibbat Bhromoner Ek Porichched,2
+12,UDB-001-1305-06-01-02-MAGH.pdf,1305,magh,Swami Brahmananda,Paramhansadeber Satyanishtha,2
+13,UDB-001-1305-06-01-02-MAGH.pdf,1305,magh,,Swami Vivekanander sohit kothopokathan,2
+14,UDB-001-1305-06-01-02-MAGH.pdf,1305,magh,,Ekti dukkher songbad,2
+15,UDB-001-1305-06-01-02-MAGH.pdf,1305,magh,,Maxmueller Likhito Paramhansadeber Jibonchorit,2
+16,UDB-001-1305-06-01-03-FALGOON.pdf,1305,falgoon,Swami Vivekananda,Gyanarjjan,3
+17,UDB-001-1305-06-01-03-FALGOON.pdf,1305,falgoon,Babu Girishchandra Ghosh,Karmma,3
+18,UDB-001-1305-06-01-03-FALGOON.pdf,1305,falgoon,,Annachinta,3
+19,UDB-001-1305-06-01-03-FALGOON.pdf,1305,falgoon,,Amar Tibbat Bhromoner Ek Porichched,3
+20,UDB-001-1305-06-01-03-FALGOON.pdf,1305,falgoon,,Ramkrishna-Mission,3
+21,UDB-001-1305-06-01-03-FALGOON.pdf,1305,falgoon,,Maxmueller Likhito Paramhansadeber Jiboni sombondhe pioneer,3
+22,UDB-001-1305-06-01-03-FALGOON.pdf,1305,falgoon,,Prapta,3
+23,UDB-001-1305-06-01-03-FALGOON.pdf,1305,falgoon,,Manush Nimakharam,3
+24,UDB-001-1305-06-01-03-FALGOON.pdf,1305,falgoon,,Udyeshyo,3
+25,UDB-001-1305-06-01-04-FALGOON.pdf,1305,falgoon,,Saradananda Swami Boktritar Sarangsha,4
+26,UDB-001-1305-06-01-04-FALGOON.pdf,1305,falgoon,Swami Ramkrishnananda,Sri Ramanuja-Charita,4
+27,UDB-001-1305-06-01-04-FALGOON.pdf,1305,falgoon,,Manastwatto,4
+28,UDB-001-1305-06-01-04-FALGOON.pdf,1305,falgoon,,Jhaloyar Duhita,4
+29,UDB-001-1305-06-01-04-FALGOON.pdf,1305,falgoon,Swami Brahmananda,Paramhansadeber Upodesh,4
+30,UDB-001-1305-06-01-04-FALGOON.pdf,1305,falgoon,,Amar Tibbat Bhromoner Ek Porichched,4
+31,UDB-001-1305-06-01-04-FALGOON.pdf,1305,falgoon,,Songbad o Montobbo,4
+32,UDB-001-1305-06-01-04-FALGOON.pdf,1305,falgoon,,Ramkrishna-Mission,4
+33,UDB-001-1305-06-01-04-FALGOON.pdf,1305,falgoon,,Shomalochona,4
+34,UDB-001-1305-06-01-05-CHAITRA.pdf,1305,chaitra,Swami Vivekananda,Maxmueller krito Ramkrishna o Tahar ukti,5
+35,UDB-001-1305-06-01-05-CHAITRA.pdf,1305,chaitra,,Ashabani,5
+36,UDB-001-1305-06-01-05-CHAITRA.pdf,1305,chaitra,Swami Ramkrishnananda,Sri Ramanuja-Charita,5
+37,UDB-001-1305-06-01-05-CHAITRA.pdf,1305,chaitra,,Amar Tibbat Bhromoner Ek Porichched,5
+38,UDB-001-1305-06-01-05-CHAITRA.pdf,1305,chaitra,Swami Brahmananda,Paramhansadeber Upodesh,5
+39,UDB-001-1305-06-01-05-CHAITRA.pdf,1305,chaitra,Kabibar Girishchandra Ghosh,Jhaloyar Duhita,5
+40,UDB-001-1305-06-01-05-CHAITRA.pdf,1305,chaitra,,Megh-Dhamar,5
+41,UDB-001-1305-06-01-05-CHAITRA.pdf,1305,chaitra,Pandit Pramathanath Tarkobhushan,Acharya Shankar o Mayabad,5
+42,UDB-001-1305-06-01-05-CHAITRA.pdf,1305,chaitra,,Songbad o Montobbo,5
+43,UDB-001-1305-06-01-05-CHAITRA.pdf,1305,chaitra,,Ramkrishna-Mission,5
+44,UDB-001-1305-06-01-06-CHAITRA.pdf,1305,chaitra,Swami Vivekananda,Barttaman Bharat,6
+45,UDB-001-1305-06-01-06-CHAITRA.pdf,1305,chaitra,Swami Ramkrishnananda,Sri Ramanuja-Charita,6
+46,UDB-001-1305-06-01-06-CHAITRA.pdf,1305,chaitra,,Annachinta,6
+47,UDB-001-1305-06-01-06-CHAITRA.pdf,1305,chaitra,Pandit Pramathanath Tarkobhushan,Acharya Shankar o Mayabad,6
+48,UDB-001-1305-06-01-06-CHAITRA.pdf,1305,chaitra,Daktar Shoshibhushan Ghosh,Shashthya Bigyan,6
+49,UDB-001-1305-06-01-06-CHAITRA.pdf,1305,chaitra,,Dhammapad,6
+50,UDB-001-1305-06-01-06-CHAITRA.pdf,1305,chaitra,Swami Brahmananda,Paramhansadeber Upodesh,6
+51,UDB-001-1305-06-01-06-CHAITRA.pdf,1305,chaitra,Girishchandra Ghosh,Hridoy,6
+52,UDB-001-1305-06-01-06-CHAITRA.pdf,1305,chaitra,,Prerit Patra,6
+53,UDB-001-1305-06-01-06-CHAITRA.pdf,1305,chaitra,,Songbad o Patra,6
+54,UDB-001-1305-06-01-06-CHAITRA.pdf,1305,chaitra,,Songkhipto Alochana,6
+55,UDB-001-1305-06-01-06-CHAITRA.pdf,1305,chaitra,,Binimoy prapti swikar,6
+56,UDB-001-1305-06-01-07-BAISHAKH.pdf,1306,baishakh,Swami Vivekananda,Barttaman Bharat,7
+57,UDB-001-1305-06-01-07-BAISHAKH.pdf,1306,baishakh,Swami Ramkrishnananda,Sri Ramanuja-Charita,7
+58,UDB-001-1305-06-01-07-BAISHAKH.pdf,1306,baishakh,Kabibar Girishchandra Ghosh,Jhaloyar Duhita,7
+59,UDB-001-1305-06-01-07-BAISHAKH.pdf,1306,baishakh,,Prachya o Paschatya Darshan,7
+60,UDB-001-1305-06-01-07-BAISHAKH.pdf,1306,baishakh,,Amar Tibbat Bhromoner Ek Porichched,7
+61,UDB-001-1305-06-01-07-BAISHAKH.pdf,1306,baishakh,,Bhagawadgita Shankarbhashyer Banganubad,7
+62,UDB-001-1305-06-01-07-BAISHAKH.pdf,1306,baishakh,,Mahabhashyam,7
+63,UDB-001-1305-06-01-07-BAISHAKH.pdf,1306,baishakh,,Swami Yogananda,7
+64,UDB-001-1305-06-01-07-BAISHAKH.pdf,1306,baishakh,,Shanti,7
+65,UDB-001-1305-06-01-08-BAISHAKH.pdf,1306,baishakh,Swami Vivekananda,Barttaman Bharat,8
+66,UDB-001-1305-06-01-08-BAISHAKH.pdf,1306,baishakh,Babu Charuchandra Basu,Dhammapad,8
+67,UDB-001-1305-06-01-08-BAISHAKH.pdf,1306,baishakh,Babu Sharachchandra Chakraborty,Leela,8
+68,UDB-001-1305-06-01-08-BAISHAKH.pdf,1306,baishakh,Kabibar Girishchandra Ghosh,Jhaloyar Duhita,8
+69,UDB-001-1305-06-01-08-BAISHAKH.pdf,1306,baishakh,Swami Brahmananda,Paramhansadeber Upodesh,8
+70,UDB-001-1305-06-01-08-BAISHAKH.pdf,1306,baishakh,,Ramkrishna Janmotsab,8
+71,UDB-001-1305-06-01-08-BAISHAKH.pdf,1306,baishakh,Pandit Pramathanath Tarkobhushananubadita,Bhagawadgita Shankarbhashyer Banganubad,8
+72,UDB-001-1305-06-01-08-BAISHAKH.pdf,1306,baishakh,,Sharirik Sutra Ramanujabhashyam,8
+73,UDB-001-1305-06-01-09-JAISTHA.pdf,1306,jaistha,Shrima Kathito,Shri Shri Ramkrishna Kathamrito,9
+74,UDB-001-1305-06-01-09-JAISTHA.pdf,1306,jaistha,,Amar Tibbat Bhromoner Ek Porichched,9
+75,UDB-001-1305-06-01-09-JAISTHA.pdf,1306,jaistha,,Annachinta,9
+76,UDB-001-1305-06-01-09-JAISTHA.pdf,1306,jaistha,Pandit Pramathanath Tarkobhushan,Acharya Shankar o Mayabad,9
+77,UDB-001-1305-06-01-09-JAISTHA.pdf,1306,jaistha,,Sangkirttan,9
+78,UDB-001-1305-06-01-09-JAISTHA.pdf,1306,jaistha,Panditbar Pramathanath Tarkobhushan,Bhagawadgita Shankarbhashyer Banganubad,9
+79,UDB-001-1305-06-01-09-JAISTHA.pdf,1306,jaistha,Pandit Rajanikanta Bidyaratna,Mahabhashyam,9
+80,UDB-001-1305-06-01-10-JAISTHA.pdf,1306,jaistha,Swami Vivekananda,Barttaman Bharat,10
+81,UDB-001-1305-06-01-10-JAISTHA.pdf,1306,jaistha,Kabibar Girishchandra Ghosh,Bangal,10
+82,UDB-001-1305-06-01-10-JAISTHA.pdf,1306,jaistha,Swami Brahmananda,Paramhansadeber Upodesh,10
+83,UDB-001-1305-06-01-10-JAISTHA.pdf,1306,jaistha,Panditbar Pramathanath Tarkobhushananubadita,Bhagawadgita Shankarbhashyer Banganubad,10
+84,UDB-001-1305-06-01-10-JAISTHA.pdf,1306,jaistha,,Bhabbar Katha,10
+85,UDB-001-1305-06-01-10-JAISTHA.pdf,1306,jaistha,,Sharirik Sutra Ramanujabhashyam,10
+86,UDB-001-1305-06-01-10-JAISTHA.pdf,1306,jaistha,,Murshidabad Anath Ashram,10
+87,UDB-001-1305-06-01-10-JAISTHA.pdf,1306,jaistha,,Kolikatae PlagueKarya,10
+88,UDB-001-1305-06-01-11-ASHAR.pdf,1306,ashar,Kabibar Girishchandra Ghosh ,Gobra,11
+89,UDB-001-1305-06-01-11-ASHAR.pdf,1306,ashar,Swami Brahmananda,Paramhansadeber upodesh,11
+90,UDB-001-1305-06-01-11-ASHAR.pdf,1306,ashar,,Bhabbar kotha,11
+91,UDB-001-1305-06-01-11-ASHAR.pdf,1306,ashar,Kabibar Girishchandra Ghosh ,Gobra,11
+92,UDB-001-1305-06-01-11-ASHAR.pdf,1306,ashar,Swami Brahmananda,Paramhansadeber upodesh,11
+93,UDB-001-1305-06-01-11-ASHAR.pdf,1306,ashar,Panditbar Pramathanath Tarkobhushananubadito,Bhagabadgita shankarbhashyer banganubad,11
+94,UDB-001-1305-06-01-11-ASHAR.pdf,1306,ashar,Pandit Rajanikanta Bidyaratna,Mahabhashyam,11
+95,UDB-001-1305-06-01-12-ASHAR.pdf,1306,ashar,Swami Ramkrishnananda,Sri Ramanuja-Charita,12
+96,UDB-001-1305-06-01-12-ASHAR.pdf,1306,ashar,Kabibar Girishchandra Ghosh ,Jhaloyar duhita,12
+97,UDB-001-1305-06-01-12-ASHAR.pdf,1306,ashar,Babu Kiranchandra Dutta,Karishtu,12
+98,UDB-001-1305-06-01-12-ASHAR.pdf,1306,ashar,,Ramkrishna Mission,12
+99,UDB-001-1305-06-01-12-ASHAR.pdf,1306,ashar,Panditbar Pramathanath Tarkobhushananubadito,Bhagabadgita shankarbhashyer banganubad,12
+100,UDB-001-1305-06-01-12-ASHAR.pdf,1306,ashar,Panditbar Pramathanath Tarkobhushananubaditam,Shaririksutra Ramanujabhashyam,12
+101,UDB-001-1305-06-01-13-SRABON.pdf,1306,srabon,Swami Ramkrishnananda,Shri Ramanujacharita,13
+102,UDB-001-1305-06-01-13-SRABON.pdf,1306,srabon,Kabibar Girishchandra Ghosh ,Jhaloyar duhita,13
+103,UDB-001-1305-06-01-13-SRABON.pdf,1306,srabon,Babu Prabodhchandra De,Annochinta,13
+104,UDB-001-1305-06-01-13-SRABON.pdf,1306,srabon,,Shomalochana,13
+105,UDB-001-1305-06-01-13-SRABON.pdf,1306,srabon,Pandit Rajanikanta Bidyaratna,Mahabhashyam,13
+106,UDB-001-1305-06-01-13-SRABON.pdf,1306,srabon,Panditbar Pramathanath Tarkobhushananubadito,Bhagabadgita shankarbhashyanubad,13
+107,UDB-001-1305-06-01-13-SRABON.pdf,1306,srabon,Shrima,Ramkrishna Kathamrito,13
+108,UDB-001-1305-06-01-14-SRABON.pdf,1306,srabon,Pandit Rajanikanta Bidyaratna,Mahabhashyam,14
+109,UDB-001-1305-06-01-14-SRABON.pdf,1306,srabon,Panditbar Pramathanath Tarkobhushananubadito,Bhagabadgita shankarbhashyanubad,14
+110,UDB-001-1305-06-01-14-SRABON.pdf,1306,srabon,Shrima,Ramkrishna Kathamrito,14
+111,UDB-001-1305-06-01-14-SRABON.pdf,1306,srabon,Panditbar Pramathanath Tarkobhushananubadito,Joimini o karmmomimangsha,14
+112,UDB-001-1305-06-01-14-SRABON.pdf,1306,srabon,Swami Bibekananda,Bhabbar kotha,14
+113,UDB-001-1305-06-01-14-SRABON.pdf,1306,srabon,Babu Siddheshwar Rai,Janmantor,14
+114,UDB-001-1305-06-01-14-SRABON.pdf,1306,srabon,Swami Prakashananda,Sukh,14
+115,UDB-001-1305-06-01-14-SRABON.pdf,1306,srabon,Panditbar Pramathanath Tarkobhushananubadito,Bhagabadgita shankarbhashyanubad,14
+116,UDB-001-1305-06-01-14-SRABON.pdf,1306,srabon,,Murshidabad Anath Ashrom,14
+117,UDB-001-1305-06-01-14-SRABON.pdf,1306,srabon,,Shomalochana,14
+118,UDB-001-1305-06-01-14-SRABON.pdf,1306,srabon,Swami Brahmananda,Paramhansadeber upodesh,14
+119,UDB-001-1305-06-01-15-VADRO.pdf,1306,vadro,,Shomalochana,15
+120,UDB-001-1305-06-01-15-VADRO.pdf,1306,vadro,Swami Brahmananda,Paramhansadeber upodesh,15
+121,UDB-001-1305-06-01-15-VADRO.pdf,1306,vadro,Swami Bibekananda,Bilatjatrir Patro,15
+122,UDB-001-1305-06-01-15-VADRO.pdf,1306,vadro,Daktar Soshibhushan Ghosh,Shasthyo Bigyan,15
+123,UDB-001-1305-06-01-15-VADRO.pdf,1306,vadro,Panditbar Pramathanath Tarkobhushananubadito,Joimini o karmmomimangsha,15
+124,UDB-001-1305-06-01-15-VADRO.pdf,1306,vadro,Babu Prabodhchandra De,Annochinta,15
+125,UDB-001-1305-06-01-15-VADRO.pdf,1306,vadro,Kabibar Girishchandra Ghosh ,Jhaloyar duhita,15
+126,UDB-001-1305-06-01-15-VADRO.pdf,1306,vadro,,Ramkrishna Mission,15
+127,UDB-001-1305-06-01-15-VADRO.pdf,1306,vadro,Panditbar Pramathanath Tarkobhushananubadito,Bhagabadgita shankarbhashyanubad,15
+128,UDB-001-1305-06-01-15-VADRO.pdf,1306,vadro,Swami Brahmananda,Paramhansadeber upodesh,15
+129,UDB-001-1305-06-01-16-VADRO.pdf,1306,vadro,Swami Bibekananda,Bilatjatrir Patro,16
+130,UDB-001-1305-06-01-16-VADRO.pdf,1306,vadro,Pandit Pramathanath Tarkobhushan,Acharya Shankar o mayabad,16
+131,UDB-001-1305-06-01-16-VADRO.pdf,1306,vadro,Kabibar Girishchandra Ghosh ,Jhaloyar duhita,16
+132,UDB-001-1305-06-01-16-VADRO.pdf,1306,vadro,Swami Shuddhananada,Amar Tibbat bhromoner ek poricched,16
+133,UDB-001-1305-06-01-16-VADRO.pdf,1306,vadro,Babu Sarachchandra Chakraborty,Nashadio shukto,16
+134,UDB-001-1305-06-01-16-VADRO.pdf,1306,vadro,Panditbar Pramathanath Tarkobhushananubaditam,Shaririksutra Ramanujabhashyam,16
+135,UDB-001-1305-06-01-16-VADRO.pdf,1306,vadro,Swami Brahmananda,Paramhansadeber upodesh,16
+136,UDB-001-1305-06-01-17-ashyeen.pdf,1306,ashyeen,Swami Bibekananda,Bilatjatrir Patro,17
+137,UDB-001-1305-06-01-17-ashyeen.pdf,1306,ashyeen,Swami Ramkrishnananda,Ramanucharita,17
+138,UDB-001-1305-06-01-17-ashyeen.pdf,1306,ashyeen,Swami Shuddhananada,Amar Tibbat bhromoner ek poricched,17
+139,UDB-001-1305-06-01-17-ashyeen.pdf,1306,ashyeen,Kabibar Girishchandra Ghosh ,Jhaloyar duhita,17
+140,UDB-001-1305-06-01-17-ashyeen.pdf,1306,ashyeen,,Kankurgachi jogodyane Shri Shri Ramkrishnotsav,17
+141,UDB-001-1305-06-01-17-ashyeen.pdf,1306,ashyeen,Panditbar Pramathanath Tarkobhushananubadito,Bhagabadgita shankarbhashyanubad,17
+142,UDB-001-1305-06-01-17-ashyeen.pdf,1306,ashyeen,Swami Brahmananda,Paramhansadeber upodesh,17
+143,UDB-001-1305-06-01-17-ashyeen.pdf,1306,ashyeen,,Anandamoyeer agomon,17
+144,UDB-001-1305-06-01-18-ashyeen.pdf,1306,ashyeen,,Anandamoyeer agomon,18
+145,UDB-001-1305-06-01-18-ashyeen.pdf,1306,ashyeen,Swami Bibekananda,Bilatjatrir Patro,18
+146,UDB-001-1305-06-01-18-ashyeen.pdf,1306,ashyeen,Swami Shuddhananada,Amar Tibbat bhromoner ek poricched,18
+147,UDB-001-1305-06-01-18-ashyeen.pdf,1306,ashyeen,,Murshidabad Anath Ashrom,18
+148,UDB-001-1305-06-01-18-ashyeen.pdf,1306,ashyeen,Kabibar Girishchandra Ghosh ,Jhaloyar duhita,18
+149,UDB-001-1305-06-01-18-ashyeen.pdf,1306,ashyeen,Pandit Rajanikanta Bidyaratna,Mahabhashyam,18
+150,UDB-001-1305-06-01-19-karttik.pdf,1306,karttik,Swami Brahmananda,Paramhansadeber upodesh,19
+151,UDB-001-1305-06-01-19-karttik.pdf,1306,karttik,,Bijoya,19
+152,UDB-001-1305-06-01-19-karttik.pdf,1306,karttik,Swami Bibekananda,Bilatjatrir Patro,19
+153,UDB-001-1305-06-01-19-karttik.pdf,1306,karttik,Swami Bibekananda,Bilatjatrir Patro,19
+154,UDB-001-1305-06-01-19-karttik.pdf,1306,karttik,Swami Shuddhananada,Byabaharik o Paramarthik,19
+155,UDB-001-1305-06-01-19-karttik.pdf,1306,karttik,Babu Prabodhchandra De,Annochinta,19
+156,UDB-001-1305-06-01-19-karttik.pdf,1306,karttik,Kabibar Girishchandra Ghosh ,Jhaloyar duhita,19
+157,UDB-001-1305-06-01-20-karttik.pdf,1306,karttik,Panditbar Pramathanath Tarkobhushananubadito,Bhagabadgita shankarbhashyanubad,20
+158,UDB-001-1305-06-01-20-karttik.pdf,1306,karttik,Swami Brahmananda,Paramhansadeber upodesh,20
+159,UDB-001-1305-06-01-20-karttik.pdf,1306,karttik,Swami Bibekananda,Bilatjatrir Patro,20
+160,UDB-001-1305-06-01-20-karttik.pdf,1306,karttik,Pandit Pramathanath Tarkobhushan,Acharya Shankar o mayabad,20
+161,UDB-001-1305-06-01-20-karttik.pdf,1306,karttik,Babu Girishchandra Ghosh,Baro Bou,20
+162,UDB-001-1305-06-01-20-karttik.pdf,1306,karttik,,Sangkhipta shomalochana,20
+163,UDB-001-1305-06-01-20-karttik.pdf,1306,karttik,Panditbar Pramathanath Tarkobhushananubaditam,Shaririksutra Ramanujabhashyam,20
+164,UDB-001-1305-06-01-20-karttik.pdf,1306,karttik,Swami Brahmananda,Paramhansadeber upodesh,20
+165,UDB-001-1305-06-01-20-karttik.pdf,1306,karttik,Swami Bibekananda,Bilatjatrir Patro,20
+166,UDB-001-1305-06-01-21-Agrohawan.pdf,1306,agrohawan,Swami Shuddhananada,Amar Tibbat bhromoner ar ek poricched,21
+167,UDB-001-1305-06-01-21-Agrohawan.pdf,1306,agrohawan,Babu Sarachchandra Chakraborty,Grihostho o sanyashi,21
+168,UDB-001-1305-06-01-21-Agrohawan.pdf,1306,agrohawan,Pandit Rajanikanta Bidyaratna,Paniniomahabhashyam,21
+169,UDB-001-1305-06-01-21-Agrohawan.pdf,1306,agrohawan,Swami Brahmananda,Paramhansadeber upodesh,21
+170,UDB-001-1305-06-01-22-Agrohawan.pdf,1306,agrohawan,Swami Ramkrishnananda,Ramanujacharita,22
+171,UDB-001-1305-06-01-22-Agrohawan.pdf,1306,agrohawan,Babu Prabodhchandra De,Assamer kotha,22
+172,UDB-001-1305-06-01-22-Agrohawan.pdf,1306,agrohawan,Panditbar Pramathanath Tarkobhushananubadito,Bhagabadgita shankarbhashyanubad,22
+173,UDB-001-1305-06-01-23-Poush.pdf,1306,poush,Swami Brahmananda,Paramhansadeber upodesh,23
+174,UDB-001-1305-06-01-23-Poush.pdf,1306,poush,Swami Bibekananda,Bilatjatrir Patro,23
+175,UDB-001-1305-06-01-23-Poush.pdf,1306,poush,Swami Saradananada,Bedanto o bhakti,23
+176,UDB-001-1305-06-01-23-Poush.pdf,1306,poush,Swami Ramkrishnananda,Ramanujacharita,23
+177,UDB-001-1305-06-01-23-Poush.pdf,1306,poush,,Sahitya Parishad Potika,23
+178,UDB-001-1305-06-01-23-Poush.pdf,1306,poush,,Ramkrishna Mission,23
+179,UDB-001-1305-06-01-23-Poush.pdf,1306,poush,Panditbar Pramathanath Tarkobhushananubaditam,Bedanuto shutrer ramanujabhashyanubad,23
+180,UDB-001-1305-06-01-23-Poush.pdf,1306,poush,Swami Brahmananda,Paramhansadeber upodesh,23
+181,UDB-001-1305-06-01-24-Poush.pdf,1306,poush,Swami Saradananada,Bedanto o bhakti,24
+182,UDB-001-1305-06-01-24-Poush.pdf,1306,poush,Swami Saradananada,Shamalochana,24
+183,UDB-002-1306-7-02-01-Magh.pdf,1306,magh,,Nabobarshopravesh,1
+184,UDB-002-1306-7-02-01-Magh.pdf,1306,magh,Swami Vivekananda,nachuk tahato shama,1
+185,UDB-002-1306-7-02-01-Magh.pdf,1306,magh,Janaika Sanyasi,Rajputanay Durbhikkha,1
+186,UDB-002-1306-7-02-01-Magh.pdf,1306,magh,,Shamalochana,1
+187,UDB-002-1306-7-02-01-Magh.pdf,1306,magh,,Sadhu DurgaCharan Nath,1
+188,UDB-002-1306-7-02-01-Magh.pdf,1306,magh,,Baigyanik,1
+189,UDB-002-1306-7-02-01-Magh.pdf,1306,magh,,Ramkrishna Mission,1
+190,UDB-002-1306-7-02-01-Magh.pdf,1306,magh,Panditbar Pramathnath Tarkabhushan,Shribhajanubad,1
+191,UDB-002-1306-7-02-02-Magh.pdf,1306,magh,,Paramhansadever Updesh,2
+192,UDB-002-1306-7-02-02-Magh.pdf,1306,magh,Pandit Pramathnath Tarkabhushan,Acharya Shankar o mayabad,2
+193,UDB-002-1306-7-02-02-Magh.pdf,1306,magh,,Ramkrishna Mission,2
+194,UDB-002-1306-7-02-02-Magh.pdf,1306,magh,,himalaya,2
+195,UDB-002-1306-7-02-02-Magh.pdf,1306,magh,,himalaya bangalir upnivesh,2
+196,UDB-002-1306-7-02-02-Magh.pdf,1306,magh,Swami Ramkrishnananda,ramanuj-charit,2
+197,UDB-002-1306-7-02-02-Magh.pdf,1306,magh,babu prabodhchandra dey,assamer kotha,2
+198,UDB-002-1306-7-02-02-Magh.pdf,1306,magh,babu amarendra nath chakrabarty,keno mon dhar,2
+199,UDB-002-1306-7-02-02-Magh.pdf,1306,magh,,mahabhashyam,2
+200,UDB-002-1306-7-02-02-Magh.pdf,1306,magh,,prathmadhyashya praprathamapade dwitiyamanhikam,2
+201,UDB-002-1306-7-02-03-Falgoon.pdf,1306,falgoon,,Paramhansadever Updesh,3
+202,UDB-002-1306-7-02-03-Falgoon.pdf,1306,falgoon,Swami Vivekananda,bilatjatrir patra,3
+203,UDB-002-1306-7-02-03-Falgoon.pdf,1306,falgoon,Swami Shuddhananada,vivek bairagya,3
+204,UDB-002-1306-7-02-03-Falgoon.pdf,1306,falgoon,,bharat-sangeet-shamaj,3
+205,UDB-002-1306-7-02-03-Falgoon.pdf,1306,falgoon,,poropokarer drishtanto,3
+206,UDB-002-1306-7-02-03-Falgoon.pdf,1306,falgoon,,shamalochana,3
+207,UDB-002-1306-7-02-03-Falgoon.pdf,1306,falgoon,Pandit Pramathanath Tarkobhushananubadito,Bhagabadgita-shankarbhashyanubad,3
+208,UDB-002-1306-7-02-04-Falgoon.pdf,1306,falgoon,,Paramhansadever Updesh,4
+209,UDB-002-1306-7-02-04-Falgoon.pdf,1306,falgoon,Swami Vivekananda,bilatjatrir patra,4
+210,UDB-002-1306-7-02-04-Falgoon.pdf,1306,falgoon,swami ramkrishnananda,ramanuj charit,4
+211,UDB-002-1306-7-02-04-Falgoon.pdf,1306,falgoon,swami ramkrishnananda,dakhkhinatyer debmandir,4
+212,UDB-002-1306-7-02-04-Falgoon.pdf,1306,falgoon,,ramkrishna-mission america,4
+213,UDB-002-1306-7-02-04-Falgoon.pdf,1306,falgoon,,shamalochana,4
+214,UDB-002-1306-7-02-04-Falgoon.pdf,1306,falgoon,,Bhagabadgita-shankarbhashyanubad,4
+215,UDB-002-1306-7-02-05-Chaitra.pdf,1306,chaitra,Shrima,Shri shri ramkrishna kathamrita,5
+216,UDB-002-1306-7-02-05-Chaitra.pdf,1306,chaitra,Swami Vivekananda,bilatjatrir patra,5
+217,UDB-002-1306-7-02-05-Chaitra.pdf,1306,chaitra,,ramkrishna mission,5
+218,UDB-002-1306-7-02-05-Chaitra.pdf,1306,chaitra,,ramkrishna janmotsab,5
+219,UDB-002-1306-7-02-05-Chaitra.pdf,1306,chaitra,,mahabhashya,5
+220,UDB-002-1306-7-02-06-Chaitra.pdf,1306,chaitra,,swami vivekanander patra,6
+221,UDB-002-1306-7-02-06-Chaitra.pdf,1306,chaitra,Babu Sarachchandra Chakraborty,paap punyo,6
+222,UDB-002-1306-7-02-06-Chaitra.pdf,1306,chaitra,Shri kiranchandra dutta,dosh botshor pore,6
+223,UDB-002-1306-7-02-06-Chaitra.pdf,1306,chaitra,,ramkrishna mission,6
+224,UDB-002-1306-7-02-06-Chaitra.pdf,1306,chaitra,,anath-ashram,6
+225,UDB-002-1306-7-02-06-Chaitra.pdf,1306,chaitra,,joga-bonya,6
+226,UDB-002-1306-7-02-06-Chaitra.pdf,1306,chaitra,,rajputana-anathalay,6
+227,UDB-002-1306-7-02-06-Chaitra.pdf,1306,chaitra,,plague-nibaran karya,6
+228,UDB-002-1306-7-02-06-Chaitra.pdf,1306,chaitra,,murshidabad anath ashram,6
+229,UDB-002-1306-7-02-06-Chaitra.pdf,1307,chaitra,,shribhashyanubad,6
+230,UDB-002-1306-7-02-07-Baishakh.pdf,1307,baishakh,Shrima,Shri shri ramkrishna kathamrita,7
+231,UDB-002-1306-7-02-07-Baishakh.pdf,1307,baishakh,Swami Vivekananda,barttaman bharat,7
+232,UDB-002-1306-7-02-07-Baishakh.pdf,1307,baishakh,swami ramkrishnananda,udyomsheel markin jubak,7
+233,UDB-002-1306-7-02-07-Baishakh.pdf,1307,baishakh,Babu Sarachchandra Chakraborty,prashnattor,7
+234,UDB-002-1306-7-02-07-Baishakh.pdf,1307,baishakh,,ramkrishna mission,7
+235,UDB-002-1306-7-02-07-Baishakh.pdf,1307,baishakh,,shankarbhashyanubad,7
+236,UDB-002-1306-7-02-07-Baishakh.pdf,1307,baishakh,,bhagwadgita,7
+237,UDB-002-1306-7-02-08-Baishakh.pdf,1307,baishakh,,ishwar ki kebol dayamoy,8
+238,UDB-002-1306-7-02-08-Baishakh.pdf,1307,baishakh,Swami Vivekananda,barttaman bharat,8
+239,UDB-002-1306-7-02-08-Baishakh.pdf,1307,baishakh,,ramkrishna mission,8
+240,UDB-002-1306-7-02-08-Baishakh.pdf,1307,baishakh,,shamalochna,8
+241,UDB-002-1306-7-02-08-Baishakh.pdf,1307,baishakh,,shankarbhashyanubad,8
+242,UDB-002-1306-7-02-09-ashar.pdf,1307,ashar,Shrima,shri shri ramkrishna kathamrita,9
+243,UDB-002-1306-7-02-09-ashar.pdf,1307,ashar,babu manomohan gangapadhyay,jwalan,9
+244,UDB-002-1306-7-02-09-ashar.pdf,1307,ashar,Swami Shuddhananada,bhalobasha,9
+245,UDB-002-1306-7-02-09-ashar.pdf,1307,ashar,,ramkrishna mission,9
+246,UDB-002-1306-7-02-09-ashar.pdf,1307,ashar,,shamalochna,9
+247,UDB-002-1306-7-02-09-ashar.pdf,1307,ashar,,shribhashyanubad,9
+248,UDB-002-1306-7-02-10-ashar.pdf,1307,ashar,Swami Vivekananda,prachya o pashchatya,10
+249,UDB-002-1306-7-02-10-ashar.pdf,1307,ashar,Babu anukulchandra ghosh,hirak-twatta,10
+250,UDB-002-1306-7-02-10-ashar.pdf,1307,ashar,babu prabodhchandra dey,assamer katha,10
+251,UDB-002-1306-7-02-10-ashar.pdf,1307,ashar,,bhabda-anathashram,10
+252,UDB-002-1306-7-02-10-ashar.pdf,1307,ashar,,himalaye bangalir upanivesh,10
+253,UDB-002-1306-7-02-10-ashar.pdf,1307,ashar,,shankarbhashyanubad,10
+254,UDB-002-1306-7-02-11-srabon.pdf,1307,srabon,Swami Vivekananda,prachya o pashchatya,11
+255,UDB-002-1306-7-02-11-srabon.pdf,1307,srabon,Babu anukulchandra ghosh,hirak-twatta,11
+256,UDB-002-1306-7-02-11-srabon.pdf,1307,srabon,,kanchipur prachya sahitya sabha,11
+257,UDB-002-1306-7-02-11-srabon.pdf,1307,srabon,babu prabodhchandra dey,assamer katha,11
+258,UDB-002-1306-7-02-11-srabon.pdf,1307,srabon,,shankarbhashanubad,11
+259,UDB-002-1306-7-02-12-srabon.pdf,1307,srabon,Swami Vivekananda,pracha auo pashchata,12
+260,UDB-002-1306-7-02-12-srabon.pdf,1307,srabon,Babu anukulchandra ghosh,hirak-twatta,12
+261,UDB-002-1306-7-02-12-srabon.pdf,1307,srabon,bhikshu devi das,kon pothe jai?,12
+262,UDB-002-1306-7-02-12-srabon.pdf,1307,srabon,babu prabodhchandra dey,assamer kotha,12
+263,UDB-002-1306-7-02-12-srabon.pdf,1307,srabon,,shamalochana,12
+264,UDB-002-1306-7-02-12-srabon.pdf,1307,srabon,,shankarbhashyanubad,12
+265,UDB-002-1306-7-02-13-vadro.pdf,1307,vadro,babu prabodhchandra dey,hindu-sabha,13
+266,UDB-002-1306-7-02-13-vadro.pdf,1307,vadro,,assamer katha,13
+267,UDB-002-1306-7-02-13-vadro.pdf,1307,vadro,,ramkrishna mission,13
+268,UDB-002-1306-7-02-13-vadro.pdf,1307,vadro,,shamalochana,13
+269,UDB-002-1306-7-02-13-vadro.pdf,1307,vadro,,shankarbhashyanubad,13
+270,UDB-002-1306-7-02-14-vadro.pdf,1307,vadro,Swami Saradananada,parlokbad,14
+271,UDB-002-1306-7-02-14-vadro.pdf,1307,vadro,bhikshu-devidas,kon pothe jai,14
+272,UDB-002-1306-7-02-14-vadro.pdf,1307,vadro,pandit pramathanath tarkbhushan,sti-shiksha,14
+273,UDB-002-1306-7-02-14-vadro.pdf,1307,vadro,babu prabodhchandra dey,assamer kotha,14
+274,UDB-002-1306-7-02-14-vadro.pdf,1307,vadro,,durbhikkha-funde prapti shwikar,14
+275,UDB-002-1306-7-02-14-vadro.pdf,1307,vadro,Babu Sarachchandra Chakraborty,shamshan kali,14
+276,UDB-002-1306-7-02-14-vadro.pdf,1307,vadro,,shankarbhashyanubad,14
+277,UDB-002-1306-7-02-14-vadro.pdf,1307,vadro,,ath chaturthahdhyay,14
+278,UDB-002-1306-7-02-15-Ashyeen.pdf,1307,ashyeen,Swami Saradananada,parlokbad,15
+279,UDB-002-1306-7-02-15-Ashyeen.pdf,1307,ashyeen,Swami Shuddhananada,adarsh o bastab,15
+280,UDB-002-1306-7-02-15-Ashyeen.pdf,1307,ashyeen,swami sachchidananda,bharoter jatio jiban,15
+281,UDB-002-1306-7-02-15-Ashyeen.pdf,1307,ashyeen,babu prabodhchandra dey,assamer kotha,15
+282,UDB-002-1306-7-02-15-Ashyeen.pdf,1307,ashyeen,,baigyanik proshongo,15
+283,UDB-002-1306-7-02-15-Ashyeen.pdf,1307,ashyeen,,shamalochana,15
+284,UDB-002-1306-7-02-15-Ashyeen.pdf,1307,ashyeen,,shankarbhashyanubad,15
+285,UDB-002-1306-7-02-16-Ashyeen.pdf,1307,ashyeen,Swami Vivekananda,gyanyog,16
+286,UDB-002-1306-7-02-16-Ashyeen.pdf,1307,ashyeen,,amba-stotram,16
+287,UDB-002-1306-7-02-16-Ashyeen.pdf,1307,ashyeen,Swami Shuddhananada,giti-twatta,16
+288,UDB-002-1306-7-02-16-Ashyeen.pdf,1307,ashyeen,swami sachchidananda,bharoter jatio jiban,16
+289,UDB-002-1306-7-02-16-Ashyeen.pdf,1307,ashyeen,swami bimalananda,dharmma,16
+290,UDB-002-1306-7-02-16-Ashyeen.pdf,1307,ashyeen,babu haridas chattapadhayay,baigyanik karya-karan-bad,16
+291,UDB-002-1306-7-02-16-Ashyeen.pdf,1307,ashyeen,babu prabodhchandra dey,assamer kotha,16
+292,UDB-002-1306-7-02-16-Ashyeen.pdf,1307,ashyeen,,ramkrishna mission,16
+293,UDB-002-1306-7-02-16-Ashyeen.pdf,1307,ashyeen,,shankarbhashanubad,16
+294,UDB-002-1306-7-02-17-Karttik.pdf,1307,karttik,,gyanyog (sanyashir geeti),17
+295,UDB-002-1306-7-02-17-Karttik.pdf,1307,karttik,,maya,17
+296,UDB-002-1306-7-02-17-Karttik.pdf,1307,karttik,,anath-ashram o jatiyo upakarita,17
+297,UDB-002-1306-7-02-17-Karttik.pdf,1307,karttik,,murshidabad-anathashram,17
+298,UDB-002-1306-7-02-17-Karttik.pdf,1307,karttik,,rajputana-anathaloy,17
+299,UDB-002-1306-7-02-17-Karttik.pdf,1307,karttik,Babu Sarachchandra Chakraborty,shristitwatta,17
+300,UDB-002-1306-7-02-17-Karttik.pdf,1307,karttik,,shamalochana,17
+301,UDB-002-1306-7-02-17-Karttik.pdf,1307,karttik,,prapti swikar,17
+302,UDB-002-1306-7-02-17-Karttik.pdf,1307,karttik,,shankarbhashyanubad,17
+303,UDB-002-1306-7-02-18-Karttik.pdf,1307,karttik,Swami Shuddhananada,banga-yubaker prati,18
+304,UDB-002-1306-7-02-18-Karttik.pdf,1307,karttik,,jatiyatwa bodh,18
+305,UDB-002-1306-7-02-18-Karttik.pdf,1307,karttik,,shot-ichcha,18
+306,UDB-002-1306-7-02-18-Karttik.pdf,1307,karttik,,shongkhipta alochana,18
+307,UDB-002-1306-7-02-18-Karttik.pdf,1307,karttik,,maya,18
+308,UDB-002-1306-7-02-18-Karttik.pdf,1307,karttik,,shankarbhashyanubad,18
+309,UDB-002-1306-7-02-19-Agrohawan.pdf,1307,agrohawan,Swami Vivekananda,prachya o pashchatya,19
+310,UDB-002-1306-7-02-19-Agrohawan.pdf,1307,agrohawan,,adda,19
+311,UDB-002-1306-7-02-19-Agrohawan.pdf,1307,agrohawan,babu prabodhchandra dey,assamer katha,19
+312,UDB-002-1306-7-02-19-Agrohawan.pdf,1307,agrohawan,,maya,19
+313,UDB-002-1306-7-02-19-Agrohawan.pdf,1307,agrohawan,,manusher jathartha swarup,19
+314,UDB-002-1306-7-02-19-Agrohawan.pdf,1307,agrohawan,,shankarbhashyanubad,19
+315,UDB-002-1306-7-02-20-Agrohawan.pdf,1307,agrohawan,swami bramhananda,pramhansadever updesh,20
+316,UDB-002-1306-7-02-20-Agrohawan.pdf,1307,agrohawan,,paris prodshoni,20
+317,UDB-002-1306-7-02-20-Agrohawan.pdf,1307,agrohawan,swami ramkrishnananda,shri ramanuja charit,20
+318,UDB-002-1306-7-02-20-Agrohawan.pdf,1307,agrohawan,,manusher jathartha swarup,20
+319,UDB-002-1306-7-02-20-Agrohawan.pdf,1307,agrohawan,,shankarbhashyanubad,20
+320,UDB-002-1306-7-02-21-Poush.pdf,1307,poush,Shrima Kathito,Shri Shri Ramkrishna Kathamrito,21
+321,UDB-002-1306-7-02-21-Poush.pdf,1307,poush,,manusher jathartha swarup,21
+322,UDB-002-1306-7-02-21-Poush.pdf,1307,poush,,mahabhashya,21
+323,UDB-002-1306-7-02-22-Poush.pdf,1307,poush,Shrima Kathito,Shri Shri Ramkrishna Kathamrito,22
+324,UDB-002-1306-7-02-22-Poush.pdf,1307,poush,babu prabodhchandra dey,assamer kotha,22
+325,UDB-002-1306-7-02-22-Poush.pdf,1307,poush,,manusher jathartha swarup,22
+326,UDB-002-1306-7-02-22-Poush.pdf,1307,poush,,atha panchamadhyay,22
+327,UDB-003-1307-8-03-01-Magh.pdf,1307,magh,Swami Brahmananda Pradatta,Paramhansadeber upodesh,1
+328,UDB-003-1307-8-03-01-Magh.pdf,1307,magh,,Nabanuraag,1
+329,UDB-003-1307-8-03-01-Magh.pdf,1307,magh,Swami Shuddhananada,Ganga-Bokkhe,1
+330,UDB-003-1307-8-03-01-Magh.pdf,1307,magh,Swami Vivekananda,Paribrajak,1
+331,UDB-003-1307-8-03-01-Magh.pdf,1307,magh,,Paanch Katha,1
+332,UDB-003-1307-8-03-01-Magh.pdf,1307,magh,,prapti swikar,1
+333,UDB-003-1307-8-03-01-Magh.pdf,1307,magh,,manusher jathartha swarup,1
+334,UDB-003-1307-8-03-01-Magh.pdf,1307,magh,,mahabhashya,1
+335,UDB-003-1307-8-03-02-Magh.pdf,1307,magh,Swami Vivekananda,Prachya o Paschatya,2
+336,UDB-003-1307-8-03-02-Magh.pdf,1307,magh,swami sachchidananda,Uponishoder Bishoy,2
+337,UDB-003-1307-8-03-02-Magh.pdf,1307,magh,,Shomalochana,2
+338,UDB-003-1307-8-03-02-Magh.pdf,1307,magh,,manusher jathartha swarup,2
+339,UDB-003-1307-8-03-02-Magh.pdf,1307,magh,,gyanyog,2
+340,UDB-003-1307-8-03-02-Magh.pdf,1307,magh,,shankarbhashyanubad,2
+341,UDB-003-1307-8-03-03-Falgoon.pdf,1307,falgoon,Swami Brahmananda,Paramhansadeber upodesh,3
+342,UDB-003-1307-8-03-03-Falgoon.pdf,1307,falgoon,Srijukto Girish Chandra Ghosh,Priti Upohar,3
+343,UDB-003-1307-8-03-03-Falgoon.pdf,1307,falgoon,Swami Vivekananda,Paribrajak,3
+344,UDB-003-1307-8-03-03-Falgoon.pdf,1307,falgoon,swami sachchidananda,Uponishoder Bishoy,3
+345,UDB-003-1307-8-03-03-Falgoon.pdf,1307,falgoon,,Paanch Katha,3
+346,UDB-003-1307-8-03-03-Falgoon.pdf,1307,falgoon,,manusher jathartha swarup,3
+347,UDB-003-1307-8-03-03-Falgoon.pdf,1307,falgoon,,Maya o Ishwardharanar Kramabikash,3
+348,UDB-003-1307-8-03-03-Falgoon.pdf,1307,falgoon,,shankarbhashyanubad,3
+349,UDB-003-1307-8-03-04-Falgoon.pdf,1307,falgoon,Swami Vivekananda,Prachya o Paschatya,4
+350,UDB-003-1307-8-03-04-Falgoon.pdf,1307,falgoon,,Sri Sri Ramkrishna Kathamrita,4
+351,UDB-003-1307-8-03-04-Falgoon.pdf,1307,falgoon,,Maya o Ishwardharanar Kramabikash,4
+352,UDB-003-1307-8-03-04-Falgoon.pdf,1307,falgoon,,Mahabhashya,4
+353,UDB-003-1307-8-03-05-Chaitra.pdf,1307,chaitra,Swami Vivekananda,Prachya o Paschatya,5
+354,UDB-003-1307-8-03-05-Chaitra.pdf,1307,chaitra,Sri Shankar Chakraborty,Mukti,5
+355,UDB-003-1307-8-03-05-Chaitra.pdf,1307,chaitra,Shrima,Sri Sri Ramkrishna Kathamrita,5
+356,UDB-003-1307-8-03-05-Chaitra.pdf,1307,chaitra,,Sri Ramkrishna Mahotsav,5
+357,UDB-003-1307-8-03-05-Chaitra.pdf,1307,chaitra,,Paanch Katha,5
+358,UDB-003-1307-8-03-05-Chaitra.pdf,1307,chaitra,,Maya o Mukti,5
+359,UDB-003-1307-8-03-05-Chaitra.pdf,1307,chaitra,,shankarbhashyanubad,5
+360,UDB-003-1307-8-03-06-Chaitra.pdf,1307,chaitra,Daktar Soshibhushan Ghosh,Sukdeb Charit,6
+361,UDB-003-1307-8-03-06-Chaitra.pdf,1307,chaitra,Shri Charachchandra Chakraborty,Mrityu,6
+362,UDB-003-1307-8-03-06-Chaitra.pdf,1307,chaitra,,Ar Na,6
+363,UDB-003-1307-8-03-06-Chaitra.pdf,1307,chaitra,,Maya Mukti,6
+364,UDB-003-1307-8-03-06-Chaitra.pdf,1307,chaitra,,Brahma O Jagat,6
+365,UDB-003-1307-8-03-06-Chaitra.pdf,1307,chaitra,,Mahabhashya,6
+366,UDB-003-1307-8-03-07-Baishakh.pdf,1308,baishakh,Swami Vivekananda,Prachya o Paschatya,7
+367,UDB-003-1307-8-03-07-Baishakh.pdf,1308,baishakh,Shri Charachchandra Chakraborty,Deradun,7
+368,UDB-003-1307-8-03-07-Baishakh.pdf,1308,baishakh,Swami Shuddhananada,Mostishko o shikkha,7
+369,UDB-003-1307-8-03-07-Baishakh.pdf,1308,baishakh,Shri Haridas Dutta,Nutan Batsar,7
+370,UDB-003-1307-8-03-07-Baishakh.pdf,1308,baishakh,,Brahma O Jagat,7
+371,UDB-003-1307-8-03-07-Baishakh.pdf,1308,baishakh,,Mahabhashya,7
+372,UDB-003-1307-8-03-08-Baishakh.pdf,1308,baishakh,Sarachchandra Chakraborty,Ekotto o Bahutto,8
+373,UDB-003-1307-8-03-08-Baishakh.pdf,1308,baishakh,,Swami Vivekananda (Dhaka),8
+374,UDB-003-1307-8-03-08-Baishakh.pdf,1308,baishakh,Shri Haridas Dutta,Artho,8
+375,UDB-003-1307-8-03-08-Baishakh.pdf,1308,baishakh,,Brahma O Jagat,8
+376,UDB-003-1307-8-03-08-Baishakh.pdf,1308,baishakh,,Jagat,8
+377,UDB-003-1307-8-03-08-Baishakh.pdf,1308,baishakh,,shankarbhashyanubad,8
+378,UDB-003-1307-8-03-08-Baishakh.pdf,1308,baishakh,,Atho Shashthodhyay,8
+379,UDB-003-1307-8-03-09-ashar.pdf,1308,ashar,,Dharmma Jogote Guru,9
+380,UDB-003-1307-8-03-09-ashar.pdf,1308,ashar,Shrima,Sri Sri Ramkrishna Kathamrita,9
+381,UDB-003-1307-8-03-09-ashar.pdf,1308,ashar,,Jogot,9
+382,UDB-003-1307-8-03-09-ashar.pdf,1308,ashar,,Mahabhashya,9
+383,UDB-003-1307-8-03-10-ashar.pdf,1308,ashar,Shrima,Sri Sri Ramkrishna Kathamrita,10
+384,UDB-003-1307-8-03-10-ashar.pdf,1308,ashar,swami prakashananda,bhagabatkripa o shadhan,10
+385,UDB-003-1307-8-03-10-ashar.pdf,1308,ashar,swami ramkrishnananda,shri shri ramanuja charita,10
+386,UDB-003-1307-8-03-10-ashar.pdf,1308,ashar,,ramkrishna mission,10
+387,UDB-003-1307-8-03-10-ashar.pdf,1308,ashar,,jogot,10
+388,UDB-003-1307-8-03-10-ashar.pdf,1308,ashar,,shankarbhashyanubad,10
+389,UDB-003-1307-8-03-11-srabon.pdf,1308,srabon,Shrima,Sri Sri Ramkrishna Kathamrita,11
+390,UDB-003-1307-8-03-11-srabon.pdf,1308,srabon,swami ramkrishnananda,shri shri ramanuja charita,11
+391,UDB-003-1307-8-03-11-srabon.pdf,1308,srabon,,jogot,11
+392,UDB-003-1307-8-03-11-srabon.pdf,1308,srabon,,amritya,11
+393,UDB-003-1307-8-03-11-srabon.pdf,1308,srabon,,shankarbhashyanubad,11
+394,UDB-003-1307-8-03-12-srabon.pdf,1308,srabon,Shrima,Sri Sri Ramkrishna Kathamrita,12
+395,UDB-003-1307-8-03-12-srabon.pdf,1308,srabon,Shri Charachchandra Chakraborty,duiti bandhu,12
+396,UDB-003-1307-8-03-12-srabon.pdf,1308,srabon,shri atal chandra nath,manabjiban--udeshya ebong unnati,12
+397,UDB-003-1307-8-03-12-srabon.pdf,1308,srabon,swami sachchidananda,sadashib,12
+398,UDB-003-1307-8-03-12-srabon.pdf,1308,srabon,,amritatta,12
+399,UDB-003-1307-8-03-12-srabon.pdf,1308,srabon,,shankarbhashyanubad,12
+400,UDB-003-1307-8-03-13-vadro.pdf,1308,vadro,,agyapalan,13
+401,UDB-003-1307-8-03-13-vadro.pdf,1308,vadro,Shrima,Sri Sri Ramkrishna Kathamrita,13
+402,UDB-003-1307-8-03-13-vadro.pdf,1308,vadro,,bohutye ekatyo,13
+403,UDB-003-1307-8-03-13-vadro.pdf,1308,vadro,,shankarbhashyanubad,13
+404,UDB-003-1307-8-03-14-vadro.pdf,1308,vadro,,agyapalan,14
+405,UDB-003-1307-8-03-14-vadro.pdf,1308,vadro,swami ramkrishnananda,shri shri ramanuja charita,14
+406,UDB-003-1307-8-03-14-vadro.pdf,1308,vadro,,ramkrishna-shevashram,14
+407,UDB-003-1307-8-03-14-vadro.pdf,1308,vadro,,bohutye ekatyo,14
+408,UDB-003-1307-8-03-14-vadro.pdf,1308,vadro,,sarbbo bostute brahma darshan,14
+409,UDB-003-1307-8-03-14-vadro.pdf,1308,vadro,,Mahabhashya,14
+410,UDB-003-1307-8-03-15-Ashyeen.pdf,1308,ashyeen,Shrima,Sri Sri Ramkrishna Kathamrita,15
+411,UDB-003-1307-8-03-15-Ashyeen.pdf,1308,ashyeen,,krishi-bank ba polli-bhandar,15
+412,UDB-003-1307-8-03-15-Ashyeen.pdf,1308,ashyeen,swami ramkrishnananda,shri shri ramanuja charita,15
+413,UDB-003-1307-8-03-15-Ashyeen.pdf,1308,ashyeen,,murshidabad-anathashram,15
+414,UDB-003-1307-8-03-15-Ashyeen.pdf,1308,ashyeen,,sarbbo bostute brahma darshan,15
+415,UDB-003-1307-8-03-15-Ashyeen.pdf,1308,ashyeen,,shankarbhashyanubad,15
+416,UDB-003-1307-8-03-16-Ashyeen.pdf,1308,ashyeen,Shri Charachchandra Chakraborty,prakriti,16
+417,UDB-003-1307-8-03-16-Ashyeen.pdf,1308,ashyeen,shri anukul chandra ghosh,baigyanik katha,16
+418,UDB-003-1307-8-03-16-Ashyeen.pdf,1308,ashyeen,Shrima,Sri Sri Ramkrishna Kathamrita,16
+419,UDB-003-1307-8-03-16-Ashyeen.pdf,1308,ashyeen,Shri Haridas Dutta,jibon-kusum,16
+420,UDB-003-1307-8-03-16-Ashyeen.pdf,1308,ashyeen,,sarbbo bostute brahma darshan,16
+421,UDB-003-1307-8-03-16-Ashyeen.pdf,1308,ashyeen,,aporokhkhanubhuti,16
+422,UDB-003-1307-8-03-16-Ashyeen.pdf,1308,ashyeen,,Mahabhashya,16
+423,UDB-003-1307-8-03-17-Karttik.pdf,1308,karttik,Shrima,Sri Sri Ramkrishna Kathamrita,17
+424,UDB-003-1307-8-03-17-Karttik.pdf,1308,karttik,,ramkrishna-shevashram,17
+425,UDB-003-1307-8-03-17-Karttik.pdf,1308,karttik,swami ramkrishnananda,shrishriramanujacharit,17
+426,UDB-003-1307-8-03-17-Karttik.pdf,1308,karttik,,aporokhkhanubhuti,17
+427,UDB-003-1307-8-03-17-Karttik.pdf,1308,karttik,,shankarbhashyanubad,17
+428,UDB-003-1307-8-03-18-Karttik.pdf,1308,karttik,Shrima,Sri Sri Ramkrishna Kathamrita,18
+429,UDB-003-1307-8-03-18-Karttik.pdf,1308,karttik,Sharachchandra Chakraborty,ashcharjya somonyoy,18
+430,UDB-003-1307-8-03-18-Karttik.pdf,1308,karttik,shriprabodh chandra dey,krishi-bank ba polli-bhandar,18
+431,UDB-003-1307-8-03-18-Karttik.pdf,1308,karttik,,aporokhkhanubhuti,18
+432,UDB-003-1307-8-03-18-Karttik.pdf,1308,karttik,,Mahabhashya,18
+433,UDB-003-1307-8-03-19-Agrohawan.pdf,1308,agrohawan,Shrima,Sri Sri Ramkrishna Kathamrita,19
+434,UDB-003-1307-8-03-19-Agrohawan.pdf,1308,agrohawan,Shri Sharachchandra Chakraborty,tyag,19
+435,UDB-003-1307-8-03-19-Agrohawan.pdf,1308,agrohawan,swami ramkrishnananda,shrishriramanujcharit,19
+436,UDB-003-1307-8-03-19-Agrohawan.pdf,1308,agrohawan,,aporokhkhanubhuti,19
+437,UDB-003-1307-8-03-19-Agrohawan.pdf,1308,agrohawan,,atmar muktoswabhav,19
+438,UDB-003-1307-8-03-19-Agrohawan.pdf,1308,agrohawan,,Mahabhashya,19
+439,UDB-003-1307-8-03-20-Agrohawan.pdf,1308,agrohawan,Shrima,Sri Sri Ramkrishna Kathamrita,20
+440,UDB-003-1307-8-03-20-Agrohawan.pdf,1308,agrohawan,shri prabodh chandra dey,krishi-bank ba polli-bhandar,20
+441,UDB-003-1307-8-03-20-Agrohawan.pdf,1308,agrohawan,swami vivekananda,dharmer aboshyakta,20
+442,UDB-003-1307-8-03-20-Agrohawan.pdf,1308,agrohawan,,ramkrishna-sevashram,20
+443,UDB-003-1307-8-03-20-Agrohawan.pdf,1308,agrohawan,,atmar muktoswabhav,20
+444,UDB-003-1307-8-03-20-Agrohawan.pdf,1308,agrohawan,,shankarbhashyanubad,20
+445,UDB-003-1307-8-03-21-Poush.pdf,1308,poush,Shrima,Sri Sri Ramkrishna Kathamrita,21
+446,UDB-003-1307-8-03-21-Poush.pdf,1308,poush,swami ramkrishnananda,shrishriramanujacharit,21
+447,UDB-003-1307-8-03-21-Poush.pdf,1308,poush,swami vivekananda,dharmer aboshyakta,21
+448,UDB-003-1307-8-03-21-Poush.pdf,1308,poush,,karmojibone bedanto,21
+449,UDB-003-1307-8-03-21-Poush.pdf,1308,poush,,Mahabhashya,21
+450,UDB-003-1307-8-03-22-Poush.pdf,1308,poush,Shrima,Sri Sri Ramkrishna Kathamrita,22
+451,UDB-003-1307-8-03-22-Poush.pdf,1308,poush,swami vivekananda,dharmer aboshyakta,22
+452,UDB-003-1307-8-03-22-Poush.pdf,1308,poush,,karmojibone bedanto,22
+453,UDB-003-1307-8-03-22-Poush.pdf,1308,poush,,Mahabhashya,22
+454,UDB-004-1308-9-04-01-Magh.pdf,1308,magh,babu avinashchandra gangopadhyay,ke tumi?,1
+455,UDB-004-1308-9-04-01-Magh.pdf,1308,magh,shrima likhita,Sri Sri Ramkrishna Kathamrita,1
+456,UDB-004-1308-9-04-01-Magh.pdf,1308,magh,,aronye rodan,1
+457,UDB-004-1308-9-04-01-Magh.pdf,1308,magh,,shri shri ramkrishna sevashram,1
+458,UDB-004-1308-9-04-01-Magh.pdf,1308,magh,,karmojibone bedanto,1
+459,UDB-004-1308-9-04-01-Magh.pdf,1308,magh,,shankarbhashyanubad,1
+460,UDB-004-1308-9-04-01-Magh.pdf,1308,magh,,atha ashtomohodhdhay,1
+461,UDB-004-1308-9-04-02-Magh.pdf,1308,magh,babu girishchandra ghosh,dharma,2
+462,UDB-004-1308-9-04-02-Magh.pdf,1308,magh,,hindubibah o sir edwin arnold,2
+463,UDB-004-1308-9-04-02-Magh.pdf,1308,magh,,digby o shriramkrishna,2
+464,UDB-004-1308-9-04-02-Magh.pdf,1308,magh,,sister nivedita,2
+465,UDB-004-1308-9-04-02-Magh.pdf,1308,magh,,shamalochana,2
+466,UDB-004-1308-9-04-02-Magh.pdf,1308,magh,,prapti swikar,2
+467,UDB-004-1308-9-04-02-Magh.pdf,1308,magh,,shri shri ramkrishna janmomahotsav,2
+468,UDB-004-1308-9-04-02-Magh.pdf,1308,magh,,karmojibone bedanto,2
+469,UDB-004-1308-9-04-02-Magh.pdf,1308,magh,,Mahabhashya,2
+470,UDB-004-1308-9-04-03-Falgoon.pdf,1308,falgoon,Shrima,Sri Sri Ramkrishna Kathamrita,3
+471,UDB-004-1308-9-04-03-Falgoon.pdf,1308,falgoon,swami trigunateeta,kaminikanchan o bhaktibishwas,3
+472,UDB-004-1308-9-04-03-Falgoon.pdf,1308,falgoon,,karmojibone bedanto,3
+473,UDB-004-1308-9-04-03-Falgoon.pdf,1308,falgoon,,karmojibone bedanto,3
+474,UDB-004-1308-9-04-03-Falgoon.pdf,1308,falgoon,,Mahabhashya,3
+475,UDB-004-1308-9-04-04-Falgoon.pdf,1308,falgoon,shri haridas datta,basanta-agaman,4
+476,UDB-004-1308-9-04-04-Falgoon.pdf,1308,falgoon,shri sarat chandra chakraborty,guru ke?,4
+477,UDB-004-1308-9-04-04-Falgoon.pdf,1308,falgoon,swami ramkrishnananda,shrishriramanujcharit,4
+478,UDB-004-1308-9-04-04-Falgoon.pdf,1308,falgoon,shri anukulchandra ghosh,baigyanik katha,4
+479,UDB-004-1308-9-04-04-Falgoon.pdf,1308,falgoon,,sir lepel griffin o hindudharma,4
+480,UDB-004-1308-9-04-04-Falgoon.pdf,1308,falgoon,,shamalochana,4
+481,UDB-004-1308-9-04-04-Falgoon.pdf,1308,falgoon,,karmojibone bedanto,4
+482,UDB-004-1308-9-04-04-Falgoon.pdf,1308,falgoon,,Mahabhashya,4
+483,UDB-004-1308-9-04-05-Chaitra.pdf,1308,chaitra,shrima likhita,Sri Sri Ramkrishna Kathamrita,5
+484,UDB-004-1308-9-04-05-Chaitra.pdf,1308,chaitra,Swami Shuddhananada,marone jeeban,5
+485,UDB-004-1308-9-04-05-Chaitra.pdf,1308,chaitra,,karmojibone bedanto,5
+486,UDB-004-1308-9-04-05-Chaitra.pdf,1308,chaitra,,Mahabhashya,5
+487,UDB-004-1308-9-04-06-Chaitra.pdf,1308,chaitra,Shri Sarachchandra Chakraborty,kaali,6
+488,UDB-004-1308-9-04-06-Chaitra.pdf,1308,chaitra,swami ramkrishnananda,shrishriramanujcharit,6
+489,UDB-004-1308-9-04-06-Chaitra.pdf,1308,chaitra,shri shiddheshwar ray,bharoter bhabishyat,6
+490,UDB-004-1308-9-04-06-Chaitra.pdf,1308,chaitra,,shri shri ramkrishna janmomahotsav,6
+491,UDB-004-1308-9-04-06-Chaitra.pdf,1308,chaitra,,karmojibone bedanto,6
+492,UDB-004-1308-9-04-06-Chaitra.pdf,1308,chaitra,,Mahabhashya,6
+493,UDB-004-1308-9-04-07-Baishakh.pdf,1309,baishakh,shrima likhita,Sri Sri Ramkrishna Kathamrita,7
+494,UDB-004-1308-9-04-07-Baishakh.pdf,1309,baishakh,,karmojibone bedanto,7
+495,UDB-004-1308-9-04-07-Baishakh.pdf,1309,baishakh,,ekti swapnno,7
+496,UDB-004-1308-9-04-07-Baishakh.pdf,1309,baishakh,,tarkobudhdhi,7
+497,UDB-004-1308-9-04-07-Baishakh.pdf,1309,baishakh,,indrer brahmagyanlabh,7
+498,UDB-004-1308-9-04-07-Baishakh.pdf,1309,baishakh,,Mahabhashya,7
+499,UDB-004-1308-9-04-08-Baishakh.pdf,1309,baishakh,shrima likhita,Sri Sri Ramkrishna Kathamrita,8
+500,UDB-004-1308-9-04-08-Baishakh.pdf,1309,baishakh,,shamalochana,8
+501,UDB-004-1308-9-04-08-Baishakh.pdf,1309,baishakh,,Mahabhashya,8
+502,UDB-004-1308-9-04-09-Ashar.pdf,1309,ashar,,hindudharma o shriramkrishna,9
+503,UDB-004-1308-9-04-09-Ashar.pdf,1309,ashar,Shri Sarachchandra Chakraborty,kromabhibyaktibad,9
+504,UDB-004-1308-9-04-09-Ashar.pdf,1309,ashar,swami ramkrishnananda,shrishriramanujcharit,9
+505,UDB-004-1308-9-04-09-Ashar.pdf,1309,ashar,,shardananda swamir boktritar sharangsha,9
+506,UDB-004-1308-9-04-09-Ashar.pdf,1309,ashar,,bairagya na unmottota?,9
+507,UDB-004-1308-9-04-09-Ashar.pdf,1309,ashar,,shankarbhashyanubad,9
+508,UDB-004-1308-9-04-10-Ashar.pdf,1309,ashar,swami ramkrishnananda,shrishriramanujcharit,10
+509,UDB-004-1308-9-04-10-Ashar.pdf,1309,ashar,,dhrubacharitra,10
+510,UDB-004-1308-9-04-10-Ashar.pdf,1309,ashar,,ashol o nakal,10
+511,UDB-004-1308-9-04-10-Ashar.pdf,1309,ashar,,shadhoker swagatakti,10
+512,UDB-004-1308-9-04-10-Ashar.pdf,1309,ashar,,shankarbhashyanubad,10
+513,UDB-004-1308-9-04-11-Srabon.pdf,1309,srabon,,swami bibekanander mahasamadhi,11
+514,UDB-004-1308-9-04-11-Srabon.pdf,1309,srabon,swami ramkrishnananda,shrishriramanujcharit,11
+515,UDB-004-1308-9-04-11-Srabon.pdf,1309,srabon,,shardananda swamir boktritar sharangsha,11
+516,UDB-004-1308-9-04-11-Srabon.pdf,1309,srabon,swami trigunateet,brahmacharya,11
+517,UDB-004-1308-9-04-11-Srabon.pdf,1309,srabon,,Mahabhashya,11
+518,UDB-004-1308-9-04-12-Srabon.pdf,1309,srabon,,shardananda swamir boktritar sharangsha,12
+519,UDB-004-1308-9-04-12-Srabon.pdf,1309,srabon,,dhrubacharitra,12
+520,UDB-004-1308-9-04-12-Srabon.pdf,1309,srabon,,sadhana,12
+521,UDB-004-1308-9-04-13-Vadra.pdf,1309,vadra,,shardananda swamir boktritar sharangsha,13
+522,UDB-004-1308-9-04-13-Vadra.pdf,1309,vadra,shrijukto narayan brahmachari,mantrayog,13
+523,UDB-004-1308-9-04-13-Vadra.pdf,1309,vadra,shri parvaticharan mitra,abhav,13
+524,UDB-004-1308-9-04-13-Vadra.pdf,1309,vadra,,koekti adbhut deshhitkar karya,13
+525,UDB-004-1308-9-04-13-Vadra.pdf,1309,vadra,,udashir dharmashoot,13
+526,UDB-004-1308-9-04-13-Vadra.pdf,1309,vadra,,ayurved o ayurvediya chikitsha,13
+527,UDB-004-1308-9-04-13-Vadra.pdf,1309,vadra,,shamalochana,13
+528,UDB-004-1308-9-04-13-Vadra.pdf,1309,vadra,,pratham adhyay pratham pakkhik tritiyo ahnik,13
+529,UDB-004-1308-9-04-13-Vadra.pdf,1309,vadra,,atha chaturtha ahnik,13
+530,UDB-004-1308-9-04-14-Vadra.pdf,1309,vadra,shri girishchandra ghosh,gurur prayajan,14
+531,UDB-004-1308-9-04-14-Vadra.pdf,1309,vadra,,dhrubacharitra,14
+532,UDB-004-1308-9-04-14-Vadra.pdf,1309,vadra,,pratham adhyay pratham pakkhik tritiyo ahnik,14
+533,UDB-004-1308-9-04-15-Ashyeen.pdf,1309,ashyeen,,gurukaran,15
+534,UDB-004-1308-9-04-15-Ashyeen.pdf,1309,ashyeen,swami sachchidananda,maya,15
+535,UDB-004-1308-9-04-15-Ashyeen.pdf,1309,ashyeen,,mandraj ramkrishnamissioner karjyobiboron,15
+536,UDB-004-1308-9-04-15-Ashyeen.pdf,1309,ashyeen,,keno,15
+537,UDB-004-1308-9-04-15-Ashyeen.pdf,1309,ashyeen,,ahindu hindu hoite pare ki na?,15
+538,UDB-004-1308-9-04-15-Ashyeen.pdf,1309,ashyeen,,shrimadbhagwadgita,15
+539,UDB-004-1308-9-04-16-Ashyeen.pdf,1309,ashyeen,,dhrubacharitra,16
+540,UDB-004-1308-9-04-16-Ashyeen.pdf,1309,ashyeen,,praner kotha,16
+541,UDB-004-1308-9-04-16-Ashyeen.pdf,1309,ashyeen,,bharoter narir unnati,16
+542,UDB-004-1308-9-04-16-Ashyeen.pdf,1309,ashyeen,,ishopanishad,16
+543,UDB-004-1308-9-04-16-Ashyeen.pdf,1309,ashyeen,,shankarbhashyanubad,16
+544,UDB-004-1308-9-04-17-Karttik.pdf,1309,karttik,,mandrajnibashigoner abhinonderpotrer uttor,17
+545,UDB-004-1308-9-04-17-Karttik.pdf,1309,karttik,,dhrubacharitra,17
+546,UDB-004-1308-9-04-17-Karttik.pdf,1309,karttik,,ek khani potro,17
+547,UDB-004-1308-9-04-17-Karttik.pdf,1309,karttik,shri avinashchandra gangopadhyay,nastik,17
+548,UDB-004-1308-9-04-17-Karttik.pdf,1309,karttik,,pratham adhyay pratham pakkhik tritiyo ahnik,17
+549,UDB-004-1308-9-04-18-Karttik.pdf,1309,karttik,,mandrajnibashigoner abhinonderpotrer uttor,18
+550,UDB-004-1308-9-04-18-Karttik.pdf,1309,karttik,,dhrubacharitra,18
+551,UDB-004-1308-9-04-18-Karttik.pdf,1309,karttik,swami bimalananda,pratimapuja sambandhe dui ekti kotha,18
+552,UDB-004-1308-9-04-18-Karttik.pdf,1309,karttik,,pratham adhyay pratham pakkhik tritiyo ahnik,18
+553,UDB-004-1308-9-04-19-Agrohawan.pdf,1309,agrohawan,shri manomohan gangopadhyay,galileo,19
+554,UDB-004-1308-9-04-19-Agrohawan.pdf,1309,agrohawan,,dhrubacharitra,19
+555,UDB-004-1308-9-04-19-Agrohawan.pdf,1309,agrohawan,,pratham adhyay pratham pakkhik tritiyo ahnik,19
+556,UDB-004-1308-9-04-20-Agrohawan.pdf,1309,agrohawan,,pawhari baba,20
+557,UDB-004-1308-9-04-20-Agrohawan.pdf,1309,agrohawan,,dhrubacharitra,20
+558,UDB-004-1308-9-04-20-Agrohawan.pdf,1309,agrohawan,,samaj sanskar shambondhe guti koek kotha,20
+559,UDB-004-1308-9-04-20-Agrohawan.pdf,1309,agrohawan,,pratham adhyay pratham pakkhik tritiyo ahnik,20
+560,UDB-004-1308-9-04-21-Poush.pdf,1309,poush,swami ramkrishnananda,nirbaantatwa,21
+561,UDB-004-1308-9-04-21-Poush.pdf,1309,poush,,mrityu,21
+562,UDB-004-1308-9-04-21-Poush.pdf,1309,poush,,dinata sadhan,21
+563,UDB-004-1308-9-04-21-Poush.pdf,1309,poush,,kiter sidhdhilabh,21
+564,UDB-004-1308-9-04-21-Poush.pdf,1309,poush,,thakurdadar golpo,21
+565,UDB-004-1308-9-04-21-Poush.pdf,1309,poush,,shamalochana,21
+566,UDB-004-1308-9-04-21-Poush.pdf,1309,poush,,tulyashyaprayatnyang sabornam,21
+567,UDB-004-1308-9-04-22-Poush.pdf,1309,poush,,shri ramkrishna,22
+568,UDB-004-1308-9-04-22-Poush.pdf,1309,poush,,bishwas,22
+569,UDB-004-1308-9-04-22-Poush.pdf,1309,poush,,brahman,22
+570,UDB-004-1308-9-04-22-Poush.pdf,1309,poush,,prachin o adhunik,22
+571,UDB-004-1308-9-04-22-Poush.pdf,1309,poush,,kenopanishad,22
+572,UDB-004-1308-9-04-22-Poush.pdf,1309,poush,,amader kartobya,22
+573,UDB-004-1308-9-04-22-Poush.pdf,1309,poush,Shrima Kathito,Shri Shri Ramkrishna Kathamrito,22
+574,UDB-004-1308-9-04-22-Poush.pdf,1309,poush,,swami bibekananda,22
+575,UDB-005-1309-10-05-01-Magh.pdf,1309,magh,Swami Saradananada,bharote shaktipuja,1
+576,UDB-005-1309-10-05-01-Magh.pdf,1309,magh,Shri kiranchandra dutta,smriti,1
+577,UDB-005-1309-10-05-01-Magh.pdf,1309,magh,,swami bibekananda,1
+578,UDB-005-1309-10-05-01-Magh.pdf,1309,magh,babu mahendranath dutta,palestine bhramanbrittanto,1
+579,UDB-005-1309-10-05-02-Magh.pdf,1309,magh,Shrima Kathito,Shri Shri Ramkrishna Kathamrito,2
+580,UDB-005-1309-10-05-02-Magh.pdf,1309,magh,,swami bibekanander patro,2
+581,UDB-005-1309-10-05-02-Magh.pdf,1309,magh,,swami bibekanander smritisabha,2
+582,UDB-005-1309-10-05-02-Magh.pdf,1309,magh,,hindu sanyasi,2
+583,UDB-005-1309-10-05-02-Magh.pdf,1309,magh,,songbad o montabya,2
+584,UDB-005-1309-10-05-02-Magh.pdf,1309,magh,,kankhal  sebashram,2
+585,UDB-005-1309-10-05-03-Falgoon.pdf,1309,falgoon,Shrima Kathito,Shri Shri Ramkrishna Kathamrito,3
+586,UDB-005-1309-10-05-03-Falgoon.pdf,1309,falgoon,,rajbhakti o shikkhak chhatro,3
+587,UDB-005-1309-10-05-03-Falgoon.pdf,1309,falgoon,,swami bibekananda,3
+588,UDB-005-1309-10-05-03-Falgoon.pdf,1309,falgoon,,swami bibekanander patro,3
+589,UDB-005-1309-10-05-03-Falgoon.pdf,1309,falgoon,,varanasi ramkrishna sebashram,3
+590,UDB-005-1309-10-05-03-Falgoon.pdf,1309,falgoon,shrimanomohan gangopadhay,esho mrityu,3
+591,UDB-005-1309-10-05-04-Falgoon.pdf,1309,falgoon,Shri Sarachchandra Chakraborty,swamijir prati,4
+592,UDB-005-1309-10-05-04-Falgoon.pdf,1309,falgoon,Swami Saradananada,daridra o arthagom,4
+593,UDB-005-1309-10-05-04-Falgoon.pdf,1309,falgoon,,belur mothe swami bibekanander janmotsav,4
+594,UDB-005-1309-10-05-04-Falgoon.pdf,1309,falgoon,Shrima Kathito,Shri Shri Ramkrishna Kathamrito,4
+595,UDB-005-1309-10-05-04-Falgoon.pdf,1309,falgoon,,swamijir katha,4
+596,UDB-005-1309-10-05-05-Chaitra.pdf,1309,chaitra,Swami Brahmananda,guru,5
+597,UDB-005-1309-10-05-05-Chaitra.pdf,1309,chaitra,Shrima,swami bibekananda o tahar pracharkarya,5
+598,UDB-005-1309-10-05-05-Chaitra.pdf,1309,chaitra,swami sachchidananda,griha sanskar,5
+599,UDB-005-1309-10-05-06-Chaitra.pdf,1309,chaitra,,swami bibekanander patro,6
+600,UDB-005-1309-10-05-06-Chaitra.pdf,1309,chaitra,Shrima,swami bibekananda o tahar pracharkarya,6
+601,UDB-005-1309-10-05-06-Chaitra.pdf,1309,chaitra,swami shibananda,sadhan pranayam,6
+602,UDB-005-1309-10-05-06-Chaitra.pdf,1309,chaitra,,haridware kumbhamela,6
+603,UDB-005-1309-10-05-06-Chaitra.pdf,1309,chaitra,,bhagwan shri ramkrishnadeber shaptatitama janmotsav,6
+604,UDB-005-1309-10-05-06-Chaitra.pdf,1309,chaitra,,ramkrishna mission (new york),6
+605,UDB-005-1309-10-05-06-Chaitra.pdf,1309,chaitra,,nibhritachinta,6
+606,UDB-005-1309-10-05-07-Baishakh.pdf,1310,baishakh,Shrima Kathito,Shri Shri Ramkrishna Kathamrito,7
+607,UDB-005-1309-10-05-07-Baishakh.pdf,1310,baishakh,,kashmire amarnath,7
+608,UDB-005-1309-10-05-07-Baishakh.pdf,1310,baishakh,,haridware khumbhomela,7
+609,UDB-005-1309-10-05-07-Baishakh.pdf,1310,baishakh,,mandraje shrishriramkrishna janmotsab,7
+610,UDB-005-1309-10-05-08-Baishakh.pdf,1310,baishakh,,swami bibekanander patro,8
+611,UDB-005-1309-10-05-08-Baishakh.pdf,1310,baishakh,,gyan o bhaktir shamannoy,8
+612,UDB-005-1309-10-05-08-Baishakh.pdf,1310,baishakh,Swami Saradananada,jibon o mrityur baigyanik barta,8
+613,UDB-005-1309-10-05-08-Baishakh.pdf,1310,baishakh,,haridware khumbhamela,8
+614,UDB-005-1309-10-05-08-Baishakh.pdf,1310,baishakh,,shriramkrishhna pathshala,8
+615,UDB-005-1309-10-05-08-Baishakh.pdf,1310,baishakh,,swamijir katha,8
+616,UDB-005-1309-10-05-08-Baishakh.pdf,1310,baishakh,,songbad,8
+617,UDB-005-1309-10-05-08-Baishakh.pdf,1310,baishakh,shri rebatimohan chaudhary,bitrishna,8
+618,UDB-005-1309-10-05-08-Baishakh.pdf,1310,baishakh,shri rebatimohan chaudhary,amar gaan,8
+619,UDB-005-1309-10-05-09-Ashar.pdf,1310,ashar,,gita tatwa,9
+620,UDB-005-1309-10-05-09-Ashar.pdf,1310,ashar,Shrima Kathito,Shri Shri Ramkrishna Kathamrito,9
+621,UDB-005-1309-10-05-09-Ashar.pdf,1310,ashar,,swami bibekanander patro,9
+622,UDB-005-1309-10-05-10-Ashar.pdf,1310,ashar,swami bibekananda,gai geet shunate tomai,10
+623,UDB-005-1309-10-05-10-Ashar.pdf,1310,ashar,swami ramkrishnananda,ahongtatwa,10
+624,UDB-005-1309-10-05-10-Ashar.pdf,1310,ashar,,sadhana o sidhdhi,10
+625,UDB-005-1309-10-05-10-Ashar.pdf,1310,ashar,doctor shashibhushan ghosh,bonge akalmrityu,10
+626,UDB-005-1309-10-05-10-Ashar.pdf,1310,ashar,,ramkrishna mission (america),10
+627,UDB-005-1309-10-05-10-Ashar.pdf,1310,ashar,,varanasi ramkrishna adwaita ashram,10
+628,UDB-005-1309-10-05-11-Srabon.pdf,1310,srabon,Shrima Kathito,Shri Shri Ramkrishna Kathamrito,11
+629,UDB-005-1309-10-05-11-Srabon.pdf,1310,srabon,,bhuter golpo,11
+630,UDB-005-1309-10-05-11-Srabon.pdf,1310,srabon,,purbo mimangsha,11
+631,UDB-005-1309-10-05-11-Srabon.pdf,1310,srabon,,shankarbhashyanubad,11
+632,UDB-005-1309-10-05-12-Srabon.pdf,1310,srabon,,swami bibekanander sahith kathopkathan,12
+633,UDB-005-1309-10-05-12-Srabon.pdf,1310,srabon,,gitatatwa,12
+634,UDB-005-1309-10-05-12-Srabon.pdf,1310,srabon,,bibekananda smriti mandir,12
+635,UDB-005-1309-10-05-12-Srabon.pdf,1310,srabon,,kankhal ramkrishna sebashram,12
+636,UDB-005-1309-10-05-12-Srabon.pdf,1310,srabon,shri ashutosh deb,mahabhab,12
+637,UDB-005-1309-10-05-12-Srabon.pdf,1310,srabon,shri ashutosh deb,jop paramartha,12
+638,UDB-005-1309-10-05-12-Srabon.pdf,1310,srabon,Shri Chandicharan Bardhan,ei jagat-i brahma,12
+639,UDB-005-1309-10-05-13-Vadra.pdf,1310,vadra,Shrima Kathito,Shri Shri Ramkrishna Kathamrito,13
+640,UDB-005-1309-10-05-13-Vadra.pdf,1310,vadra,,shrishriramanujcharit,13
+641,UDB-005-1309-10-05-13-Vadra.pdf,1310,vadra,,swami bibekanander patro,13
+642,UDB-005-1309-10-05-13-Vadra.pdf,1310,vadra,,brahmakund ba parshuramkund,13
+643,UDB-005-1309-10-05-13-Vadra.pdf,1310,vadra,swami yogeshwaranand,deh-kal,13
+644,UDB-005-1309-10-05-13-Vadra.pdf,1310,vadra,,cambridge-e bedanto,13
+645,UDB-005-1309-10-05-14-Vadra.pdf,1310,vadra,,kathapanishad,14
+646,UDB-005-1309-10-05-14-Vadra.pdf,1310,vadra,swami sachchidananda,mon,14
+647,UDB-005-1309-10-05-14-Vadra.pdf,1310,vadra,,socratis o athensbashigon,14
+648,UDB-005-1309-10-05-14-Vadra.pdf,1310,vadra,,ramkrishna mission (america),14
+649,UDB-005-1309-10-05-14-Vadra.pdf,1310,vadra,,rajkumari kushthasharam,14
+650,UDB-005-1309-10-05-14-Vadra.pdf,1310,vadra,,praptiswikar o shamalochana,14
+651,UDB-005-1309-10-05-15-Ashyeen.pdf,1310,ashyeen,,gitatatwa,15
+652,UDB-005-1309-10-05-15-Ashyeen.pdf,1310,ashyeen,Shrima Kathito,Shri Shri Ramkrishna Kathamrito,15
+653,UDB-005-1309-10-05-15-Ashyeen.pdf,1310,ashyeen,,himaloye kedarnath,15
+654,UDB-005-1309-10-05-15-Ashyeen.pdf,1310,ashyeen,swami bibekananda,shivastotram,15
+655,UDB-005-1309-10-05-15-Ashyeen.pdf,1310,ashyeen,Swami Shuddhananada,swamijir kotha,15
+656,UDB-005-1309-10-05-16-Ashyeen.pdf,1310,ashyeen,shri kiran chandra datta,tarpan,16
+657,UDB-005-1309-10-05-16-Ashyeen.pdf,1310,ashyeen,swami bedanand,joger duchariti kotha,16
+658,UDB-005-1309-10-05-16-Ashyeen.pdf,1310,ashyeen,,jatiyotwo bodh,16
+659,UDB-005-1309-10-05-16-Ashyeen.pdf,1310,ashyeen,,swami bibekanander patro,16
+660,UDB-005-1309-10-05-16-Ashyeen.pdf,1310,ashyeen,,ramkrishna mission (kankhal),16
+661,UDB-005-1309-10-05-16-Ashyeen.pdf,1310,ashyeen,,shankarbhashyanubad,16
+662,UDB-005-1309-10-05-16-Ashyeen.pdf,1310,ashyeen,,atha dashmohdhyay,16
+663,UDB-005-1309-10-05-17-Karttik.pdf,1310,karttik,shrima likhita,thakur shri ramkrishna,17
+664,UDB-005-1309-10-05-17-Karttik.pdf,1310,karttik,,ashrite mukh dekha,17
+665,UDB-005-1309-10-05-17-Karttik.pdf,1310,karttik,swami prakashananda,asha o nirasha,17
+666,UDB-005-1309-10-05-17-Karttik.pdf,1310,karttik,babu mahendranath datta,palestine bhraman,17
+667,UDB-005-1309-10-05-17-Karttik.pdf,1310,karttik,swami bodhananda,songsar,17
+668,UDB-005-1309-10-05-17-Karttik.pdf,1310,karttik,,shriramkrishna o maxmueller,17
+669,UDB-005-1309-10-05-18-Karttik.pdf,1310,karttik,doctor shashibhushan ghosh,bonge akalmrityu,18
+670,UDB-005-1309-10-05-18-Karttik.pdf,1310,karttik,swami paramananda,swadhinata,18
+671,UDB-005-1309-10-05-18-Karttik.pdf,1310,karttik,swami paramananda,prem,18
+672,UDB-005-1309-10-05-18-Karttik.pdf,1310,karttik,swami prakashanand,jwalamukhi jatra,18
+673,UDB-005-1309-10-05-18-Karttik.pdf,1310,karttik,,japandarshan,18
+674,UDB-005-1309-10-05-19-Agrohawan.pdf,1310,agrohawan,Shri Sharachchandra Chakraborty,bibortobad,19
+675,UDB-005-1309-10-05-19-Agrohawan.pdf,1310,agrohawan,shri anathnath  palit,rashmi bisleshan,19
+676,UDB-005-1309-10-05-19-Agrohawan.pdf,1310,agrohawan,shri shishirkumar bardhan,shadusongo,19
+677,UDB-005-1309-10-05-19-Agrohawan.pdf,1310,agrohawan,shri girishchandra ghosh,pralap na satya?,19
+678,UDB-005-1309-10-05-19-Agrohawan.pdf,1310,agrohawan,,ramkrishna mission (america),19
+679,UDB-005-1309-10-05-19-Agrohawan.pdf,1310,agrohawan,,songbad o mantabya,19
+680,UDB-005-1309-10-05-19-Agrohawan.pdf,1310,agrohawan,,kalika stotra,19
+681,UDB-005-1309-10-05-19-Agrohawan.pdf,1310,agrohawan,,ke tumi janani go?,19
+682,UDB-005-1309-10-05-20-Agrohawan.pdf,1310,agrohawan,Shri Sharachchandra Chakraborty,purbastha,20
+683,UDB-005-1309-10-05-20-Agrohawan.pdf,1310,agrohawan,,sharbodharmashamanyaya,20
+684,UDB-005-1309-10-05-20-Agrohawan.pdf,1310,agrohawan,Shrima Kathito,Shri Shri Ramkrishna Kathamrito,20
+685,UDB-005-1309-10-05-20-Agrohawan.pdf,1310,agrohawan,,shilpa,20
+686,UDB-005-1309-10-05-20-Agrohawan.pdf,1310,agrohawan,,shankarbhashyanubad,20
+687,UDB-005-1309-10-05-21-Poush.pdf,1310,poush,Swami Saradananada,apatapurush o abotarkuler jibananubhav,21
+688,UDB-005-1309-10-05-21-Poush.pdf,1310,poush,doctor shashibhushan ghosh,bonge akalmrityu,21
+689,UDB-005-1309-10-05-21-Poush.pdf,1310,poush,,swamijir patro,21
+690,UDB-005-1309-10-05-21-Poush.pdf,1310,poush,,banganubad,21
+691,UDB-005-1309-10-05-21-Poush.pdf,1310,poush,Shri Sharachchandra Chakraborty,shedin,21
+692,UDB-005-1309-10-05-21-Poush.pdf,1310,poush,,shishur swapno,21
+693,UDB-005-1309-10-05-21-Poush.pdf,1310,poush,,geet,21
+694,UDB-005-1309-10-05-21-Poush.pdf,1310,poush,,ramkrishna mission,21
+695,UDB-005-1309-10-05-22-Poush.pdf,1310,poush,shri nikunja bihari mallik,Hingulaj Tirthajatra,22
+696,UDB-005-1309-10-05-22-Poush.pdf,1310,poush,shri anath nath paati,amaratwa-smriti,22
+697,UDB-005-1309-10-05-22-Poush.pdf,1310,poush,,nibedan,22
