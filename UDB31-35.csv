@@ -1,0 +1,911 @@
+id,bookname_ws,bookyear_i,bookmonth_txt_en_split,author_txt_en_split,subject_txt_en_split,booknumber_i
+4300,UDB-031-1335-36-31-01-MAGH.pdf,1335,magh,Sri Shibananda,Nobo Borsher Ashirbad,1
+4301,UDB-031-1335-36-31-01-MAGH.pdf,1335,magh,Upadhay Brohmmmobandhob,Sri Sri Ramkrishna,1
+4302,UDB-031-1335-36-31-01-MAGH.pdf,1335,magh,Swami Sudhhananda,Udbodhoner Jibonoddeshha,1
+4303,UDB-031-1335-36-31-01-MAGH.pdf,1335,magh,Swami Saradananda,Vede Sahitya-Sree,1
+4304,UDB-031-1335-36-31-01-MAGH.pdf,1335,magh,Sri Ramananda Chattopadhyay,Bhogini Nibedita,1
+4305,UDB-031-1335-36-31-01-MAGH.pdf,1335,magh,,Sorolota,1
+4306,UDB-031-1335-36-31-01-MAGH.pdf,1335,magh,Chandreswarananda,Rohosyo Bhumi,1
+4307,UDB-031-1335-36-31-01-MAGH.pdf,1335,magh,,Osti O Nasti,1
+4308,UDB-031-1335-36-31-01-MAGH.pdf,1335,magh,Sri Birendrakumar Basu,Shikhhokder Proti Obhibhason,1
+4309,UDB-031-1335-36-31-01-MAGH.pdf,1335,magh,,Prabhu O Das,1
+4310,UDB-031-1335-36-31-01-MAGH.pdf,1335,magh,Sri Protibha Debi,Kurukhetro,1
+4311,UDB-031-1335-36-31-01-MAGH.pdf,1335,magh,Sri Sorolabala Dasi,Dhormmer Bastobota,1
+4312,UDB-031-1335-36-31-01-MAGH.pdf,1335,magh,,Das,1
+4313,UDB-031-1335-36-31-01-MAGH.pdf,1335,magh,Sri Probhati Debi,Merry Magdalin,1
+4314,UDB-031-1335-36-31-01-MAGH.pdf,1335,magh,,Kotha Prosonge,1
+4315,UDB-031-1335-36-31-02-FALGOON.pdf,1335,falgoon,,Kotha Prosonge,2
+4316,UDB-031-1335-36-31-02-FALGOON.pdf,1335,falgoon,,Ohonkar,2
+4317,UDB-031-1335-36-31-02-FALGOON.pdf,1335,falgoon,Sri Bolai Debsharma,Bijoyi Vivekananda,2
+4318,UDB-031-1335-36-31-02-FALGOON.pdf,1335,falgoon,Sri Kumudbondhu Sen,Bangla Sahityer Adorshho O Goti,2
+4319,UDB-031-1335-36-31-02-FALGOON.pdf,1335,falgoon,,Bangla Neta,2
+4320,UDB-031-1335-36-31-02-FALGOON.pdf,1335,falgoon,Sri Komolkishor Mukhopadhyay,"-Kotha kao, Kotha Kao-'",2
+4321,UDB-031-1335-36-31-02-FALGOON.pdf,1335,falgoon,Sri Ananthnath Mukhopadhyay,Shikkha O Dikkha,2
+4322,UDB-031-1335-36-31-02-FALGOON.pdf,1335,falgoon,Sri Amiyojibon Mukhopadhyay,Jagoroni,2
+4323,UDB-031-1335-36-31-02-FALGOON.pdf,1335,falgoon,,Swami Turionander Sohit Kothopokothon,2
+4324,UDB-031-1335-36-31-02-FALGOON.pdf,1335,falgoon,Sri Durgapada Mitra,Ontorale,2
+4325,UDB-031-1335-36-31-02-FALGOON.pdf,1335,falgoon,Basudebananda,Poranika,2
+4326,UDB-031-1335-36-31-02-FALGOON.pdf,1335,falgoon,Sri Sushilkumar Deb,Geetay Purushottombad,2
+4327,UDB-031-1335-36-31-02-FALGOON.pdf,1335,falgoon,,Somalochona,2
+4328,UDB-031-1335-36-31-02-FALGOON.pdf,1335,falgoon,,Songho-Barta,2
+4329,UDB-031-1335-36-31-03-CHAITRA.pdf,1335,chaitra,,Kotha Prosonge,3
+4330,UDB-031-1335-36-31-03-CHAITRA.pdf,1335,chaitra,Upadhay Brohmmmobandhob,Ramakrishna-Kotha,3
+4331,UDB-031-1335-36-31-03-CHAITRA.pdf,1335,chaitra,Chandreswarananda,Brahmmosomaj O Murtipuja,3
+4332,UDB-031-1335-36-31-03-CHAITRA.pdf,1335,chaitra,Sri Komolkishor Mukhopadhyay,"-Kotha kao, Kotha Kao-'",3
+4333,UDB-031-1335-36-31-03-CHAITRA.pdf,1335,chaitra,Sri Charuchandra Bandopadhyay,Seba O Sadhona,3
+4334,UDB-031-1335-36-31-03-CHAITRA.pdf,1335,chaitra,Sri Kironchandra Dutta,"""Khela Mor Sango Holo""",3
+4335,UDB-031-1335-36-31-03-CHAITRA.pdf,1335,chaitra,Basudebananda,Hindu Dorshon,3
+4336,UDB-031-1335-36-31-03-CHAITRA.pdf,1335,chaitra,Sri Sudhirchandra Chaki,Sahitto-Jogot,3
+4337,UDB-031-1335-36-31-03-CHAITRA.pdf,1335,chaitra,,Somalochona,3
+4338,UDB-031-1335-36-31-03-CHAITRA.pdf,1335,chaitra,Srimoti Niharika Debi,Nachiketa,3
+4339,UDB-031-1335-36-31-03-CHAITRA.pdf,1335,chaitra,,Abedon,3
+4340,UDB-031-1335-36-31-03-CHAITRA.pdf,1335,chaitra,,Songho-Barta,3
+4341,UDB-031-1335-36-31-04-BAISHAKH.pdf,1336,baishakh,,Kotha Prosonge,4
+4342,UDB-031-1335-36-31-04-BAISHAKH.pdf,1336,baishakh,,Sri Sri Mayer Kotha,4
+4343,UDB-031-1335-36-31-04-BAISHAKH.pdf,1336,baishakh,,Bedante Bangalir Probhab,4
+4344,UDB-031-1335-36-31-04-BAISHAKH.pdf,1336,baishakh,Sri Komolkishor Mukhopadhyay,"-Kotha kao, Kotha Kao-'",4
+4345,UDB-031-1335-36-31-04-BAISHAKH.pdf,1336,baishakh,Basudebananda,Hindu Dorshon,4
+4346,UDB-031-1335-36-31-04-BAISHAKH.pdf,1336,baishakh,,Swami Turionander Sohit Kothopokothon,4
+4347,UDB-031-1335-36-31-04-BAISHAKH.pdf,1336,baishakh,,Alok,4
+4348,UDB-031-1335-36-31-04-BAISHAKH.pdf,1336,baishakh,,Sahityo-Jogot,4
+4349,UDB-031-1335-36-31-04-BAISHAKH.pdf,1336,baishakh,,Dhormmo,4
+4350,UDB-031-1335-36-31-04-BAISHAKH.pdf,1336,baishakh,,Songho-Barta,4
+4351,UDB-031-1335-36-31-05-JAISTHA.pdf,1336,jaistha,Sri Okhondananda,Songher Proti,5
+4352,UDB-031-1335-36-31-05-JAISTHA.pdf,1336,jaistha,,Kotha Prosonge,5
+4353,UDB-031-1335-36-31-05-JAISTHA.pdf,1336,jaistha,Sri Rajendranath Ghosh,Bedante Bangalir Probhab,5
+4354,UDB-031-1335-36-31-05-JAISTHA.pdf,1336,jaistha,Sri Komolkishor Mukhopadhyay,"-Kotha kao, Kotha Kao-'",5
+4355,UDB-031-1335-36-31-05-JAISTHA.pdf,1336,jaistha,,Roma Rolar Chithi,5
+4356,UDB-031-1335-36-31-05-JAISTHA.pdf,1336,jaistha,Sri Purnananda Basu ,Probashir Potrangsho,5
+4357,UDB-031-1335-36-31-05-JAISTHA.pdf,1336,jaistha,,Banglar Prachin Jol Soroboraho Punorgothon,5
+4358,UDB-031-1335-36-31-05-JAISTHA.pdf,1336,jaistha,Sri Bolai Debsharma,Sahityer Troyi,5
+4359,UDB-031-1335-36-31-05-JAISTHA.pdf,1336,jaistha,Sri Ganeshchandra Dey,Dhormmo,5
+4360,UDB-031-1335-36-31-05-JAISTHA.pdf,1336,jaistha,Sri Ashokananda Basu,Sahityo-Jogot,5
+4361,UDB-031-1335-36-31-05-JAISTHA.pdf,1336,jaistha,,Alochona,5
+4362,UDB-031-1335-36-31-05-JAISTHA.pdf,1336,jaistha,,Songho-Barta,5
+4363,UDB-031-1335-36-31-06-ASHAR.pdf,1336,ashar,,Kotha Prosonge,6
+4364,UDB-031-1335-36-31-06-ASHAR.pdf,1336,ashar,Sri Rajendranath Ghosh,Bedante Bangalir Probhab,6
+4365,UDB-031-1335-36-31-06-ASHAR.pdf,1336,ashar,Sri Komolkishor Mukhopadhyay,"-Kotha kao, Kotha Kao-'",6
+4366,UDB-031-1335-36-31-06-ASHAR.pdf,1336,ashar,Sri Durgapada Mitra,Einstein,6
+4367,UDB-031-1335-36-31-06-ASHAR.pdf,1336,ashar,Sri Ganeshchandra Dey,Dhormmo,6
+4368,UDB-031-1335-36-31-06-ASHAR.pdf,1336,ashar,Sri Ashokananda Basu,Sahityo-Jogot,6
+4369,UDB-031-1335-36-31-06-ASHAR.pdf,1336,ashar,,Banglar Prachin Jol Soroboraho Punorgothon,6
+4370,UDB-031-1335-36-31-06-ASHAR.pdf,1336,ashar,,Swami Turionander Sohit Kothopokothon,6
+4371,UDB-031-1335-36-31-06-ASHAR.pdf,1336,ashar,,Pushtok Porichoy,6
+4372,UDB-031-1335-36-31-06-ASHAR.pdf,1336,ashar,,Songho-Barta,6
+4373,UDB-031-1335-36-31-07-SRABON.pdf,1336,srabon,,Kotha Prosonge,7
+4374,UDB-031-1335-36-31-07-SRABON.pdf,1336,srabon,,Swami Premanander  Upodesh,7
+4375,UDB-031-1335-36-31-07-SRABON.pdf,1336,srabon,,Swami Turionander Sohit Kothopokothon,7
+4376,UDB-031-1335-36-31-07-SRABON.pdf,1336,srabon,Pandit Rajendranath Ghosh,Bedante Bangalir Probhab,7
+4377,UDB-031-1335-36-31-07-SRABON.pdf,1336,srabon,Sri Okkhoykumar Bandopadhyay,Geetopodishto Jogsadhona,7
+4378,UDB-031-1335-36-31-07-SRABON.pdf,1336,srabon,Sri Ganeshchandra Dey,Dhormmo,7
+4379,UDB-031-1335-36-31-07-SRABON.pdf,1336,srabon,,Srimot Swami Shibanander Potro,7
+4380,UDB-031-1335-36-31-07-SRABON.pdf,1336,srabon,Sri Radhagobindo Basak,Boudhho O Brahmmonodhormmomote,7
+4381,UDB-031-1335-36-31-07-SRABON.pdf,1336,srabon,,Kormo O Totphol,7
+4382,UDB-031-1335-36-31-07-SRABON.pdf,1336,srabon,,Banglar Prachin Jol Soroboraho Punorgothon,7
+4383,UDB-031-1335-36-31-07-SRABON.pdf,1336,srabon,Sri Durgapada Mitra,Ogyanabostha,7
+4384,UDB-031-1335-36-31-07-SRABON.pdf,1336,srabon,,Sot-Kotha,7
+4385,UDB-031-1335-36-31-07-SRABON.pdf,1336,srabon,,Pushtok Porichoy,7
+4386,UDB-031-1335-36-31-07-SRABON.pdf,1336,srabon,,Songho-Barta,7
+4387,UDB-031-1335-36-31-08-VADRO.pdf,1336,vadro,Sri Mohinimohun Mukhopadhyay,Sri Sri Mayer Kotha,8
+4388,UDB-031-1335-36-31-08-VADRO.pdf,1336,vadro,,Kotha Prosonge,8
+4389,UDB-031-1335-36-31-08-VADRO.pdf,1336,vadro,,Swami Premanander  Upodesh,8
+4390,UDB-031-1335-36-31-08-VADRO.pdf,1336,vadro,,Swami Turionander Sohit Kothopokothon,8
+4391,UDB-031-1335-36-31-08-VADRO.pdf,1336,vadro,Pandit Rajendranath Ghosh,Bedante Bangalir Probhab,8
+4392,UDB-031-1335-36-31-08-VADRO.pdf,1336,vadro,Sri Ganeshchandra Dey,Dhormmo,8
+4393,UDB-031-1335-36-31-08-VADRO.pdf,1336,vadro,,Geetopodishto Jogsadhona,8
+4394,UDB-031-1335-36-31-08-VADRO.pdf,1336,vadro,Sri Ananthnath Mukhopadhyay,Alap Bonam Prolap,8
+4395,UDB-031-1335-36-31-08-VADRO.pdf,1336,vadro,Sri Niharika Debi,Meera Bai,8
+4396,UDB-031-1335-36-31-08-VADRO.pdf,1336,vadro,Sri Durgapada Mitra,Greekdiger Poromanubad,8
+4397,UDB-031-1335-36-31-08-VADRO.pdf,1336,vadro,,Songho-Barta,8
+4398,UDB-031-1335-36-31-09-ASHYEEN.pdf,1336,ashyeen,,Udbodhon-Geeti,9
+4399,UDB-031-1335-36-31-09-ASHYEEN.pdf,1336,ashyeen,,Kotha Prosonge,9
+4400,UDB-031-1335-36-31-09-ASHYEEN.pdf,1336,ashyeen,Sri Niharika Debi,Kosturi,9
+4401,UDB-031-1335-36-31-09-ASHYEEN.pdf,1336,ashyeen,,Swami Premanander  Upodesh,9
+4402,UDB-031-1335-36-31-09-ASHYEEN.pdf,1336,ashyeen,,Bharotiyo Oddoitobader Drishti,9
+4403,UDB-031-1335-36-31-09-ASHYEEN.pdf,1336,ashyeen,,Swami Turionander Sohit Kothopokothon,9
+4404,UDB-031-1335-36-31-09-ASHYEEN.pdf,1336,ashyeen,Pandit Rajendranath Ghosh,Bedante Bangalir Probhab,9
+4405,UDB-031-1335-36-31-09-ASHYEEN.pdf,1336,ashyeen,,Bidyutin,9
+4406,UDB-031-1335-36-31-09-ASHYEEN.pdf,1336,ashyeen,,Dhormmo,9
+4407,UDB-031-1335-36-31-09-ASHYEEN.pdf,1336,ashyeen,Sri Probhati Debi,Booker T Washington,9
+4408,UDB-031-1335-36-31-09-ASHYEEN.pdf,1336,ashyeen,,Madhukori,9
+4409,UDB-031-1335-36-31-09-ASHYEEN.pdf,1336,ashyeen,,Pushtok Porichoy,9
+4410,UDB-031-1335-36-31-09-ASHYEEN.pdf,1336,ashyeen,,Songho O Barta,9
+4411,UDB-031-1335-36-31-10-KARTIKK.pdf,1336,Kartikk,,Durgapuja,10
+4412,UDB-031-1335-36-31-10-KARTIKK.pdf,1336,Kartikk,,Kotha Prosonge,10
+4413,UDB-031-1335-36-31-10-KARTIKK.pdf,1336,Kartikk,Pandit Rajendranath Ghosh,Bedante Bangalir Probhab,10
+4414,UDB-031-1335-36-31-10-KARTIKK.pdf,1336,Kartikk,,Jotindranath,10
+4415,UDB-031-1335-36-31-10-KARTIKK.pdf,1336,Kartikk,,Dhormmo,10
+4416,UDB-031-1335-36-31-10-KARTIKK.pdf,1336,Kartikk,Srijukto Rameshchandra Bandopadhyay,Gabhi O Ved,10
+4417,UDB-031-1335-36-31-10-KARTIKK.pdf,1336,Kartikk,,Swami Turionander Sohit Kothopokothon,10
+4418,UDB-031-1335-36-31-10-KARTIKK.pdf,1336,Kartikk,Swami Sorbbananda,Bertrand Russel O Prokritibad,10
+4419,UDB-031-1335-36-31-10-KARTIKK.pdf,1336,Kartikk,Sri Probhati Debi,Booker T Washington,10
+4420,UDB-031-1335-36-31-10-KARTIKK.pdf,1336,Kartikk,,Madhukori,10
+4421,UDB-031-1335-36-31-10-KARTIKK.pdf,1336,Kartikk,,Pushtok Porichoy,10
+4422,UDB-031-1335-36-31-10-KARTIKK.pdf,1336,Kartikk,,Songho O Barta,10
+4423,UDB-031-1335-36-31-11-AGROHAWAN.pdf,1336,agrohawan,,Swami Brahmmanander Upodesh,11
+4424,UDB-031-1335-36-31-11-AGROHAWAN.pdf,1336,agrohawan,,Kotha Prosonge,11
+4425,UDB-031-1335-36-31-11-AGROHAWAN.pdf,1336,agrohawan,,Swami Turionander Sohit Kothopokothon,11
+4426,UDB-031-1335-36-31-11-AGROHAWAN.pdf,1336,agrohawan,Pandit Rajendranath Ghosh,Bedante Bangalir Probhab,11
+4427,UDB-031-1335-36-31-11-AGROHAWAN.pdf,1336,agrohawan,Sri Rameshchandra Bandopadhyay,Gabhi O Ved,11
+4428,UDB-031-1335-36-31-11-AGROHAWAN.pdf,1336,agrohawan,,Tao Dhormme Shaktibad,11
+4429,UDB-031-1335-36-31-11-AGROHAWAN.pdf,1336,agrohawan,Sri Kumudbondhu Sen,"Ramakrishna, Tahar Dhormmobiswas",11
+4430,UDB-031-1335-36-31-11-AGROHAWAN.pdf,1336,agrohawan,,Ramsay MacDonalder Attokotha,11
+4431,UDB-031-1335-36-31-11-AGROHAWAN.pdf,1336,agrohawan,,Madhukori,11
+4432,UDB-031-1335-36-31-11-AGROHAWAN.pdf,1336,agrohawan,,Pushtok Porichoy,11
+4433,UDB-031-1335-36-31-11-AGROHAWAN.pdf,1336,agrohawan,Mukundo,Pakhi,11
+4434,UDB-031-1335-36-31-11-AGROHAWAN.pdf,1336,agrohawan,,Sorbbosadharoner Bhitor Shikkhabistar,11
+4435,UDB-031-1335-36-31-11-AGROHAWAN.pdf,1336,agrohawan,,Songho O Barta,11
+4436,UDB-031-1335-36-31-12-POUSH.pdf,1336,poush,,Swami Brahmmanander Sohit Kothopokothon,12
+4437,UDB-031-1335-36-31-12-POUSH.pdf,1336,poush,,Swami Turionander Sohit Kothopokothon,12
+4438,UDB-031-1335-36-31-12-POUSH.pdf,1336,poush,,Kotha Prosonge,12
+4439,UDB-031-1335-36-31-12-POUSH.pdf,1336,poush,Roma Rola,"Ramakrishna, Tahar Dhormmobiswas",12
+4440,UDB-031-1335-36-31-12-POUSH.pdf,1336,poush,Pandit Rajendranath Ghosh,Bedante Bangalir Probhab,12
+4441,UDB-031-1335-36-31-12-POUSH.pdf,1336,poush,Sri Sahaji,Geetanusoron,12
+4442,UDB-031-1335-36-31-12-POUSH.pdf,1336,poush,,Kaal Rohosyo,12
+4443,UDB-031-1335-36-31-12-POUSH.pdf,1336,poush,Sri Probhati Debi,Ford,12
+4444,UDB-031-1335-36-31-12-POUSH.pdf,1336,poush,,Madhukori,12
+4445,UDB-031-1335-36-31-12-POUSH.pdf,1336,poush,,Pushtok Porichoy,12
+4446,UDB-031-1335-36-31-12-POUSH.pdf,1336,poush,,Songho O Barta,12
+4447,UDB-032-1336-37-32-01-MAGH.pdf,1336,magh,,Swami Shibanander Potrangsho,1
+4448,UDB-032-1336-37-32-01-MAGH.pdf,1336,magh,,Kotha Prosonge,1
+4449,UDB-032-1336-37-32-01-MAGH.pdf,1336,magh,Sri Kumudbondhu Sen,Nivedita,1
+4450,UDB-032-1336-37-32-01-MAGH.pdf,1336,magh,Swami Sudhhananda,Swamijir Adorsho,1
+4451,UDB-032-1336-37-32-01-MAGH.pdf,1336,magh,Swami Sorabananda,Bertrand Russel O Monostotto,1
+4452,UDB-032-1336-37-32-01-MAGH.pdf,1336,magh,Pandit Rajendranath Ghosh,Bedante Bangalir Probhab,1
+4453,UDB-032-1336-37-32-01-MAGH.pdf,1336,magh,Roma Rola Pronito,Oikko Songosthapokgon,1
+4454,UDB-032-1336-37-32-01-MAGH.pdf,1336,magh,Swami Gambhirananda,Meterlinker Mou-Machi,1
+4455,UDB-032-1336-37-32-01-MAGH.pdf,1336,magh,,Swami Turianander Sohit Kothopokothon,1
+4456,UDB-032-1336-37-32-01-MAGH.pdf,1336,magh,,Torkosongroho,1
+4457,UDB-032-1336-37-32-01-MAGH.pdf,1336,magh,,Pushtok Porichoy,1
+4458,UDB-032-1336-37-32-01-MAGH.pdf,1336,magh,,Ramakrishna Missioner Shikhhakarjo,1
+4459,UDB-032-1336-37-32-01-MAGH.pdf,1336,magh,,Sri Ramakrishna Mission Sebakarjo,1
+4460,UDB-032-1336-37-32-02-FALGOON.pdf,1336,falgoon,Sri Santoshkumar Ghosh,Nara-Deb,2
+4461,UDB-032-1336-37-32-02-FALGOON.pdf,1336,falgoon,,Swami Shibanander Potrangsho,2
+4462,UDB-032-1336-37-32-02-FALGOON.pdf,1336,falgoon,Oddhyapok-Sri-,Swami Saradananda Smriti,2
+4463,UDB-032-1336-37-32-02-FALGOON.pdf,1336,falgoon,,Kotha Prosonge,2
+4464,UDB-032-1336-37-32-02-FALGOON.pdf,1336,falgoon,Basudebananda ,Ma,2
+4465,UDB-032-1336-37-32-02-FALGOON.pdf,1336,falgoon,Roma Rola Pronito,Oikko Songosthapokgon,2
+4466,UDB-032-1336-37-32-02-FALGOON.pdf,1336,falgoon,,Krishi,2
+4467,UDB-032-1336-37-32-02-FALGOON.pdf,1336,falgoon,,Torkosongroho,2
+4468,UDB-032-1336-37-32-02-FALGOON.pdf,1336,falgoon,Oddhyapok Sri Rameshchandra Bandopadhyay,Gabhi O Brahman-Sutragrontho,2
+4469,UDB-032-1336-37-32-02-FALGOON.pdf,1336,falgoon,Oddhyapok Sri Kaliprosonno Sen,Bhokto Poromhongshodeb,2
+4470,UDB-032-1336-37-32-02-FALGOON.pdf,1336,falgoon,Pandit Rajendranath Ghosh,Bedante Bangalir Probhab,2
+4471,UDB-032-1336-37-32-02-FALGOON.pdf,1336,falgoon,,Pushtok Porichoy,2
+4472,UDB-032-1336-37-32-02-FALGOON.pdf,1336,falgoon,,Songho O Barta,2
+4473,UDB-032-1336-37-32-03-CHAITRA.pdf,1336,chaitra,Sri Umeshchandra Chakraborty,Sri Sri Thakurer Dhyan,3
+4474,UDB-032-1336-37-32-03-CHAITRA.pdf,1336,chaitra,Sri Umeshchandra Chakraborty,Sri Sri Matathakuranir Dhyan,3
+4475,UDB-032-1336-37-32-03-CHAITRA.pdf,1336,chaitra,,Swami Shibanander Upodesh,3
+4476,UDB-032-1336-37-32-03-CHAITRA.pdf,1336,chaitra,,Swami Turianander Sohit Kothopokothon,3
+4477,UDB-032-1336-37-32-03-CHAITRA.pdf,1336,chaitra,,Kotha Prosonge,3
+4478,UDB-032-1336-37-32-03-CHAITRA.pdf,1336,chaitra,Roma Rola Pronito,Oikko Songosthapokgon,3
+4479,UDB-032-1336-37-32-03-CHAITRA.pdf,1336,chaitra,Sri Amarnath Roy,Bedantacharjo Sridhar Swami,3
+4480,UDB-032-1336-37-32-03-CHAITRA.pdf,1336,chaitra,,Torkosongroho,3
+4481,UDB-032-1336-37-32-03-CHAITRA.pdf,1336,chaitra,Oddhyapok Sri Kaliprosonno Sen,Bhokto Ramakrishna,3
+4482,UDB-032-1336-37-32-03-CHAITRA.pdf,1336,chaitra,Oddhyapok Sri Rasmohon Chakraborty,Khatro-Shakti,3
+4483,UDB-032-1336-37-32-03-CHAITRA.pdf,1336,chaitra,,Songho O Barta,3
+4484,UDB-032-1336-37-32-03-CHAITRA.pdf,1336,chaitra,Gambhirananda,Pushtok Porichoy,3
+4485,UDB-032-1336-37-32-03-CHAITRA.pdf,1336,chaitra,,Madhukori,3
+4486,UDB-032-1336-37-32-04-BAISHAKH.pdf,1337,baishakh,Swami Dhrubatmananda,Noboborsho,4
+4487,UDB-032-1336-37-32-04-BAISHAKH.pdf,1337,baishakh,Sri Monmotho Kumar Roy,Sri Buddha,4
+4488,UDB-032-1336-37-32-04-BAISHAKH.pdf,1337,baishakh,,Swami Shibanander Potrangsho,4
+4489,UDB-032-1336-37-32-04-BAISHAKH.pdf,1337,baishakh,,Kotha Prosonge,4
+4490,UDB-032-1336-37-32-04-BAISHAKH.pdf,1337,baishakh,,Swami Saradananda Smriti,4
+4491,UDB-032-1336-37-32-04-BAISHAKH.pdf,1337,baishakh,,Sister Christin,4
+4492,UDB-032-1336-37-32-04-BAISHAKH.pdf,1337,baishakh,Roma Rola Pronito,Oikko Songosthapokgon,4
+4493,UDB-032-1336-37-32-04-BAISHAKH.pdf,1337,baishakh,,Torko-Songroho,4
+4494,UDB-032-1336-37-32-04-BAISHAKH.pdf,1337,baishakh,Sri Prafullachandra Bhattacharya,Prachin Bharote Shikhha,4
+4495,UDB-032-1336-37-32-04-BAISHAKH.pdf,1337,baishakh,Sri Bimalkumar Dutta,Radium,4
+4496,UDB-032-1336-37-32-04-BAISHAKH.pdf,1337,baishakh,Roy Bahadur Sri Amar Nath Roy,Sri Gourangodeber Somproday,4
+4497,UDB-032-1336-37-32-04-BAISHAKH.pdf,1337,baishakh,,Pushtok Porichoy,4
+4498,UDB-032-1336-37-32-04-BAISHAKH.pdf,1337,baishakh,,Songho O Barta,4
+4499,UDB-032-1336-37-32-05-JAISTHA.pdf,1337,jaistha,,Swami Shibanander Potrangsho,5
+4500,UDB-032-1336-37-32-05-JAISTHA.pdf,1337,jaistha,,Kotha Prosonge,5
+4501,UDB-032-1336-37-32-05-JAISTHA.pdf,1337,jaistha,,Swami Turianander Sohit Kothopokothon,5
+4502,UDB-032-1336-37-32-05-JAISTHA.pdf,1337,jaistha,,Bhogni Christin,5
+4503,UDB-032-1336-37-32-05-JAISTHA.pdf,1337,jaistha,Roma Rola ,Oikko Songosthapokgon,5
+4504,UDB-032-1336-37-32-05-JAISTHA.pdf,1337,jaistha,Sri Prafullachandra Bhattacharya,Prachin Bharote Shikhha,5
+4505,UDB-032-1336-37-32-05-JAISTHA.pdf,1337,jaistha,,Torkosongroho,5
+4506,UDB-032-1336-37-32-05-JAISTHA.pdf,1337,jaistha,Sri Bhupendrachandra Chakraborty,Kalkar,5
+4507,UDB-032-1336-37-32-05-JAISTHA.pdf,1337,jaistha,,Bodhisotto Vivekananda,5
+4508,UDB-032-1336-37-32-05-JAISTHA.pdf,1337,jaistha,,Pushtok Porichoy,5
+4509,UDB-032-1336-37-32-05-JAISTHA.pdf,1337,jaistha,,Songho O Barta,5
+4510,UDB-032-1336-37-32-06-ASHAR.pdf,1337,ashar,,Swami Shibanander Potrangsho,6
+4511,UDB-032-1336-37-32-06-ASHAR.pdf,1337,ashar,Basudebananda ,Swami Prosonge,6
+4512,UDB-032-1336-37-32-06-ASHAR.pdf,1337,ashar,,Saradananda Smriti,6
+4513,UDB-032-1336-37-32-06-ASHAR.pdf,1337,ashar,Basudebananda ,Okhhor O Sonkhha,6
+4514,UDB-032-1336-37-32-06-ASHAR.pdf,1337,ashar,Oddhyapok Sri Bibhutibhuson Dutta,Oddoitobad O Shristitotto,6
+4515,UDB-032-1336-37-32-06-ASHAR.pdf,1337,ashar,Brahmmachari Okhhoy Chaitanya,Swami Saradananda,6
+4516,UDB-032-1336-37-32-06-ASHAR.pdf,1337,ashar,Swami Achintananda,Duttatreyo,6
+4517,UDB-032-1336-37-32-06-ASHAR.pdf,1337,ashar,Bijoyananda,Buddhodeb,6
+4518,UDB-032-1336-37-32-06-ASHAR.pdf,1337,ashar,Sri Shibochandra Dutta,Kortobbo Kon Pothe,6
+4519,UDB-032-1336-37-32-06-ASHAR.pdf,1337,ashar,,Torkosongroho,6
+4520,UDB-032-1336-37-32-07-SRABON.pdf,1337,ashar,,Pushtok Porichoy,6
+4521,UDB-032-1336-37-32-07-SRABON.pdf,1337,srabon,,Swami Prosonge,7
+4522,UDB-032-1336-37-32-07-SRABON.pdf,1337,srabon,,Latu Maharajer Upodesh,7
+4523,UDB-032-1336-37-32-07-SRABON.pdf,1337,srabon,Basudebananda ,Kotha Prosonge,7
+4524,UDB-032-1336-37-32-07-SRABON.pdf,1337,srabon,Oddhyapok Sri Bibhutibhuson Dutta,Oddoitobad O Shristitotto,7
+4525,UDB-032-1336-37-32-07-SRABON.pdf,1337,srabon,Swami Bijoyananda,Buddhodeb,7
+4526,UDB-032-1336-37-32-07-SRABON.pdf,1337,srabon,,Torko-Songroho,7
+4527,UDB-032-1336-37-32-07-SRABON.pdf,1337,srabon,Brahmmachari Subhochaitanya,Shikhhar Bahon,7
+4528,UDB-032-1336-37-32-07-SRABON.pdf,1337,srabon,Swami Dhrubatmananda,Pagol Mon,7
+4529,UDB-032-1336-37-32-07-SRABON.pdf,1337,srabon,,Pushtok Porichoy,7
+4530,UDB-032-1336-37-32-07-SRABON.pdf,1337,srabon,,Songho O Barta,7
+4531,UDB-032-1336-37-32-08-VADRO.pdf,1337,vadro,,Swami Prosonge,8
+4532,UDB-032-1336-37-32-08-VADRO.pdf,1337,vadro,,Kotha Prosonge,8
+4533,UDB-032-1336-37-32-08-VADRO.pdf,1337,vadro,Swami Dhrubatmananda,Ishwar Achen Ki?,8
+4534,UDB-032-1336-37-32-08-VADRO.pdf,1337,vadro,Swami Gambhirananda,Sri Shankar,8
+4535,UDB-032-1336-37-32-08-VADRO.pdf,1337,vadro,Brahmmachai Okhhoychaitanya,Swami Saradananda,8
+4536,UDB-032-1336-37-32-08-VADRO.pdf,1337,vadro,Oddhyapok Sri Bibhutibhuson Dutta,Oddoitobad O Shristitotto,8
+4537,UDB-032-1336-37-32-08-VADRO.pdf,1337,vadro,,Torko-Songroho,8
+4538,UDB-032-1336-37-32-08-VADRO.pdf,1337,vadro,Odhhyapok Rasmohon Chakraborty,Paschatye Uponishoder Probhab,8
+4539,UDB-032-1336-37-32-08-VADRO.pdf,1337,vadro,,Swami Turianander Sohit Kothopokothon,8
+4540,UDB-032-1336-37-32-08-VADRO.pdf,1337,vadro,Swami Sundarananda,Ishwar,8
+4541,UDB-032-1336-37-32-08-VADRO.pdf,1337,vadro,Swami Mangalananda,Manob Mukti,8
+4542,UDB-032-1336-37-32-08-VADRO.pdf,1337,vadro,Swami Dhrubatmananda,Pushtok Porichoy,8
+4543,UDB-032-1336-37-32-08-VADRO.pdf,1337,vadro,,Songho O Barta,8
+4544,UDB-032-1336-37-32-09-ASHYEEN.pdf,1337,ashyeen,,Kishorganj Sebakarjo,9
+4545,UDB-032-1336-37-32-09-ASHYEEN.pdf,1337,ashyeen,,Kotha Prosonge,9
+4546,UDB-032-1336-37-32-09-ASHYEEN.pdf,1337,ashyeen,Roma Rola Pronito,Oikko Songosthapokgon,9
+4547,UDB-032-1336-37-32-09-ASHYEEN.pdf,1337,ashyeen,Pandit Rajendranath Ghosh,Bedanto Darshoner Itihaas,9
+4548,UDB-032-1336-37-32-09-ASHYEEN.pdf,1337,ashyeen,,Torko-Songroho,9
+4549,UDB-032-1336-37-32-09-ASHYEEN.pdf,1337,ashyeen,Oddhyapok Sri Bibhutibhuson Dutta,Oddoitobad O Shristitotto,9
+4550,UDB-032-1336-37-32-09-ASHYEEN.pdf,1337,ashyeen,Swami Sombhudhhananda,Dokhhin Bharote Sri Ramakrishna-Vivekananda,9
+4551,UDB-032-1336-37-32-09-ASHYEEN.pdf,1337,ashyeen,,Pushtok Porichoy,9
+4552,UDB-032-1336-37-32-09-ASHYEEN.pdf,1337,ashyeen,,Songho O Barta,9
+4553,UDB-032-1336-37-32-10-KARTIKK.pdf,1337,Kartikk,Swami Birojananda,Kishorganj O Sindhudeshe  Ramakrishna Missioner Sebakarjo,10
+4554,UDB-032-1336-37-32-10-KARTIKK.pdf,1337,Kartikk,,Kotha Prosonge,10
+4555,UDB-032-1336-37-32-10-KARTIKK.pdf,1337,Kartikk,Oddhyapok Sri Rameshchandra Bandopadhyay,Gabhi O Smriti,10
+4556,UDB-032-1336-37-32-10-KARTIKK.pdf,1337,Kartikk,Pandit Rajendranath Ghosh,Bedanter Itihaas,10
+4557,UDB-032-1336-37-32-10-KARTIKK.pdf,1337,Kartikk,Basudebananda ,Maya Mukur,10
+4558,UDB-032-1336-37-32-10-KARTIKK.pdf,1337,Kartikk,,Torko-Songroho,10
+4559,UDB-032-1336-37-32-10-KARTIKK.pdf,1337,Kartikk,Oddhyapok Sri Rasmohon Chakraborty,Prachin Misorer Dhormototto,10
+4560,UDB-032-1336-37-32-10-KARTIKK.pdf,1337,Kartikk,Sri Okkhoychandra Majumdar Chowdhury,Grontho O Gronthagare Budhhinash-Nirodh,10
+4561,UDB-032-1336-37-32-10-KARTIKK.pdf,1337,Kartikk,,Somosya,10
+4562,UDB-032-1336-37-32-10-KARTIKK.pdf,1337,Kartikk,,Saradananda Smriti,10
+4563,UDB-032-1336-37-32-10-KARTIKK.pdf,1337,Kartikk,,Pushtok Porichoy,10
+4564,UDB-032-1336-37-32-10-KARTIKK.pdf,1337,Kartikk,,Songho O Barta,10
+4565,UDB-032-1336-37-32-11-AGROHAWAN.pdf,1337,agrohawan,Sri Sailendranath Ghosh,Nomoh Sarade Barade Janani,11
+4566,UDB-032-1336-37-32-11-AGROHAWAN.pdf,1337,agrohawan,Swami Nikhilananda,Sri Sri Ma,11
+4567,UDB-032-1336-37-32-11-AGROHAWAN.pdf,1337,agrohawan,,Swami Prosonge,11
+4568,UDB-032-1336-37-32-11-AGROHAWAN.pdf,1337,agrohawan,Sri Okrurchandra Dhar,Chandal,11
+4569,UDB-032-1336-37-32-11-AGROHAWAN.pdf,1337,agrohawan,,Kotha Prosonge,11
+4570,UDB-032-1336-37-32-11-AGROHAWAN.pdf,1337,agrohawan,Sri Pachugopal Roy,Sati,11
+4571,UDB-032-1336-37-32-11-AGROHAWAN.pdf,1337,agrohawan,Bamdebananda,Ma,11
+4572,UDB-032-1336-37-32-11-AGROHAWAN.pdf,1337,agrohawan,Sri Manindralal Bhowmick,Bisorjon,11
+4573,UDB-032-1336-37-32-11-AGROHAWAN.pdf,1337,agrohawan,Sri Ramanikumar Duttagupta,Swami Premananda,11
+4574,UDB-032-1336-37-32-11-AGROHAWAN.pdf,1337,agrohawan,,Saradananda Smriti,11
+4575,UDB-032-1336-37-32-11-AGROHAWAN.pdf,1337,agrohawan,Sri Amarnath Roy,Sri Oddoitacharjo,11
+4576,UDB-032-1336-37-32-11-AGROHAWAN.pdf,1337,agrohawan,Pandit Ononto Torkotirtho,Poncho-Lokhhoni,11
+4577,UDB-032-1336-37-32-11-AGROHAWAN.pdf,1337,agrohawan,,Pushtok Porichoy,11
+4578,UDB-032-1336-37-32-11-AGROHAWAN.pdf,1337,agrohawan,,Songho O Barta,11
+4579,UDB-032-1336-37-32-12-POUSH.pdf,1337,poush,Sri Nagendra Diwan,Vivekananda-Bondona,12
+4580,UDB-032-1336-37-32-12-POUSH.pdf,1337,poush,,Swami Prosonge,12
+4581,UDB-032-1336-37-32-12-POUSH.pdf,1337,poush,,Kotha Prosonge,12
+4582,UDB-032-1336-37-32-12-POUSH.pdf,1337,poush,,Osudhho Poth,12
+4583,UDB-032-1336-37-32-12-POUSH.pdf,1337,poush,Sri Okrurchandra Dhar,Bhakto,12
+4584,UDB-032-1336-37-32-12-POUSH.pdf,1337,poush,Swami Tarakeswarananda,Sri Sri Mar Jonmotithi Smorone,12
+4585,UDB-032-1336-37-32-12-POUSH.pdf,1337,poush,Sri Amalkumar Dutta,Bortoman Shikhha Somosya O Swami Vivekananda,12
+4586,UDB-032-1336-37-32-12-POUSH.pdf,1337,poush,Sri Khitish Chandra Deb,Kabbosahitya O Swami Vivekananda,12
+4587,UDB-032-1336-37-32-12-POUSH.pdf,1337,poush,Sri Sahaji,Mukti-Moron,12
+4588,UDB-032-1336-37-32-12-POUSH.pdf,1337,poush,Sri Bolai Debsharma,Sahitye Brihoter Upashona,12
+4589,UDB-032-1336-37-32-12-POUSH.pdf,1337,poush,,Bhogni Christin,12
+4590,UDB-032-1336-37-32-12-POUSH.pdf,1337,poush,Sri Amarnath Roy,Sri Dhanapati Suri,12
+4591,UDB-032-1336-37-32-12-POUSH.pdf,1337,poush,,Pushtok Porichoy,12
+4592,UDB-032-1336-37-32-12-POUSH.pdf,1337,poush,,Songho O Barta,12
+4593,UDB-033-1337-38-33-01-MAGH.pdf,1337,magh,Sri Sabitri Prosonno Chattopadhyay,Udbodhon,1
+4594,UDB-033-1337-38-33-01-MAGH.pdf,1337,magh,Sudhhananda,Udbodhoner Noboborsho,1
+4595,UDB-033-1337-38-33-01-MAGH.pdf,1337,magh,,Kotha Prosonge,1
+4596,UDB-033-1337-38-33-01-MAGH.pdf,1337,magh,Sri Monmothonath Majumdar,Sri Vivekananda,1
+4597,UDB-033-1337-38-33-01-MAGH.pdf,1337,magh,Sri Prafullachandra Bhattacharya,Swami Vivekananda,1
+4598,UDB-033-1337-38-33-01-MAGH.pdf,1337,magh,Sri Gobindrachandra Deb,Sebadhormmo,1
+4599,UDB-033-1337-38-33-01-MAGH.pdf,1337,magh,Sri Surendranath Basu,Sri Saradananda,1
+4600,UDB-033-1337-38-33-01-MAGH.pdf,1337,magh,Oddhyapok Okhhoykumar Bandopadhyay,Geetay Srikrishner Attoporichoy,1
+4601,UDB-033-1337-38-33-01-MAGH.pdf,1337,magh,Sri Madhablal Chattopadhyay,Kamona,1
+4602,UDB-033-1337-38-33-01-MAGH.pdf,1337,magh,Oddhyapok Sri Radhakrishnan,Jatiyota Kahake Bole?,1
+4603,UDB-033-1337-38-33-01-MAGH.pdf,1337,magh,Sri Nirodbondhu Sanyal,Yom-Ori,1
+4604,UDB-033-1337-38-33-01-MAGH.pdf,1337,magh,Sri Hemchandra Dutta,Arte Biporjoy,1
+4605,UDB-033-1337-38-33-01-MAGH.pdf,1337,magh,Brahmmachari Sot Chaitanya,Mrs C.E.Savoir,1
+4606,UDB-033-1337-38-33-01-MAGH.pdf,1337,magh,,Songho Barta,1
+4607,UDB-033-1337-38-33-02-FALGOON.pdf,1337,falgoon,Sri Vivekananda Mukhopadhyay,Prithibir Khuli Purbodar,2
+4608,UDB-033-1337-38-33-02-FALGOON.pdf,1337,falgoon,,Kotha Prosonge,2
+4609,UDB-033-1337-38-33-02-FALGOON.pdf,1337,falgoon,Sri Bibhutibhuson Bandopadhyay,Swamiji,2
+4610,UDB-033-1337-38-33-02-FALGOON.pdf,1337,falgoon,,Nobbo-Bharoter Dhormmadorsho,2
+4611,UDB-033-1337-38-33-02-FALGOON.pdf,1337,falgoon,Oddhyapok Sri Radhakrishnan,Swami Vivekananda,2
+4612,UDB-033-1337-38-33-02-FALGOON.pdf,1337,falgoon,Sri Ramakrishna Smoron,Ramakrishna Naam,2
+4613,UDB-033-1337-38-33-02-FALGOON.pdf,1337,falgoon,Swami Bamdebananda,"""Ore Ke Kothy Achis""",2
+4614,UDB-033-1337-38-33-02-FALGOON.pdf,1337,falgoon,Sri Satyendranath Majumdar,Sri Sri Ramakrishnadeb,2
+4615,UDB-033-1337-38-33-02-FALGOON.pdf,1337,falgoon,Sri Munindramohun Chaki,Ramakrishna,2
+4616,UDB-033-1337-38-33-02-FALGOON.pdf,1337,falgoon,Sri Sailendranath Pal,Ramakrishna O Sarbojonin Dhormmo,2
+4617,UDB-033-1337-38-33-02-FALGOON.pdf,1337,falgoon,Sri Sahaji,Geetanusoron,2
+4618,UDB-033-1337-38-33-02-FALGOON.pdf,1337,falgoon,Sri Sureshchandra Sen,Geeta O Odhikar,2
+4619,UDB-033-1337-38-33-02-FALGOON.pdf,1337,falgoon,Sri Ajitnath Sarkar,Kolpotoru,2
+4620,UDB-033-1337-38-33-02-FALGOON.pdf,1337,falgoon,,Puthi O Potro,2
+4621,UDB-033-1337-38-33-02-FALGOON.pdf,1337,falgoon,Sri Bolai Debsharma,Swaraj-Swadhinota-Rastro,2
+4622,UDB-033-1337-38-33-02-FALGOON.pdf,1337,falgoon,Srijukto Sudhindro Basu,Joghonno Judhhalipsa,2
+4623,UDB-033-1337-38-33-02-FALGOON.pdf,1337,falgoon,Swami Bamdebananda,Pandit Motilal,2
+4624,UDB-033-1337-38-33-03-CHAITRA.pdf,1337,chaitra,Oddhyapok Ashutosh Sengupta,Sri Ramakrishna,3
+4625,UDB-033-1337-38-33-03-CHAITRA.pdf,1337,chaitra,Sri Prafullachandra Bhattacharya,Sri Ramakrishna Deb,3
+4626,UDB-033-1337-38-33-03-CHAITRA.pdf,1337,chaitra,,Kotha Prosonge,3
+4627,UDB-033-1337-38-33-03-CHAITRA.pdf,1337,chaitra,Oddhyapok Okhhoykumar Bandopadhyay,Geetay Srikrishner Attoporichoy,3
+4628,UDB-033-1337-38-33-03-CHAITRA.pdf,1337,chaitra,Oddhyapok Rasmohun Chakraborty,Buddhadeb O Bornogoto Jatibhed,3
+4629,UDB-033-1337-38-33-03-CHAITRA.pdf,1337,chaitra,Roy Sri Amarnath Roybahadur,Sri Gourangodeber Somproday,3
+4630,UDB-033-1337-38-33-03-CHAITRA.pdf,1337,chaitra,Swami Punyananda,Bharoter Jatiyotar Bhitti,3
+4631,UDB-033-1337-38-33-03-CHAITRA.pdf,1337,chaitra,Swami Gambhirananda,Christer Purbe Europe Boudhhodhormmer Prosar,3
+4632,UDB-033-1337-38-33-03-CHAITRA.pdf,1337,chaitra,Brahmmachari Sot Chaitanya,Guru,3
+4633,UDB-033-1337-38-33-03-CHAITRA.pdf,1337,chaitra,Achintananda,Nanok-Chayan,3
+4634,UDB-033-1337-38-33-03-CHAITRA.pdf,1337,chaitra,,Dishari,3
+4635,UDB-033-1337-38-33-03-CHAITRA.pdf,1337,chaitra,Sri Bibhutibhuson Bandopadhyay,Ramakrishna,3
+4636,UDB-033-1337-38-33-03-CHAITRA.pdf,1337,chaitra,Sri Satyendranath Majumdar,Doljatra,3
+4637,UDB-033-1337-38-33-03-CHAITRA.pdf,1337,chaitra,Sri Obonimohun Gupta,Uponishoder Kotha,3
+4638,UDB-033-1337-38-33-03-CHAITRA.pdf,1337,chaitra,,Puthi O Potro,3
+4639,UDB-033-1337-38-33-03-CHAITRA.pdf,1337,chaitra,,Songho O Barta,3
+4640,UDB-033-1337-38-33-04-BAISHAKH.pdf,1338,baishakh,Swami Vivekananda,Gyan-Yog Kotha,4
+4641,UDB-033-1337-38-33-04-BAISHAKH.pdf,1338,baishakh,,Swami Turianander Sohit Kothopokothon,4
+4642,UDB-033-1337-38-33-04-BAISHAKH.pdf,1338,baishakh,Srimoti,Niveditar Kotha,4
+4643,UDB-033-1337-38-33-04-BAISHAKH.pdf,1338,baishakh,,Kotha Prosonge,4
+4644,UDB-033-1337-38-33-04-BAISHAKH.pdf,1338,baishakh,Oddhyapok Sri Jyotishchandra Bandopadhyay,Shaktibad O Mayabad,4
+4645,UDB-033-1337-38-33-04-BAISHAKH.pdf,1338,baishakh,Sri Bolai Debsharma,Bangla O Bangali,4
+4646,UDB-033-1337-38-33-04-BAISHAKH.pdf,1338,baishakh,Brahmachhari Bimal,Poromanu Hoite Ononto Gogonmondole,4
+4647,UDB-033-1337-38-33-04-BAISHAKH.pdf,1338,baishakh,Sri Sahaji,Geetanusoron,4
+4648,UDB-033-1337-38-33-04-BAISHAKH.pdf,1338,baishakh,Sri Jaminikanta Das,Bibek Sudha,4
+4649,UDB-033-1337-38-33-04-BAISHAKH.pdf,1338,baishakh,Sri Harendranath Brahmmachari,Adorsho-Chikitsa,4
+4650,UDB-033-1337-38-33-04-BAISHAKH.pdf,1338,baishakh,,Puthi O Potro,4
+4651,UDB-033-1337-38-33-04-BAISHAKH.pdf,1338,baishakh,,Songho Barta,4
+4652,UDB-033-1337-38-33-05-JAISTHA.pdf,1338,jaistha,Swami Vivekananda,Gyan-Yog Kotha,5
+4653,UDB-033-1337-38-33-05-JAISTHA.pdf,1338,jaistha,,Kali Kirton,5
+4654,UDB-033-1337-38-33-05-JAISTHA.pdf,1338,jaistha,Srimoti,Niveditar Kotha,5
+4655,UDB-033-1337-38-33-05-JAISTHA.pdf,1338,jaistha,,Kotha Prosonge,5
+4656,UDB-033-1337-38-33-05-JAISTHA.pdf,1338,jaistha,Sri Nonibala Debi,Sri Chaitanya,5
+4657,UDB-033-1337-38-33-05-JAISTHA.pdf,1338,jaistha,Sri Niharika Debi,Tumi,5
+4658,UDB-033-1337-38-33-05-JAISTHA.pdf,1338,jaistha,Sri Debendranath Mohista,Ramakrishna,5
+4659,UDB-033-1337-38-33-05-JAISTHA.pdf,1338,jaistha,Sri Narayan Chakraborty,Swarup,5
+4660,UDB-033-1337-38-33-05-JAISTHA.pdf,1338,jaistha,Oddhyapok Okhhoykumar Bandopadhyay,Geetay Srikrishner Attoporichoy,5
+4661,UDB-033-1337-38-33-05-JAISTHA.pdf,1338,jaistha,Basudebananda,Bodhisotto,5
+4662,UDB-033-1337-38-33-05-JAISTHA.pdf,1338,jaistha,Sri Harshit Sengupta,Swami Vivekananda O Bharoter Jatiyota,5
+4663,UDB-033-1337-38-33-05-JAISTHA.pdf,1338,jaistha,Jagadiswarananda,Monishi Kaizer Linger Jiboni O Bani,5
+4664,UDB-033-1337-38-33-05-JAISTHA.pdf,1338,jaistha,Bamdebananda,Shanti Kothy?,5
+4665,UDB-033-1337-38-33-05-JAISTHA.pdf,1338,jaistha,,Swami Turianander Sohit Kothopokothon,5
+4666,UDB-033-1337-38-33-05-JAISTHA.pdf,1338,jaistha,,Puthi O Potro,5
+4667,UDB-033-1337-38-33-05-JAISTHA.pdf,1338,jaistha,,Songho O Barta,5
+4668,UDB-033-1337-38-33-06-ASHAR.pdf,1338,ashar,Swami Vivekananda,Gyan-Yog Kotha,6
+4669,UDB-033-1337-38-33-06-ASHAR.pdf,1338,ashar,,Mahapurushjir Kotha,6
+4670,UDB-033-1337-38-33-06-ASHAR.pdf,1338,ashar,Nivedita,Hindudhormer Bijoyabhijan,6
+4671,UDB-033-1337-38-33-06-ASHAR.pdf,1338,ashar,,Kotha Prosonge,6
+4672,UDB-033-1337-38-33-06-ASHAR.pdf,1338,ashar,Raja Sri Purnendunath Roy,Joubon,6
+4673,UDB-033-1337-38-33-06-ASHAR.pdf,1338,ashar,,Kali Kirton,6
+4674,UDB-033-1337-38-33-06-ASHAR.pdf,1338,ashar,Sri Obonimohun Gupta,Prachin Banglar Bidhushi Nari,6
+4675,UDB-033-1337-38-33-06-ASHAR.pdf,1338,ashar,Srimoti,Niveditar Kotha,6
+4676,UDB-033-1337-38-33-06-ASHAR.pdf,1338,ashar,Sri Sureshchandra Majumdar,Mukti Kon Pothe?,6
+4677,UDB-033-1337-38-33-06-ASHAR.pdf,1338,ashar,Sri Amiyojibon Mukhopadhyay,Amake Korio Khoma,6
+4678,UDB-033-1337-38-33-06-ASHAR.pdf,1338,ashar,Sri Apurba Krishna Basu,Sudurer Jatri,6
+4679,UDB-033-1337-38-33-06-ASHAR.pdf,1338,ashar,Sri Tirokeswar Roy,Amitto,6
+4680,UDB-033-1337-38-33-06-ASHAR.pdf,1338,ashar,Sri Surendranath Das,Manobotto,6
+4681,UDB-033-1337-38-33-06-ASHAR.pdf,1338,ashar,,Madhukori,6
+4682,UDB-033-1337-38-33-06-ASHAR.pdf,1338,ashar,Sri Umapada Mukhopadhyay,Ramakrishna Totto,6
+4683,UDB-033-1337-38-33-06-ASHAR.pdf,1338,ashar,Sri Amulyacharan Modak,Uttar kachar Bhromon,6
+4684,UDB-033-1337-38-33-06-ASHAR.pdf,1338,ashar,,Puthi O Potro,6
+4685,UDB-033-1337-38-33-06-ASHAR.pdf,1338,ashar,,Songho O Barta,6
+4686,UDB-033-1337-38-33-07-SRABON.pdf,1338,srabon,Swami Vivekananda,Gyan-Yog Kotha,7
+4687,UDB-033-1337-38-33-07-SRABON.pdf,1338,srabon,,Kali Kirton,7
+4688,UDB-033-1337-38-33-07-SRABON.pdf,1338,srabon,,Kotha Prosonge,7
+4689,UDB-033-1337-38-33-07-SRABON.pdf,1338,srabon,Oddhyapok Okhhoykumar Bandopadhyay,Geetay Srikrishner Attoporichoy,7
+4690,UDB-033-1337-38-33-07-SRABON.pdf,1338,srabon,Oddhyapok Sri Rasmohun Chakraborty,Congfuche,7
+4691,UDB-033-1337-38-33-07-SRABON.pdf,1338,srabon,Srimoti ,Niveditar Kotha,7
+4692,UDB-033-1337-38-33-07-SRABON.pdf,1338,srabon,Sri Niharika Debi,Sorju,7
+4693,UDB-033-1337-38-33-07-SRABON.pdf,1338,srabon,Sri Sorojkumari Debi,Geetakar,7
+4694,UDB-033-1337-38-33-07-SRABON.pdf,1338,srabon,Sri Debendranath Chattopadhyay,Bharoter Nariprogoti,7
+4695,UDB-033-1337-38-33-07-SRABON.pdf,1338,srabon,Brahmmachari Bimal,Madhukori,7
+4696,UDB-033-1337-38-33-07-SRABON.pdf,1338,srabon,Sri Tejendra Singho Sarkar,Sri Sri Ramakrishna O Doridro Narayan Seba,7
+4697,UDB-033-1337-38-33-07-SRABON.pdf,1338,srabon,,Puthi O Potro,7
+4698,UDB-033-1337-38-33-07-SRABON.pdf,1338,srabon,,Songho O Barta,7
+4699,UDB-033-1337-38-33-07-SRABON.pdf,1338,srabon,,Nibedon,7
+4700,UDB-033-1337-38-33-08-VADRO.pdf,1338,vadro,Swami Vivekananda,Gyan-Yog Kotha,8
+4701,UDB-033-1337-38-33-08-VADRO.pdf,1338,vadro,,Hindudhormer Bijoyabhijan,8
+4702,UDB-033-1337-38-33-08-VADRO.pdf,1338,vadro,,Kali Kirton,8
+4703,UDB-033-1337-38-33-08-VADRO.pdf,1338,vadro,,Kotha Prosonge,8
+4704,UDB-033-1337-38-33-08-VADRO.pdf,1338,vadro,Sri Sahaji,Bamon Bijoy,8
+4705,UDB-033-1337-38-33-08-VADRO.pdf,1338,vadro,Sriramakrishna Soron,Sundor,8
+4706,UDB-033-1337-38-33-08-VADRO.pdf,1338,vadro,Sri Debendranath Mohista,Somorpon,8
+4707,UDB-033-1337-38-33-08-VADRO.pdf,1338,vadro,Sri Hemchandra Dutta,Otithi,8
+4708,UDB-033-1337-38-33-08-VADRO.pdf,1338,vadro,Sri Sailendranath Ghosh,Sibaji O Ramdas,8
+4709,UDB-033-1337-38-33-08-VADRO.pdf,1338,vadro,Sri Bibhutibhuson Bandopadhyay,Biswapother Jatri Mohan,8
+4710,UDB-033-1337-38-33-08-VADRO.pdf,1338,vadro,Bamdebananda,Nobin Bharot,8
+4711,UDB-033-1337-38-33-08-VADRO.pdf,1338,vadro,Sri Amulyacharan Modak,Uttar Kachar Bhromon,8
+4712,UDB-033-1337-38-33-08-VADRO.pdf,1338,vadro,,Madhukori,8
+4713,UDB-033-1337-38-33-08-VADRO.pdf,1338,vadro,Sri Suryakumar Dey,Kromobikastotte Dhormmototto,8
+4714,UDB-033-1337-38-33-08-VADRO.pdf,1338,vadro,Sri Purnendunath Roy,Bhikhha,8
+4715,UDB-033-1337-38-33-08-VADRO.pdf,1338,vadro,Achintananda,Nanok-Chayan,8
+4716,UDB-033-1337-38-33-08-VADRO.pdf,1338,vadro,Sri Khitishchandra Chattopadhyay,Uchhas,8
+4717,UDB-033-1337-38-33-08-VADRO.pdf,1338,vadro,,Puthi O Potro,8
+4718,UDB-033-1337-38-33-08-VADRO.pdf,1338,vadro,,Songho O Barta,8
+4719,UDB-033-1337-38-33-08-VADRO.pdf,1338,vadro,,Sri Ramakrishna Missioner Durbhikhho Sebakarjo,8
+4720,UDB-033-1337-38-33-09-ASHYEEN.pdf,1338,ashyeen,Sri Surendramohun Shastri,Raktokomol,9
+4721,UDB-033-1337-38-33-09-ASHYEEN.pdf,1338,ashyeen,,Mohapurushjir Kotha,9
+4722,UDB-033-1337-38-33-09-ASHYEEN.pdf,1338,ashyeen,,Kali Kirton,9
+4723,UDB-033-1337-38-33-09-ASHYEEN.pdf,1338,ashyeen,Sri Madhablal Chattopadhyay,Agomoni,9
+4724,UDB-033-1337-38-33-09-ASHYEEN.pdf,1338,ashyeen,,Kotha Prosonge,9
+4725,UDB-033-1337-38-33-09-ASHYEEN.pdf,1338,ashyeen,Sri Bujongodhor Roychowdhury,Mayabi,9
+4726,UDB-033-1337-38-33-09-ASHYEEN.pdf,1338,ashyeen,Oddhyapok Okhhoykumar Bandopadhyay,Bhagobaner Jonmokormo O Obotarbad,9
+4727,UDB-033-1337-38-33-09-ASHYEEN.pdf,1338,ashyeen,Pandit Srijukto Rajendranath Ghosh,Oddhyapok Yamakamir Bhranti,9
+4728,UDB-033-1337-38-33-09-ASHYEEN.pdf,1338,ashyeen,Jagadishananda,Bharoter Nikote Jogoter Rin,9
+4729,UDB-033-1337-38-33-09-ASHYEEN.pdf,1338,ashyeen,Swami Poromananda,Jorstar,9
+4730,UDB-033-1337-38-33-09-ASHYEEN.pdf,1338,ashyeen,,Madhukori,9
+4731,UDB-033-1337-38-33-09-ASHYEEN.pdf,1338,ashyeen,Sri Parulbala Ghosh,Ramakrishna,9
+4732,UDB-033-1337-38-33-09-ASHYEEN.pdf,1338,ashyeen,,Puthi O Potro,9
+4733,UDB-033-1337-38-33-09-ASHYEEN.pdf,1338,ashyeen,,Songho O Barta,9
+4734,UDB-033-1337-38-33-10-KARTIKK.pdf,1338,kartikk,Kumari Sunoyona Debi,Agomoni,10
+4735,UDB-033-1337-38-33-10-KARTIKK.pdf,1338,kartikk,,Kali Kirton,10
+4736,UDB-033-1337-38-33-10-KARTIKK.pdf,1338,kartikk,,Mahapurushjir Kotha,10
+4737,UDB-033-1337-38-33-10-KARTIKK.pdf,1338,kartikk,,Saradananda Smriti,10
+4738,UDB-033-1337-38-33-10-KARTIKK.pdf,1338,kartikk,Sri Sabitri Prosonno Chattopadhyay,Bohu Dur,10
+4739,UDB-033-1337-38-33-10-KARTIKK.pdf,1338,kartikk,,Kotha Prosonge,10
+4740,UDB-033-1337-38-33-10-KARTIKK.pdf,1338,kartikk,Pandit  Rajendranath Ghosh,Oddhyapok Yamakamir Bhranti,10
+4741,UDB-033-1337-38-33-10-KARTIKK.pdf,1338,kartikk,Swami Poromananda,Jorstar,10
+4742,UDB-033-1337-38-33-10-KARTIKK.pdf,1338,kartikk,Jagadishananda,Bharoter Nikote Jogoter Rin,10
+4743,UDB-033-1337-38-33-10-KARTIKK.pdf,1338,kartikk,Sri Radharomon Biswas,Agomoni,10
+4744,UDB-033-1337-38-33-10-KARTIKK.pdf,1338,kartikk,Sri Debendranath Chattopadhyay,Narijagriti,10
+4745,UDB-033-1337-38-33-10-KARTIKK.pdf,1338,kartikk,Sot Chaitanya,Kali,10
+4746,UDB-033-1337-38-33-10-KARTIKK.pdf,1338,kartikk,Swami Punyananda,Yobo-Andolon,10
+4747,UDB-033-1337-38-33-10-KARTIKK.pdf,1338,kartikk,Achintananda,Nanok-Chayan,10
+4748,UDB-033-1337-38-33-10-KARTIKK.pdf,1338,kartikk,Sri Hemchandra Dutta,Tulshidas Jibonir Ekti Drishho,10
+4749,UDB-033-1337-38-33-10-KARTIKK.pdf,1338,kartikk,Sri Nanibala Debi,Jiboner Pothe,10
+4750,UDB-033-1337-38-33-10-KARTIKK.pdf,1338,kartikk,Sri Akrur Chandra Dhar,Kabir,10
+4751,UDB-033-1337-38-33-10-KARTIKK.pdf,1338,kartikk,,Desher Kotha,10
+4752,UDB-033-1337-38-33-10-KARTIKK.pdf,1338,kartikk,,Puthi O Potro,10
+4753,UDB-033-1337-38-33-10-KARTIKK.pdf,1338,kartikk,Sri Akrur Chandra Dhar,Rajjoboji,10
+4754,UDB-033-1337-38-33-10-KARTIKK.pdf,1338,kartikk,,Belur Ramakrishna Mission Prathomik Shikhha Bistar Karjo,10
+4755,UDB-033-1337-38-33-11-AGROHAWAN.pdf,1338,agrohawan,,Sri Sri Durgastrotrom,11
+4756,UDB-033-1337-38-33-11-AGROHAWAN.pdf,1338,agrohawan,,Mahapurushjir Kotha,11
+4757,UDB-033-1337-38-33-11-AGROHAWAN.pdf,1338,agrohawan,Bamdebananda,Swami Premananda,11
+4758,UDB-033-1337-38-33-11-AGROHAWAN.pdf,1338,agrohawan,,Saradananda Smriti,11
+4759,UDB-033-1337-38-33-11-AGROHAWAN.pdf,1338,agrohawan,Ananda,Premananda,11
+4760,UDB-033-1337-38-33-11-AGROHAWAN.pdf,1338,agrohawan,,Hindudhormer Bijoyabhijan,11
+4761,UDB-033-1337-38-33-11-AGROHAWAN.pdf,1338,agrohawan,,Kotha Prosonge,11
+4762,UDB-033-1337-38-33-11-AGROHAWAN.pdf,1338,agrohawan,Pandit Rajendranath Ghosh,Oddhyapok Yamakamir Bhranti,11
+4763,UDB-033-1337-38-33-11-AGROHAWAN.pdf,1338,agrohawan,Jagadiswarananda,Bharoter Nikote Jogoter Rin,11
+4764,UDB-033-1337-38-33-11-AGROHAWAN.pdf,1338,agrohawan,Sri Jyotishchandra Bandopadhyay,Paschatya Dorshone Bedanter Abhas,11
+4765,UDB-033-1337-38-33-11-AGROHAWAN.pdf,1338,agrohawan,Sri Vivekananda Mukhopadhyay,Ondhokarer Prosno,11
+4766,UDB-033-1337-38-33-11-AGROHAWAN.pdf,1338,agrohawan,Sri Amiyojibon Mukhopadhyay,Muktir Dak,11
+4767,UDB-033-1337-38-33-11-AGROHAWAN.pdf,1338,agrohawan,Sri Niharika Debi,Shoborir Sidhhi,11
+4768,UDB-033-1337-38-33-11-AGROHAWAN.pdf,1338,agrohawan,Sri Bagalajit Das,Iswar Biswas,11
+4769,UDB-033-1337-38-33-11-AGROHAWAN.pdf,1338,agrohawan,Sri Obonimohun Gupta,Prachin Banglar Bidhushi Nari,11
+4770,UDB-033-1337-38-33-11-AGROHAWAN.pdf,1338,agrohawan,Sri Ramakrishna Smoron,Sundar,11
+4771,UDB-033-1337-38-33-11-AGROHAWAN.pdf,1338,agrohawan,,Sri Sri Ma,11
+4772,UDB-033-1337-38-33-11-AGROHAWAN.pdf,1338,agrohawan,,Puthi O Potro,11
+4773,UDB-033-1337-38-33-11-AGROHAWAN.pdf,1338,agrohawan,,Songho O Barta,11
+4774,UDB-033-1337-38-33-12-POUSH.pdf,1338,poush,Sri Ashutosh Dalal,Ma,12
+4775,UDB-033-1337-38-33-12-POUSH.pdf,1338,poush,,Sri Sri Mar Smriti,12
+4776,UDB-033-1337-38-33-12-POUSH.pdf,1338,poush,Bamdebananda,Sri Sri Ma,12
+4777,UDB-033-1337-38-33-12-POUSH.pdf,1338,poush,,Mahapurushjir Kotha,12
+4778,UDB-033-1337-38-33-12-POUSH.pdf,1338,poush,,Saradananda Smriti,12
+4779,UDB-033-1337-38-33-12-POUSH.pdf,1338,poush,,Kali Kirton,12
+4780,UDB-033-1337-38-33-12-POUSH.pdf,1338,poush,,Kotha Prosonge,12
+4781,UDB-033-1337-38-33-12-POUSH.pdf,1338,poush,Brahmmachari Okkhoy Chaitanya,Eso Ma,12
+4782,UDB-033-1337-38-33-12-POUSH.pdf,1338,poush,,Swami Turianander Potro,12
+4783,UDB-033-1337-38-33-12-POUSH.pdf,1338,poush,Sri Khitishchandra Chattopadhyay,Saradananda,12
+4784,UDB-033-1337-38-33-12-POUSH.pdf,1338,poush,Sri Tamasranjan Roy,Brahmaleen Swami Saradananda,12
+4785,UDB-033-1337-38-33-12-POUSH.pdf,1338,poush,Oddhyapok Okhhoykumar Bandopadhyay,Bhogobaner Jonmokormo O Obotarbad,12
+4786,UDB-033-1337-38-33-12-POUSH.pdf,1338,poush,Sri Bujongodhar Roychowdhury,Ar Koto Kal?,12
+4787,UDB-033-1337-38-33-12-POUSH.pdf,1338,poush,Sri Amiya Sen,Swami Vivekanander Jiboni O Bani,12
+4788,UDB-033-1337-38-33-12-POUSH.pdf,1338,poush,Sri Sahaji,Saswata Bhikhari,12
+4789,UDB-033-1337-38-33-12-POUSH.pdf,1338,poush,Jagadiswarananda,Bharoter Nikote Jogoter Rin,12
+4790,UDB-033-1337-38-33-12-POUSH.pdf,1338,poush,,Borshoseshe,12
+4791,UDB-033-1337-38-33-12-POUSH.pdf,1338,poush,,Puthi O Potro,12
+4792,UDB-033-1337-38-33-12-POUSH.pdf,1338,poush,,Songho O Barta,12
+4793,UDB-033-1337-38-33-12-POUSH.pdf,1338,poush,,Sri Ramakrishna Missioner Bonna Sebakarjo,12
+4794,UDB-033-1337-38-33-12-POUSH.pdf,1338,poush,,Khasia Paharer Durgotsob,12
+4795,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,Sri Arindrajit Mukhopadhyay,Vedodbodhon,1
+4796,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,Sri Ramakrishna Soron,Mahakal,1
+4797,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,Sudhhananda,Om Madhu,1
+4798,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,Swami Vivekananda,Dhormmer Proyonjon,1
+4799,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,,Swami Brahmmanander Upodesh,1
+4800,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,,Mahapurushjir Kotha,1
+4801,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,,Saradananda Smriti,1
+4802,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,,Kotha Prosonge,1
+4803,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,Oddhyapok Sri Jyotishchandra Bandopadhyay,Paschatya Dorshone Bedanter Abhas,1
+4804,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,Sri Satish Chandra Sil,Bedanto Dorshoner Bibhinno Motobad,1
+4805,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,,Kali Kirton,1
+4806,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,Sri Mahadeb Chattopadhyay,Swami Vivekananda,1
+4807,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,Sri Monoroma Debi,Korunamoy,1
+4808,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,Sri Sarojbasini Debi,Brahmma Sishu,1
+4809,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,Sundarananda,Bharoter Jatiyo Somosyay Swami Vivekananda,1
+4810,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,Sot-Chaitanya,Sreyer Pothe,1
+4811,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,Basudebananda,Konark,1
+4812,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,Oddhyapok - Sri Radhakrishnan,Madhukori,1
+4813,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,,Joyonti Utsobe,1
+4814,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,,Rabindranather Protyobhinandan,1
+4815,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,,Puthi O Potro,1
+4816,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,,Songho O Barta,1
+4817,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,Oddhyapok Sri Kaliprosonno Dasgupta,Bornashram  Swarajya-Songho O Bornashram Dhormmo,1
+4818,UDB-034-1338-39-34-01-MAGH.pdf,1338,magh,Sri Amulya Charan Modak,Khasia Pahar Bhromon,1
+4819,UDB-034-1338-39-34-02-FALGOON.pdf,1338,falgoon,Sri Arindrajit Mukhopadhyay,Agni-Sukto,2
+4820,UDB-034-1338-39-34-02-FALGOON.pdf,1338,falgoon,Sri Ramakrishna Soron,Chiro-Sundor,2
+4821,UDB-034-1338-39-34-02-FALGOON.pdf,1338,falgoon,Sri Bibhuti Bandopadhyay,Sannyashi,2
+4822,UDB-034-1338-39-34-02-FALGOON.pdf,1338,falgoon,Swami Vivekananda,Dhormmer Proyojon,2
+4823,UDB-034-1338-39-34-02-FALGOON.pdf,1338,falgoon,Sri Mahendranath Das,Swami Vivekanander Kotha,2
+4824,UDB-034-1338-39-34-02-FALGOON.pdf,1338,falgoon,Raja Sri Purnendunath Roy,Sri Sri Ramkrishna,2
+4825,UDB-034-1338-39-34-02-FALGOON.pdf,1338,falgoon,Brahmmachari Sot Chaitanya,Sreyer Pothe,2
+4826,UDB-034-1338-39-34-02-FALGOON.pdf,1338,falgoon,,Sri Ramakrishna Banir Bistar,2
+4827,UDB-034-1338-39-34-02-FALGOON.pdf,1338,falgoon,Sri Satyabrata,Ramakrishna,2
+4828,UDB-034-1338-39-34-02-FALGOON.pdf,1338,falgoon,Sri Niharika Debi,Swami Brahmmananda,2
+4829,UDB-034-1338-39-34-02-FALGOON.pdf,1338,falgoon,,Swami Brahmmanander Upodesh,2
+4830,UDB-034-1338-39-34-02-FALGOON.pdf,1338,falgoon,,Mahapurushjir Kotha,2
+4831,UDB-034-1338-39-34-02-FALGOON.pdf,1338,falgoon,,Alhaiya Bilaval,2
+4832,UDB-034-1338-39-34-02-FALGOON.pdf,1338,falgoon,,Saradananda Smriti,2
+4833,UDB-034-1338-39-34-02-FALGOON.pdf,1338,falgoon,,Kotha Prosonge,2
+4834,UDB-034-1338-39-34-02-FALGOON.pdf,1338,falgoon,Oddhyapok Sri Okkhoykumar Bandopadhyay,Sri Krishna O Obotarbad,2
+4835,UDB-034-1338-39-34-02-FALGOON.pdf,1338,falgoon,Oddhyapok Sri Jyotishchandra Bandopadhyay,Paschatya Dorshone Bedanter Abhas,2
+4836,UDB-034-1338-39-34-02-FALGOON.pdf,1338,falgoon,,Khasia Pahar Bhromon,2
+4837,UDB-034-1338-39-34-02-FALGOON.pdf,1338,falgoon,,Puthi O Potro,2
+4838,UDB-034-1338-39-34-02-FALGOON.pdf,1338,falgoon,,Songho O Barta,2
+4839,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,Sri Arindrajit Mukhopadhyay,Varun-Sukta,3
+4840,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,Sri Ramakrishna Soron,Mrityu,3
+4841,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,,Dhormmer Proyojon,3
+4842,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,,Kali Kirton,3
+4843,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,,Swami Brahmmanander Upodesh,3
+4844,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,,Mahapurushjir Kotha,3
+4845,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,,Saradananda Smriti,3
+4846,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,Oddhyapok Sri Binoykumar Sarkar,Vivekananda,3
+4847,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,Sri Nagendra Diwan Saraswati Kabyotirtho,Prem-Nadia,3
+4848,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,Sri Jaminikanta Das,Sri Gourango,3
+4849,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,,Kotha Prosonge,3
+4850,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,Oddhyapok Sri Okkhoykumar Bandopadhyay,Sri Krishna O Obotarbad,3
+4851,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,Sri Satyabrata,Ramakrishna,3
+4852,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,Sri Satyacharan Chowdhury,Vivekananda,3
+4853,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,Sri Abanimohun Gupta,Prachin Banglar Bidhushi Nari,3
+4854,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,Sri Ahibhuson Bhattacharya Bidyabhuson Sahityaratna,Hindudhormmer Mormobani,3
+4855,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,Sri Debendranath Chattopadhyay,Chintakona,3
+4856,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,Pandit Srijukto Rajendranath Ghosh,Beder Rochoyita Ke?,3
+4857,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,Jagadiswarananda,Bharoter Nikot Jogoter Rin,3
+4858,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,Sri Amulyacharan Modak,Khasia Pahar Bhromon,3
+4859,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,,Puthi O Potro,3
+4860,UDB-034-1338-39-34-03-CHAITRA.pdf,1338,chaitra,,Songho O Barta,3
+4861,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,Sri Arindrajit Mukhopadhyay,Indra-Sukta,4
+4862,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,Sri Ramakrishna Soron,Utsob,4
+4863,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,Swami Vivekananda,Dhormmer Proyojon,4
+4864,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,Raja Sri Purnendunath Roy,Borsho-Boron,4
+4865,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,,Swami Brahmmanander Upodesh,4
+4866,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,,Mahapurushjir Kotha,4
+4867,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,,Saradananda Smriti,4
+4868,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,,Sri Sri Budhhabhojonom,4
+4869,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,,Kotha Prosonge,4
+4870,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,Megheswarananda,Suprobhat,4
+4871,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,Madam Maria Monteswari,Nobo-Bibortoner Udoy,4
+4872,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,Sri Mahadeb Chattopadhyay,Budhhadeb,4
+4873,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,Oddhyapok Sri Binoykumar Sarkar,Bir-Puja,4
+4874,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,Swami Madhabananda,Biswa-Manob,4
+4875,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,Sri Jaminikanta Das,Sri Shankar,4
+4876,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,Pandit Srijukto Rajendranath Ghosh,Beder Rochoyita Ke?,4
+4877,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,Sister Christin,Swamijir Smriti,4
+4878,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,Sri Satish Chandra Sil,Bedanto Dorshoner Bibhinno Motobad,4
+4879,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,Sri Amulyacharan Modak,Khasia Pahar Bhromon,4
+4880,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,,Mahabir,4
+4881,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,,Puthi O Potro,4
+4882,UDB-034-1338-39-34-04-BAISHAKH.pdf,1339,baishakh,,Songho O Barta,4
+4883,UDB-034-1338-39-34-05-JAISTHA.pdf,1339,jaistha,,Bedgaan,5
+4884,UDB-034-1338-39-34-05-JAISTHA.pdf,1339,jaistha,Sri Arindrajit Mukhopadhyay,Surjo-Sukto,5
+4885,UDB-034-1338-39-34-05-JAISTHA.pdf,1339,jaistha,Sri Binapani Chowdhury ,Ma,5
+4886,UDB-034-1338-39-34-05-JAISTHA.pdf,1339,jaistha,,Swami Brahmmanander Potro,5
+4887,UDB-034-1338-39-34-05-JAISTHA.pdf,1339,jaistha,,Mahapurushjir Kotha,5
+4888,UDB-034-1338-39-34-05-JAISTHA.pdf,1339,jaistha,,Bagiswari-Ara,5
+4889,UDB-034-1338-39-34-05-JAISTHA.pdf,1339,jaistha,,Saradananda Smriti,5
+4890,UDB-034-1338-39-34-05-JAISTHA.pdf,1339,jaistha,,Kotha Prosonge,5
+4891,UDB-034-1338-39-34-05-JAISTHA.pdf,1339,jaistha,Madam Maria Monteswari,Somaje Sishu-Somosya,5
+4892,UDB-034-1338-39-34-05-JAISTHA.pdf,1339,jaistha,,Mahabir,5
+4893,UDB-034-1338-39-34-05-JAISTHA.pdf,1339,jaistha,Oddhyapok Sri Jyotishchandra Bandopadhyay,Paschatya Dorshone Bedanter Abhas,5
+4894,UDB-034-1338-39-34-05-JAISTHA.pdf,1339,jaistha,Sri Ganeshchandra Dey,Satyaneshon,5
+4895,UDB-034-1338-39-34-05-JAISTHA.pdf,1339,jaistha,,Madhukori,5
+4896,UDB-034-1338-39-34-05-JAISTHA.pdf,1339,jaistha,Sri Khitindranath Thakur,Noboborsher Ahwan,5
+4897,UDB-034-1338-39-34-05-JAISTHA.pdf,1339,jaistha,,Sri Ramakrishna Mission O Sishumangal,5
+4898,UDB-034-1338-39-34-05-JAISTHA.pdf,1339,jaistha,,Puthi O Potro,5
+4899,UDB-034-1338-39-34-05-JAISTHA.pdf,1339,jaistha,,Songho O Barta,5
+4900,UDB-034-1338-39-34-06-ASHAR.pdf,1339,ashar,,Sri Sri Ramkrishnastokom,6
+4901,UDB-034-1338-39-34-06-ASHAR.pdf,1339,ashar,Swami Vivekananda,Atta Iswar O Dhormmo,6
+4902,UDB-034-1338-39-34-06-ASHAR.pdf,1339,ashar,,Mahapurushjir Kotha,6
+4903,UDB-034-1338-39-34-06-ASHAR.pdf,1339,ashar,,Saradananda Smriti,6
+4904,UDB-034-1338-39-34-06-ASHAR.pdf,1339,ashar,,Kali Kirton,6
+4905,UDB-034-1338-39-34-06-ASHAR.pdf,1339,ashar,,Kotha Prosonge,6
+4906,UDB-034-1338-39-34-06-ASHAR.pdf,1339,ashar,Sri Prabhatchandra Guha Majumdar,Mahabir,6
+4907,UDB-034-1338-39-34-06-ASHAR.pdf,1339,ashar,Sri Ganeshchandra Dey,Satyaneshon,6
+4908,UDB-034-1338-39-34-06-ASHAR.pdf,1339,ashar,,Biswa Monishi Mondolir Proti,6
+4909,UDB-034-1338-39-34-06-ASHAR.pdf,1339,ashar,Jagadiswarananda,Bharoter Nikot Jogoter Rin,6
+4910,UDB-034-1338-39-34-06-ASHAR.pdf,1339,ashar,Sri Okrur Chandra Dhar,Nidrito Narayan,6
+4911,UDB-034-1338-39-34-06-ASHAR.pdf,1339,ashar,,Sokkho,6
+4912,UDB-034-1338-39-34-06-ASHAR.pdf,1339,ashar,Madam Maria Monteswari,Shishu-Shikhhoker Attik Sadhona,6
+4913,UDB-034-1338-39-34-06-ASHAR.pdf,1339,ashar,,Yubo-Andolon,6
+4914,UDB-034-1338-39-34-06-ASHAR.pdf,1339,ashar,,Sri Sri Master Mohasoy,6
+4915,UDB-034-1338-39-34-06-ASHAR.pdf,1339,ashar,Sri Tamosranjan Roy,Swagatam,6
+4916,UDB-034-1338-39-34-06-ASHAR.pdf,1339,ashar,,Madhukori,6
+4917,UDB-034-1338-39-34-06-ASHAR.pdf,1339,ashar,,Eki More Bhul?,6
+4918,UDB-034-1338-39-34-06-ASHAR.pdf,1339,ashar,,Songho O Barta,6
+4919,UDB-034-1338-39-34-07-SRABON.pdf,1339,srabon,Oddhyapok Sri Nityagopal Bidyabinod,Sri Sri Ramakrishnajayati,7
+4920,UDB-034-1338-39-34-07-SRABON.pdf,1339,srabon,Swami Vivekananda,Atta Iswar O Dhormmo,7
+4921,UDB-034-1338-39-34-07-SRABON.pdf,1339,srabon,,Mahapurushjir Kotha,7
+4922,UDB-034-1338-39-34-07-SRABON.pdf,1339,srabon,,Saradananda Smriti,7
+4923,UDB-034-1338-39-34-07-SRABON.pdf,1339,srabon,,Swami Ramakrishnananda,7
+4924,UDB-034-1338-39-34-07-SRABON.pdf,1339,srabon,Brahmmachari Bimal,Boudhhodhormer Multotto,7
+4925,UDB-034-1338-39-34-07-SRABON.pdf,1339,srabon,,Sangeet,7
+4926,UDB-034-1338-39-34-07-SRABON.pdf,1339,srabon,,Kotha Prosonge,7
+4927,UDB-034-1338-39-34-07-SRABON.pdf,1339,srabon,Sri Durgapada Mitra,Mahendra Nath Gupta,7
+4928,UDB-034-1338-39-34-07-SRABON.pdf,1339,srabon,Madam Maria Monteswari,Prapto Boyosko O Shishur Karjo,7
+4929,UDB-034-1338-39-34-07-SRABON.pdf,1339,srabon,,Bhromosudhhi,7
+4930,UDB-034-1338-39-34-07-SRABON.pdf,1339,srabon,,Mahabir,7
+4931,UDB-034-1338-39-34-07-SRABON.pdf,1339,srabon,Sri Ganeshchandra Dey,Satyaneshon,7
+4932,UDB-034-1338-39-34-07-SRABON.pdf,1339,srabon,Sri Nalinkrishna Bandopadhyay,Yatra,7
+4933,UDB-034-1338-39-34-07-SRABON.pdf,1339,srabon,Sri Abanikumar Dey,Mahaprosthan,7
+4934,UDB-034-1338-39-34-07-SRABON.pdf,1339,srabon,,Puthi O Potro,7
+4935,UDB-034-1338-39-34-07-SRABON.pdf,1339,srabon,,Songho O Barta,7
+4936,UDB-034-1338-39-34-08-VADRO.pdf,1339,vadro,,Bedgaan,8
+4937,UDB-034-1338-39-34-08-VADRO.pdf,1339,vadro,Swami Vivekananda,Atta Iswar O Dhormmo,8
+4938,UDB-034-1338-39-34-08-VADRO.pdf,1339,vadro,,Mahapurushjir Kotha,8
+4939,UDB-034-1338-39-34-08-VADRO.pdf,1339,vadro,,Saradananda Smriti,8
+4940,UDB-034-1338-39-34-08-VADRO.pdf,1339,vadro,Brahmmachari Sot Chaitanya,Swami Ramakrishnananda,8
+4941,UDB-034-1338-39-34-08-VADRO.pdf,1339,vadro,,Kotha Prosonge,8
+4942,UDB-034-1338-39-34-08-VADRO.pdf,1339,vadro,Sri Durgapada Mitra,Mahendranath Gupta,8
+4943,UDB-034-1338-39-34-08-VADRO.pdf,1339,vadro,Madam Maria Monteswari,Shikhhar Nobo-Dhara,8
+4944,UDB-034-1338-39-34-08-VADRO.pdf,1339,vadro,Sri Bibhuti Bandopadhyay,Omkar,8
+4945,UDB-034-1338-39-34-08-VADRO.pdf,1339,vadro,Sri Satish Chandra Sil,Bedanto Dorshoner Bibhinno Motobad,8
+4946,UDB-034-1338-39-34-08-VADRO.pdf,1339,vadro,Sri Okrur Chandra Dhar,Biswarup,8
+4947,UDB-034-1338-39-34-08-VADRO.pdf,1339,vadro,Oddhyapok Sri Okkhoykumar Bandopadhyay,Obotarer Kormmoniti,8
+4948,UDB-034-1338-39-34-08-VADRO.pdf,1339,vadro,Sri Bhujongodhar Roychowdhury,Gobindo-Bhojon,8
+4949,UDB-034-1338-39-34-08-VADRO.pdf,1339,vadro,Bamdebananda,Ononter Pothe,8
+4950,UDB-034-1338-39-34-08-VADRO.pdf,1339,vadro,Swami Jagadiswarananda,Byom-Bigyan,8
+4951,UDB-034-1338-39-34-08-VADRO.pdf,1339,vadro,,Puthi O Potro,8
+4952,UDB-034-1338-39-34-08-VADRO.pdf,1339,vadro,,Songho O Barta,8
+4953,UDB-034-1338-39-34-09-ASHYEEN.pdf,1339,ashyeen,Raja Sri Purnendunath Roy,Matri-Boron,9
+4954,UDB-034-1338-39-34-09-ASHYEEN.pdf,1339,ashyeen,,Kotha Prosonge,9
+4955,UDB-034-1338-39-34-09-ASHYEEN.pdf,1339,ashyeen,,Mahapurushjir Kotha,9
+4956,UDB-034-1338-39-34-09-ASHYEEN.pdf,1339,ashyeen,,Saradananda Smriti,9
+4957,UDB-034-1338-39-34-09-ASHYEEN.pdf,1339,ashyeen,,Durgapuja,9
+4958,UDB-034-1338-39-34-09-ASHYEEN.pdf,1339,ashyeen,,Mahendranath Gupta,9
+4959,UDB-034-1338-39-34-09-ASHYEEN.pdf,1339,ashyeen,Sister Christin,Swamijir Smriti,9
+4960,UDB-034-1338-39-34-09-ASHYEEN.pdf,1339,ashyeen,Oddhyapok Sri Okkhoykumar Bandopadhyay,Obotarer Kormmoniti,9
+4961,UDB-034-1338-39-34-09-ASHYEEN.pdf,1339,ashyeen,,Ononter Pothe,9
+4962,UDB-034-1338-39-34-09-ASHYEEN.pdf,1339,ashyeen,Swami Jagadiswarananda,Byom-Bigyan,9
+4963,UDB-034-1338-39-34-09-ASHYEEN.pdf,1339,ashyeen,,Sangeet,9
+4964,UDB-034-1338-39-34-09-ASHYEEN.pdf,1339,ashyeen,Sri Sureshchandra Majumdar,Sahityer Pran,9
+4965,UDB-034-1338-39-34-09-ASHYEEN.pdf,1339,ashyeen,,Puthi O Potro,9
+4966,UDB-034-1338-39-34-09-ASHYEEN.pdf,1339,ashyeen,,Songho O Barta,9
+4967,UDB-034-1338-39-34-10-KARTIKK.pdf,1339,kartikk,,Mahapurushjir Kotha,10
+4968,UDB-034-1338-39-34-10-KARTIKK.pdf,1339,kartikk,,Saradananda Smriti,10
+4969,UDB-034-1338-39-34-10-KARTIKK.pdf,1339,kartikk,Sri Durgapada Mitra,Mahendranath Gupta,10
+4970,UDB-034-1338-39-34-10-KARTIKK.pdf,1339,kartikk,,Kotha Prosonge,10
+4971,UDB-034-1338-39-34-10-KARTIKK.pdf,1339,kartikk,Oddhyapok Sri Binoykumar Sarkar,Jubok Banger Nation-Rastro,10
+4972,UDB-034-1338-39-34-10-KARTIKK.pdf,1339,kartikk,Dr Taroknath Das,Probashi Bharotiyo Chatrogoner Dayitto,10
+4973,UDB-034-1338-39-34-10-KARTIKK.pdf,1339,kartikk,Sri Kanailal Pal,Rosototto,10
+4974,UDB-034-1338-39-34-10-KARTIKK.pdf,1339,kartikk,Oddhyapok Sri Jyotishchandra Bandopadhyay,Paschatya Dorshone Bedanter Abhas,10
+4975,UDB-034-1338-39-34-10-KARTIKK.pdf,1339,kartikk,Brahmmachari Okkhoychaitanya,Swampno-Sesh,10
+4976,UDB-034-1338-39-34-10-KARTIKK.pdf,1339,kartikk,Sri Anil Kumar Saha,Balmiki,10
+4977,UDB-034-1338-39-34-10-KARTIKK.pdf,1339,kartikk,Sri Bijoygopal,Gaan,10
+4978,UDB-034-1338-39-34-10-KARTIKK.pdf,1339,kartikk,Sri Debendranath Chattopadhyay,Chintakona,10
+4979,UDB-034-1338-39-34-10-KARTIKK.pdf,1339,kartikk,,Swadeshi Shilpo-Kotha,10
+4980,UDB-034-1338-39-34-10-KARTIKK.pdf,1339,kartikk,Madam Maria Monteswari,Shikkhar Adorsho O Prokrito Tothho,10
+4981,UDB-034-1338-39-34-10-KARTIKK.pdf,1339,kartikk,,Songho O Barta,10
+4982,UDB-034-1338-39-34-10-KARTIKK.pdf,1339,kartikk,,Gaan,10
+4983,UDB-034-1338-39-34-11-AGROHAWAN.pdf,1339,agrohawan,Swami Kamaleswarananda,Bed O Acharya Swami Premananda,11
+4984,UDB-034-1338-39-34-11-AGROHAWAN.pdf,1339,agrohawan,,Kotha Prosonge,11
+4985,UDB-034-1338-39-34-11-AGROHAWAN.pdf,1339,agrohawan,Dr Taroknath Das,Probhashi Bharotiyo Chatragoner Dayitto,11
+4986,UDB-034-1338-39-34-11-AGROHAWAN.pdf,1339,agrohawan,Sri Kanailal Pal,Rosototto,11
+4987,UDB-034-1338-39-34-11-AGROHAWAN.pdf,1339,agrohawan,Roy Bahadur Sri Amarnath Roy,Ishoponishod,11
+4988,UDB-034-1338-39-34-11-AGROHAWAN.pdf,1339,agrohawan,Oddhyapok Sri Nityagopal Sharma,Hindudhormmo,11
+4989,UDB-034-1338-39-34-11-AGROHAWAN.pdf,1339,agrohawan,Sri Mukundabihari Saha,Master Mohasoyer Smorone,11
+4990,UDB-034-1338-39-34-11-AGROHAWAN.pdf,1339,agrohawan,Sri Bimalchandra Ghosh,Mayabi,11
+4991,UDB-034-1338-39-34-11-AGROHAWAN.pdf,1339,agrohawan,Swami Tarakeswarananda,Bharatiyo Shikhhar Bishistota,11
+4992,UDB-034-1338-39-34-11-AGROHAWAN.pdf,1339,agrohawan,Dr Nilmoni Ghatak,Amader Progoti,11
+4993,UDB-034-1338-39-34-11-AGROHAWAN.pdf,1339,agrohawan,Sri Sahaji,Eklabya,11
+4994,UDB-034-1338-39-34-11-AGROHAWAN.pdf,1339,agrohawan,,Puthi O Potro,11
+4995,UDB-034-1338-39-34-11-AGROHAWAN.pdf,1339,agrohawan,,Songho O Barta,11
+4996,UDB-034-1338-39-34-12-POUSH.pdf,1339,poush,Sri Bibhuti Bandopadhyay,Songhomata,12
+4997,UDB-034-1338-39-34-12-POUSH.pdf,1339,poush,,Bed O Acharya Swami Premananda,12
+4998,UDB-034-1338-39-34-12-POUSH.pdf,1339,poush,,Kotha Prosonge,12
+4999,UDB-034-1338-39-34-12-POUSH.pdf,1339,poush,Sri Ramanikumar Duttagupta,Christodhormmo,12
+5000,UDB-034-1338-39-34-12-POUSH.pdf,1339,poush,Swami Sundarananda,Hindujatir Abhhontorin Onnoikko O Tahar Protikarer Upay,12
+5001,UDB-034-1338-39-34-12-POUSH.pdf,1339,poush,Sri Shankar Swami Shankarananda Tirtho,Chintakona,12
+5002,UDB-034-1338-39-34-12-POUSH.pdf,1339,poush,Sri Obonikumar Dey,Kurukhetre Arjuner Proti Sri Krishna,12
+5003,UDB-034-1338-39-34-12-POUSH.pdf,1339,poush,Sri Shibshambhu Sarkar,Dhormmoprochare Swami Vivekananda,12
+5004,UDB-034-1338-39-34-12-POUSH.pdf,1339,poush,,Srimot Swami Subhodhanander Mahasomadhi,12
+5005,UDB-034-1338-39-34-12-POUSH.pdf,1339,poush,,Madhukori,12
+5006,UDB-034-1338-39-34-12-POUSH.pdf,1339,poush,,Mahaproloy,12
+5007,UDB-034-1338-39-34-12-POUSH.pdf,1339,poush,,Puthi O Potro,12
+5008,UDB-034-1338-39-34-12-POUSH.pdf,1339,poush,,Songho O Barta,12
+5009,UDB-035-1339-40-35-01-MAGH.pdf,1339,magh,,Udbodhon,1
+5010,UDB-035-1339-40-35-01-MAGH.pdf,1339,magh,Swami Vivekananda,Boidik Dhormmadorsho,1
+5011,UDB-035-1339-40-35-01-MAGH.pdf,1339,magh,Swami Sudhhananda,Ki Shikhilam,1
+5012,UDB-035-1339-40-35-01-MAGH.pdf,1339,magh,Swami Kamaleswarananda,Bed O Acharya Swami Premananda,1
+5013,UDB-035-1339-40-35-01-MAGH.pdf,1339,magh,,Srim Somipe,1
+5014,UDB-035-1339-40-35-01-MAGH.pdf,1339,magh,,Kotha Prosonge,1
+5015,UDB-035-1339-40-35-01-MAGH.pdf,1339,magh,Oddhyapok Sri Okhhoykumar Bandopadhyay,Manob Jibon O Obotar Jibon,1
+5016,UDB-035-1339-40-35-01-MAGH.pdf,1339,magh,Swami Basudebananda,Protibha O Acharya,1
+5017,UDB-035-1339-40-35-01-MAGH.pdf,1339,magh,Bamdebananda,Swami Brahmmananda,1
+5018,UDB-035-1339-40-35-01-MAGH.pdf,1339,magh,Sri Binapani Chowdhury,Swami Vivekanander Jonmotsobe,1
+5019,UDB-035-1339-40-35-01-MAGH.pdf,1339,magh,,Sri Sri Saraswati-Sangeet,1
+5020,UDB-035-1339-40-35-01-MAGH.pdf,1339,magh,Sri Bimalchandra Ghosh,Bhoirob-Nrityo,1
+5021,UDB-035-1339-40-35-01-MAGH.pdf,1339,magh,Sister Christin,Swamijir Smriti,1
+5022,UDB-035-1339-40-35-01-MAGH.pdf,1339,magh,Swami Sombhudhhananda,Swami Subhodhnander(Khoka Maharajer) Jiboner Ghotonaboli,1
+5023,UDB-035-1339-40-35-01-MAGH.pdf,1339,magh,Sri Satyabrata,Swami Vivekananda,1
+5024,UDB-035-1339-40-35-01-MAGH.pdf,1339,magh,,Puthi O Potro,1
+5025,UDB-035-1339-40-35-01-MAGH.pdf,1339,magh,,Songho O Barta,1
+5026,UDB-035-1339-40-35-02-FALGOON.pdf,1339,falgoon,Sri Bibhuti Bandopadhyay,Songher Joyogaan,2
+5027,UDB-035-1339-40-35-02-FALGOON.pdf,1339,falgoon,Swami Vivekananda,Boidik Dhormmadorsho,2
+5028,UDB-035-1339-40-35-02-FALGOON.pdf,1339,falgoon,Bireswar Chaitanya,Sri Sri Khoka Maharaj,2
+5029,UDB-035-1339-40-35-02-FALGOON.pdf,1339,falgoon,Sri Subhodhananda,Upodesh,2
+5030,UDB-035-1339-40-35-02-FALGOON.pdf,1339,falgoon,,Srim Somipe,2
+5031,UDB-035-1339-40-35-02-FALGOON.pdf,1339,falgoon,Sri Ramakrishna ,Kotha Prosonge,2
+5032,UDB-035-1339-40-35-02-FALGOON.pdf,1339,falgoon,Sri Bimalchandra Ghosh,Shrishti,2
+5033,UDB-035-1339-40-35-02-FALGOON.pdf,1339,falgoon,Sri Tejendranath Singho Sarkar,Sri Ramakrishna,2
+5034,UDB-035-1339-40-35-02-FALGOON.pdf,1339,falgoon,Sri Satyabrata,Swami Vivekananda,2
+5035,UDB-035-1339-40-35-02-FALGOON.pdf,1339,falgoon,Sri Ramakrishna Soron,Poromhongshodeb,2
+5036,UDB-035-1339-40-35-02-FALGOON.pdf,1339,falgoon,Sri Kanailal Pal,Rosototto,2
+5037,UDB-035-1339-40-35-02-FALGOON.pdf,1339,falgoon,Sri Purnendunath Roy,Doler Rate,2
+5038,UDB-035-1339-40-35-02-FALGOON.pdf,1339,falgoon,,Madhukori,2
+5039,UDB-035-1339-40-35-02-FALGOON.pdf,1339,falgoon,,Puthi O Potro,2
+5040,UDB-035-1339-40-35-02-FALGOON.pdf,1339,falgoon,,Songho O Barta,2
+5041,UDB-035-1339-40-35-03-CHAITRA.pdf,1339,chaitra,Sri Bimalchandra Ghosh,Sondhan,3
+5042,UDB-035-1339-40-35-03-CHAITRA.pdf,1339,chaitra,Swami Vivekananda,Boidik Dhormmadorsho,3
+5043,UDB-035-1339-40-35-03-CHAITRA.pdf,1339,chaitra,,Saradananda Smriti,3
+5044,UDB-035-1339-40-35-03-CHAITRA.pdf,1339,chaitra,,Srim Somipe,3
+5045,UDB-035-1339-40-35-03-CHAITRA.pdf,1339,chaitra,,Toruner Orgho,3
+5046,UDB-035-1339-40-35-03-CHAITRA.pdf,1339,chaitra,,Kotha Prosonge,3
+5047,UDB-035-1339-40-35-03-CHAITRA.pdf,1339,chaitra,Brahmmachari Bireswar Chaitanya,Onu O Poromanu,3
+5048,UDB-035-1339-40-35-03-CHAITRA.pdf,1339,chaitra,,Sangeet,3
+5049,UDB-035-1339-40-35-03-CHAITRA.pdf,1339,chaitra,Sri Sahaji,Geetay Bharotiyo-Chakrer prachin Itihaas,3
+5050,UDB-035-1339-40-35-03-CHAITRA.pdf,1339,chaitra,Mr N.N.Sen,Swami Vivekananda O Tahar Bani,3
+5051,UDB-035-1339-40-35-03-CHAITRA.pdf,1339,chaitra,Sri Amulya Kumar Roychowdhury,Swami Vivekananda,3
+5052,UDB-035-1339-40-35-03-CHAITRA.pdf,1339,chaitra,Sri Tejendranath Singho Sarkar,Sriramakrishna,3
+5053,UDB-035-1339-40-35-03-CHAITRA.pdf,1339,chaitra,,Puthi O Potro,3
+5054,UDB-035-1339-40-35-03-CHAITRA.pdf,1339,chaitra,,Madhukori,3
+5055,UDB-035-1339-40-35-03-CHAITRA.pdf,1339,chaitra,,Songho O Barta,3
+5056,UDB-035-1339-40-35-04-BAISHAKH.pdf,1340,baishakh,Swami Vivekananda,Shibstotro,4
+5057,UDB-035-1339-40-35-04-BAISHAKH.pdf,1340,baishakh,Swami Vivekananda,Boidik Dhormmadorsho,4
+5058,UDB-035-1339-40-35-04-BAISHAKH.pdf,1340,baishakh,Sri Monikuntala Sen,Mayer  Puja,4
+5059,UDB-035-1339-40-35-04-BAISHAKH.pdf,1340,baishakh,Sri Manindranath,Debi-Sukto,4
+5060,UDB-035-1339-40-35-04-BAISHAKH.pdf,1340,baishakh,Raja Sri Purnendu Nath Roy,Budhha,4
+5061,UDB-035-1339-40-35-04-BAISHAKH.pdf,1340,baishakh,Sri Romoni Kumar Dutta,Bhagwan Budhha,4
+5062,UDB-035-1339-40-35-04-BAISHAKH.pdf,1340,baishakh,,Saradananda Smriti,4
+5063,UDB-035-1339-40-35-04-BAISHAKH.pdf,1340,baishakh,Dina,Subhodhananda-Smorone,4
+5064,UDB-035-1339-40-35-04-BAISHAKH.pdf,1340,baishakh,,Srim Somipe,4
+5065,UDB-035-1339-40-35-04-BAISHAKH.pdf,1340,baishakh,Sri Nagendrachandra Som,Aruper Sporsho,4
+5066,UDB-035-1339-40-35-04-BAISHAKH.pdf,1340,baishakh,,Kotha Prosonge,4
+5067,UDB-035-1339-40-35-04-BAISHAKH.pdf,1340,baishakh,swami Jagadiswarananda,Hindu-Chikitsa-Bigyan,4
+5068,UDB-035-1339-40-35-04-BAISHAKH.pdf,1340,baishakh,Oddhyapok Sri Jyotishchandra Bandopadhyay,Paschatyo Dorshone Bedanter Abhas,4
+5069,UDB-035-1339-40-35-04-BAISHAKH.pdf,1340,baishakh,Sri Debendranath Chattopadhyay,Nityosukh,4
+5070,UDB-035-1339-40-35-04-BAISHAKH.pdf,1340,baishakh,Sri Tejendranath Singho Sarkar,Sriramakrishna,4
+5071,UDB-035-1339-40-35-04-BAISHAKH.pdf,1340,baishakh,Sri Abanikumar Dey,Swami Vivekananda,4
+5072,UDB-035-1339-40-35-04-BAISHAKH.pdf,1340,baishakh,,Madhukori,4
+5073,UDB-035-1339-40-35-04-BAISHAKH.pdf,1340,baishakh,,Puthi-Potro,4
+5074,UDB-035-1339-40-35-04-BAISHAKH.pdf,1340,baishakh,,Songho O Barta,4
+5075,UDB-035-1339-40-35-04-BAISHAKH.pdf,1340,baishakh,,Natto-Sahityer Mormmokotha,4
+5076,UDB-035-1339-40-35-05-JAISTHA.pdf,1340,jaistha,Mahamohopadhyay Sri Promothonath Torkobhuson,Sriramakrishnashtokom,5
+5077,UDB-035-1339-40-35-05-JAISTHA.pdf,1340,jaistha,Swami Vivekananda,Hindudhormmo,5
+5078,UDB-035-1339-40-35-05-JAISTHA.pdf,1340,jaistha,,Mahapurushjir Kotha,5
+5079,UDB-035-1339-40-35-05-JAISTHA.pdf,1340,jaistha,,Srim Somipe,5
+5080,UDB-035-1339-40-35-05-JAISTHA.pdf,1340,jaistha,,Kotha Prosonge,5
+5081,UDB-035-1339-40-35-05-JAISTHA.pdf,1340,jaistha,,Prakash,5
+5082,UDB-035-1339-40-35-05-JAISTHA.pdf,1340,jaistha,Sri Okrurchandra Dhar,Onadrito,5
+5083,UDB-035-1339-40-35-05-JAISTHA.pdf,1340,jaistha,Sri Shibosambhu Sarkar,Swamijir Dhyan Chitrodorshone,5
+5084,UDB-035-1339-40-35-05-JAISTHA.pdf,1340,jaistha,Sri Probhaboti Das,Maa,5
+5085,UDB-035-1339-40-35-05-JAISTHA.pdf,1340,jaistha,Sri Okkhoykumar Bandopadhyay,Dhommoglani O Dhormmosongosthapon,5
+5086,UDB-035-1339-40-35-05-JAISTHA.pdf,1340,jaistha,Sri Tejendranath Singho Sarkar,Sriramakrishna,5
+5087,UDB-035-1339-40-35-05-JAISTHA.pdf,1340,jaistha,Sri Kananbihari Mukhopadhyay,Late Rojonikanta Sengupta,5
+5088,UDB-035-1339-40-35-05-JAISTHA.pdf,1340,jaistha,Sri Nityagopal Bidyabinod,Nyaydorshone Srikrishna,5
+5089,UDB-035-1339-40-35-05-JAISTHA.pdf,1340,jaistha,Sri Nagendranath Ghosh,Gangapuja,5
+5090,UDB-035-1339-40-35-05-JAISTHA.pdf,1340,jaistha,Sri Bimolacharan Bidyaratna,Pothiker Kotha,5
+5091,UDB-035-1339-40-35-05-JAISTHA.pdf,1340,jaistha,,Puthipotro,5
+5092,UDB-035-1339-40-35-05-JAISTHA.pdf,1340,jaistha,,Songho Barta,5
+5093,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,Swami Vivekananda,Khela Mor Holo Shesh,6
+5094,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,Swami Vivekananda,Hindudhormmo,6
+5095,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,,Saradananda Smriti,6
+5096,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,,Sri Sri Khoka-Maharajer Kotha,6
+5097,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,,Srim Somipe,6
+5098,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,Sri Ashutosh Dalal,Bhogini Nibeditar Smriti,6
+5099,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,,Kotha Prosonge,6
+5100,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,Sri Bhujongodhar Roychowdhury,Osrur proti,6
+5101,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,Sri Kanailal Pal,Rosototto,6
+5102,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,Sri Nagendranath Bandopadhyay,Bondhon,6
+5103,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,Sri Upendrakumar Kar,Sriramakrishna-Vivekananda,6
+5104,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,Sri Bholanathji Bedantobhuson,Kormo Pothe Chitto Proshanti,6
+5105,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,Oddhyapok Sri Jyotishchandra Bandopadhyay,Paschatyo Dorshone Bedanter Abhas,6
+5106,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,Sri Sahaji,Geetay ,6
+5107,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,Jagadiswarananda,Bharoter Nikot jagater Rin,6
+5108,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,Srimot Shankar Swami Shankaranandatirtho,Chintakona 'Mayer Kripa',6
+5109,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,,Sangeet,6
+5110,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,,Puthi O Potro,6
+5111,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,,Songho O Barta,6
+5112,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,Oddhyapok Sri Jyotishchandra Bandopadhyay,Paschatyo Dorshone Bedanter Abhas,6
+5113,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,Sri Sahaji,Geetay ,6
+5114,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,Jagadiswarananda,Bharoter Nikot jagater Rin,6
+5115,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,Srimot Shankar Swami Shankaranandatirtho,Chintakona 'Mayer Kripa',6
+5116,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,,Sangeet,6
+5117,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,,Puthi O Potro,6
+5118,UDB-035-1339-40-35-06-ASHAR.pdf,1340,ashar,,Songho O Barta,6
+5119,UDB-035-1339-40-35-07-SRABON.pdf,1340,srabon,,Swami Vivekanander Potraboli,7
+5120,UDB-035-1339-40-35-07-SRABON.pdf,1340,srabon,Sri Ashutosh Dalal,Swamijir Purnogyanlabh,7
+5121,UDB-035-1339-40-35-07-SRABON.pdf,1340,srabon,Bamdebananda,Swami Trigunatit,7
+5122,UDB-035-1339-40-35-07-SRABON.pdf,1340,srabon,,Saradananda Smriti,7
+5123,UDB-035-1339-40-35-07-SRABON.pdf,1340,srabon,,Kotha Prosonge,7
+5124,UDB-035-1339-40-35-07-SRABON.pdf,1340,srabon,Sri Upendrakumar Kar,Sriramakrishna-Vivekananda,7
+5125,UDB-035-1339-40-35-07-SRABON.pdf,1340,srabon,Sri Bimalchandra Ghosh,"""Amr Amitto Sudhu Orthohin Mithya Ohonkar""",7
+5126,UDB-035-1339-40-35-07-SRABON.pdf,1340,srabon,Sri Indubhuson Chattopadhyay,Brazile Bedanto,7
+5127,UDB-035-1339-40-35-07-SRABON.pdf,1340,srabon,,Shanti Kothy-Bondhone Na Muktite?,7
+5128,UDB-035-1339-40-35-07-SRABON.pdf,1340,srabon,Sri Ramakrishna Shastri,Jogshastre Muktimarg,7
+5129,UDB-035-1339-40-35-07-SRABON.pdf,1340,srabon,Sri Nagendranath Ghosh,Shib-Shakti,7
+5130,UDB-035-1339-40-35-07-SRABON.pdf,1340,srabon,Sri Upendra Raha,Jagannath-Stotro,7
+5131,UDB-035-1339-40-35-07-SRABON.pdf,1340,srabon,Sri Debendranath Chattopadhyay,Nari-Jagoron,7
+5132,UDB-035-1339-40-35-07-SRABON.pdf,1340,srabon,,Madhukori,7
+5133,UDB-035-1339-40-35-07-SRABON.pdf,1340,srabon,,Puthi O Potro,7
+5134,UDB-035-1339-40-35-07-SRABON.pdf,1340,srabon,,Potro,7
+5135,UDB-035-1339-40-35-07-SRABON.pdf,1340,srabon,,Songho O Barta,7
+5136,UDB-035-1339-40-35-08-VADRO.pdf,1340,vadro,,Sriramakrishna Stotro,8
+5137,UDB-035-1339-40-35-08-VADRO.pdf,1340,vadro,,Swami Vivekanander Potraboli,8
+5138,UDB-035-1339-40-35-08-VADRO.pdf,1340,vadro,,Saradananda Smriti,8
+5139,UDB-035-1339-40-35-08-VADRO.pdf,1340,vadro,Bamdebananda,Swami Trigunatit,8
+5140,UDB-035-1339-40-35-08-VADRO.pdf,1340,vadro,Sri Ramakrishna Soron,Eso,8
+5141,UDB-035-1339-40-35-08-VADRO.pdf,1340,vadro,,Kotha Prosonge,8
+5142,UDB-035-1339-40-35-08-VADRO.pdf,1340,vadro,Sri Bimalchandra Ghosh,Jonmashtomi,8
+5143,UDB-035-1339-40-35-08-VADRO.pdf,1340,vadro,Sri Romoni Kumar Duttagupta,Parthosarothi Srikrishna,8
+5144,UDB-035-1339-40-35-08-VADRO.pdf,1340,vadro,,Sangeet,8
+5145,UDB-035-1339-40-35-08-VADRO.pdf,1340,vadro,Brahmmachari Suddha Chaitanya,Adorsher Songhorsho,8
+5146,UDB-035-1339-40-35-08-VADRO.pdf,1340,vadro,Sri Rajendranath Dasgupta,Master Mohashoy,8
+5147,UDB-035-1339-40-35-08-VADRO.pdf,1340,vadro,Sri Upendrakumar Kar,Sriramakrishna-Vivekananda,8
+5148,UDB-035-1339-40-35-08-VADRO.pdf,1340,vadro,Sri Mahendranath Das,Kripar Kotha,8
+5149,UDB-035-1339-40-35-08-VADRO.pdf,1340,vadro,Sri Abanimohun Gupta,Prachin Banglar Bidhushi Nari,8
+5150,UDB-035-1339-40-35-08-VADRO.pdf,1340,vadro,,Puthi O Potro,8
+5151,UDB-035-1339-40-35-08-VADRO.pdf,1340,vadro,,Madhukori,8
+5152,UDB-035-1339-40-35-08-VADRO.pdf,1340,vadro,,Songho O Barta,8
+5153,UDB-035-1339-40-35-08-VADRO.pdf,1340,vadro,,Poroloke Deshpriyo Jotindramohun,8
+5154,UDB-035-1339-40-35-09-ASHYEEN.pdf,1340,ashyeen,Sri Bimalchandra Ghosh,Agomoni,9
+5155,UDB-035-1339-40-35-09-ASHYEEN.pdf,1340,ashyeen,,Kotha Prosonge,9
+5156,UDB-035-1339-40-35-09-ASHYEEN.pdf,1340,ashyeen,,Sri Sri Latu Maharajer Kotha,9
+5157,UDB-035-1339-40-35-09-ASHYEEN.pdf,1340,ashyeen,,Sangeet,9
+5158,UDB-035-1339-40-35-09-ASHYEEN.pdf,1340,ashyeen,Bamdebananda,Swami Trigunatit,9
+5159,UDB-035-1339-40-35-09-ASHYEEN.pdf,1340,ashyeen,Sri Niharika Debi,Kosturi,9
+5160,UDB-035-1339-40-35-09-ASHYEEN.pdf,1340,ashyeen,,Americay Bedanto Prochare Ramakrishna Mission,9
+5161,UDB-035-1339-40-35-09-ASHYEEN.pdf,1340,ashyeen,Sri Upendrakumar Kar,Sriramakrishna-Vivekananda,9
+5162,UDB-035-1339-40-35-09-ASHYEEN.pdf,1340,ashyeen,Oddhyapok Sri Okkhoykumar Bandopadhyay,Shaktitotto,9
+5163,UDB-035-1339-40-35-09-ASHYEEN.pdf,1340,ashyeen,,Ramakrishna Missioner Banya Sebakarjo,9
+5164,UDB-035-1339-40-35-09-ASHYEEN.pdf,1340,ashyeen,,Bonger Bahire Sriramakrishna Moth O Missioner Koyekti Kendro,9
+5165,UDB-035-1339-40-35-10-KARTIKK.pdf,1340,kartikk,Sri Bimalchandra Ghosh,Adyakali,10
+5166,UDB-035-1339-40-35-10-KARTIKK.pdf,1340,kartikk,,Swami Vivekanander Potro,10
+5167,UDB-035-1339-40-35-10-KARTIKK.pdf,1340,kartikk,,Kotha Prosonge,10
+5168,UDB-035-1339-40-35-10-KARTIKK.pdf,1340,kartikk,,Shakyomuni O Sriramakrishna,10
+5169,UDB-035-1339-40-35-10-KARTIKK.pdf,1340,kartikk,Sri Sarojbasini Debi,Vivekananda Smorone,10
+5170,UDB-035-1339-40-35-10-KARTIKK.pdf,1340,kartikk,Sri Upendrakumar Kar,Sriramakrishna-Vivekananda,10
+5171,UDB-035-1339-40-35-10-KARTIKK.pdf,1340,kartikk,Swami Bholananth Ji,Doibo-Oishhorjo,10
+5172,UDB-035-1339-40-35-10-KARTIKK.pdf,1340,kartikk,Bamdebananda,Swami Trigunatit,10
+5173,UDB-035-1339-40-35-10-KARTIKK.pdf,1340,kartikk,,Sri Sri Latu Maharajer Kotha,10
+5174,UDB-035-1339-40-35-10-KARTIKK.pdf,1340,kartikk,Sri Nagendranath Ghosh,Pujone-Srijon,10
+5175,UDB-035-1339-40-35-10-KARTIKK.pdf,1340,kartikk,Sundarananda,Roanvalley Cheya Ba Mohastup,10
+5176,UDB-035-1339-40-35-10-KARTIKK.pdf,1340,kartikk,,Puthi O Potro,10
+5177,UDB-035-1339-40-35-10-KARTIKK.pdf,1340,kartikk,Sri Kanailal Pal,Ros-Bichar,10
+5178,UDB-035-1339-40-35-10-KARTIKK.pdf,1340,kartikk,,Songho O Barta,10
+5179,UDB-035-1339-40-35-10-KARTIKK.pdf,1340,kartikk,Sri Radhakanta Mullick,Byamer Kotha,10
+5180,UDB-035-1339-40-35-10-KARTIKK.pdf,1340,kartikk,,Poroloke Sir Bipinkrishna Basu,10
+5181,UDB-035-1339-40-35-10-KARTIKK.pdf,1340,kartikk,Purnendu Roy,"""Kusum""",10
+5182,UDB-035-1339-40-35-11-AGROHAWAN.pdf,1340,agrohawan,,Sri Sri Mar Kotha,11
+5183,UDB-035-1339-40-35-11-AGROHAWAN.pdf,1340,agrohawan,Sri Bhojogobindo Das,Sri Sri Mayer Jonmotithi,11
+5184,UDB-035-1339-40-35-11-AGROHAWAN.pdf,1340,agrohawan,,Swami Vivekanander Potraboli,11
+5185,UDB-035-1339-40-35-11-AGROHAWAN.pdf,1340,agrohawan,,Sri Sri Latu Maharajer Kotha,11
+5186,UDB-035-1339-40-35-11-AGROHAWAN.pdf,1340,agrohawan,Bamdebananda,Swami Trigunatit,11
+5187,UDB-035-1339-40-35-11-AGROHAWAN.pdf,1340,agrohawan,,Kotha Prosonge,11
+5188,UDB-035-1339-40-35-11-AGROHAWAN.pdf,1340,agrohawan,Sri Upendrakumar Kar,Sriramakrishna-Vivekananda,11
+5189,UDB-035-1339-40-35-11-AGROHAWAN.pdf,1340,agrohawan,Sri Sahaji,Porombhagobot Prahllad,11
+5190,UDB-035-1339-40-35-11-AGROHAWAN.pdf,1340,agrohawan,Dr Mohammad Sohidullah,Hindu O Islam Dhormmer Milanbhumi,11
+5191,UDB-035-1339-40-35-11-AGROHAWAN.pdf,1340,agrohawan,,Sangeet,11
+5192,UDB-035-1339-40-35-11-AGROHAWAN.pdf,1340,agrohawan,Sri Jatindranath Ghosh,Lokhhoner Songjom,11
+5193,UDB-035-1339-40-35-11-AGROHAWAN.pdf,1340,agrohawan,Basudebananda,Puthi O Potro,11
+5194,UDB-035-1339-40-35-11-AGROHAWAN.pdf,1340,agrohawan,,Songho O Barta,11
+5195,UDB-035-1339-40-35-12-POUSH.pdf,1340,poush,Sri Kalipada Chakraborty,Swami Vivekananda,12
+5196,UDB-035-1339-40-35-12-POUSH.pdf,1340,poush,,Swami Vivekanander Potraboli,12
+5197,UDB-035-1339-40-35-12-POUSH.pdf,1340,poush,,Sri Sri Latu Maharajer Kotha,12
+5198,UDB-035-1339-40-35-12-POUSH.pdf,1340,poush,,Swami Trigunatit,12
+5199,UDB-035-1339-40-35-12-POUSH.pdf,1340,poush,,Kotha Prosonge,12
+5200,UDB-035-1339-40-35-12-POUSH.pdf,1340,poush,Sri Romoni Kumar Dutta,Ishdut Jishuchrishto O Bhagwan Sriramakrishna,12
+5201,UDB-035-1339-40-35-12-POUSH.pdf,1340,poush,Sundarananda,Dantomandir,12
+5202,UDB-035-1339-40-35-12-POUSH.pdf,1340,poush,Jagadiswarananda,Hindu Sangeet,12
+5203,UDB-035-1339-40-35-12-POUSH.pdf,1340,poush,Omohananda,Kahar Prerona?,12
+5204,UDB-035-1339-40-35-12-POUSH.pdf,1340,poush,Megheswarananda,Bismriti,12
+5205,UDB-035-1339-40-35-12-POUSH.pdf,1340,poush,Sri Bijoygopal,Gaan,12
+5206,UDB-035-1339-40-35-12-POUSH.pdf,1340,poush,Brahmmachari Okkhoy Chaitanya,Jagoroner Byatha,12
+5207,UDB-035-1339-40-35-12-POUSH.pdf,1340,poush,Sri Sahaji,Porom Bhagawat Prahllad,12
+5208,UDB-035-1339-40-35-12-POUSH.pdf,1340,poush,,Puthi O Potro,12
+5209,UDB-035-1339-40-35-12-POUSH.pdf,1340,poush,,Songho O Barta,12

@@ -1,0 +1,550 @@
+id,bookname_ws,bookyear_i,bookmonth_txt_en_split,author_txt_en_split,subject_txt_en_split,booknumber_i
+1986,UDB-016-1320-01-Magh.pdf,1320,magh,,Shri Shri Ramkrishnaleelaprasanga,1
+1987,UDB-016-1320-01-Magh.pdf,1320,magh,,Adwaitabader biruddhe Ramanujacharyer apotti-khandan,1
+1988,UDB-016-1320-01-Magh.pdf,1320,magh,,Ishdoot Jishukhristo,1
+1989,UDB-016-1320-01-Magh.pdf,1320,magh,,Probuddho bharoter prati,1
+1990,UDB-016-1320-01-Magh.pdf,1320,magh,,Kedarnath o badrikashram,1
+1991,UDB-016-1320-01-Magh.pdf,1320,magh,,Kashite Shankar,1
+1992,UDB-016-1320-01-Magh.pdf,1320,magh,Shri Upendranath Datta,Bouddhokotha (buddho o anwopali),1
+1993,UDB-016-1320-01-Magh.pdf,1320,magh,,Shaar Kotha,1
+1994,UDB-016-1320-01-Magh.pdf,1320,magh,,Sangkhipta Alochona,1
+1995,UDB-016-1320-01-Magh.pdf,1320,magh,,Sangbad o Mantabya,1
+1996,UDB-016-1320-01-Magh.pdf,1320,magh,,Ramkrishna Mission bonnakarjye Praptiswikar,1
+1997,UDB-016-1320-02-falgoon.pdf,1320,falgoon,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,2
+1998,UDB-016-1320-02-falgoon.pdf,1320,falgoon,Swami Sarbbananda,Kormmo o Kormmofol,2
+1999,UDB-016-1320-02-falgoon.pdf,1320,falgoon,Swami Vivekananda,Jogoter Mohattama Acharyagan,2
+2000,UDB-016-1320-02-falgoon.pdf,1320,falgoon,"Shri Girijashankar Roy Chaudhuri,  M. A.",Bhokto vijaykrishna goswami sambandhe du ekti kotha,2
+2001,UDB-016-1320-02-falgoon.pdf,1320,falgoon,Sister Nivedita,Kedarkhonde Swami-Sangbad,2
+2002,UDB-016-1320-02-falgoon.pdf,1320,falgoon,,Bharater Sadhana,2
+2003,UDB-016-1320-02-falgoon.pdf,1320,falgoon,,Shaar Kotha,2
+2004,UDB-016-1320-02-falgoon.pdf,1320,falgoon,,Bangalore mothe Mahisur Yuvarajer boktrita,2
+2005,UDB-016-1320-02-falgoon.pdf,1320,falgoon,,Swami Vivekanander dwiponchasttama jonmotsab,2
+2006,UDB-016-1320-02-falgoon.pdf,1320,falgoon,,Samalochana,2
+2007,UDB-016-1320-02-falgoon.pdf,1320,falgoon,,Sangbad o Mantabya,2
+2008,UDB-016-1320-02-falgoon.pdf,1320,falgoon,,Ramkrishna Mission bonnakarjye Praptiswikar,2
+2009,UDB-016-1320-03-Chaitra.pdf,1320,chaitra,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,3
+2010,UDB-016-1320-03-Chaitra.pdf,1320,chaitra,Shri Kanailal Pal,Europeo Darshaner Itihaas,3
+2011,UDB-016-1320-03-Chaitra.pdf,1320,chaitra,Shri Manmathanath Bandapadhyay,Guru-Shishya,3
+2012,UDB-016-1320-03-Chaitra.pdf,1320,chaitra,,Jogoter mahattama acharyagan,3
+2013,UDB-016-1320-03-Chaitra.pdf,1320,chaitra,Sister Nivedita,Kedarkhonde Swami-Sangbad,3
+2014,UDB-016-1320-03-Chaitra.pdf,1320,chaitra,Shri---,Shri Shri Ramkrishnastotra,3
+2015,UDB-016-1320-03-Chaitra.pdf,1320,chaitra,Shri Upendranath Dutta,Bouddha Katha,3
+2016,UDB-016-1320-03-Chaitra.pdf,1320,chaitra,,Sangkhipta Samalochona,3
+2017,UDB-016-1320-03-Chaitra.pdf,1320,chaitra,,Sangbad o Mantabya,3
+2018,UDB-016-1321-04-Boishakh.pdf,1321,boishakh,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,4
+2019,UDB-016-1321-04-Boishakh.pdf,1321,boishakh,,Swami Vivekanander patra,4
+2020,UDB-016-1321-04-Boishakh.pdf,1321,boishakh,,Debbani,4
+2021,UDB-016-1321-04-Boishakh.pdf,1321,boishakh,Sister Nivedita,Kedarkhonde Swami-Sangbad,4
+2022,UDB-016-1321-04-Boishakh.pdf,1321,boishakh,Swami Sudhhananda,Dharmmer Proman,4
+2023,UDB-016-1321-04-Boishakh.pdf,1321,boishakh,Shri Kanailal Pal,Europeo Darshaner Itihaas,4
+2024,UDB-016-1321-04-Boishakh.pdf,1321,boishakh,Shri Girijashankar Roy Chaudhuri,Pandit vijoykrishna goswamir brahmodharmmo parityager karon ki?,4
+2025,UDB-016-1321-04-Boishakh.pdf,1321,boishakh,Shri---,Shri Shri Ramkrishnastotra,4
+2026,UDB-016-1321-04-Boishakh.pdf,1321,boishakh,Shri Atulkrishna Das,Kedarnath o Badrikashram,4
+2027,UDB-016-1321-04-Boishakh.pdf,1321,boishakh,Swami Saradananda,"""Mahanirbban tontro"" o ""Devistotrabali""",4
+2028,UDB-016-1321-04-Boishakh.pdf,1321,boishakh,,Shaar Kotha,4
+2029,UDB-016-1321-04-Boishakh.pdf,1321,boishakh,,Sangbad o Mantabya,4
+2030,UDB-016-1321-05-Joishtho.pdf,1321,joishtho,,Shri Shri Ramkrishnaleelaprasanga,5
+2031,UDB-016-1321-05-Joishtho.pdf,1321,joishtho,Shrimati Saralabala Dasi,Byakti o jati,5
+2032,UDB-016-1321-05-Joishtho.pdf,1321,joishtho,,Debbani,5
+2033,UDB-016-1321-05-Joishtho.pdf,1321,joishtho,,Swami Vivekanander patra,5
+2034,UDB-016-1321-05-Joishtho.pdf,1321,joishtho,Shri Kanailal Pal,Europeo Darshaner Itihaas,5
+2035,UDB-016-1321-05-Joishtho.pdf,1321,joishtho,,Shaar Kotha,5
+2036,UDB-016-1321-05-Joishtho.pdf,1321,joishtho,Shri Atulkrishna dutta,Kedarnath o Badrikashram,5
+2037,UDB-016-1321-05-Joishtho.pdf,1321,joishtho,,Sangkhipta Alochona,5
+2038,UDB-016-1321-06-Ashar.pdf,1321,ashar,Swami Vivekananda,Debbani,6
+2039,UDB-016-1321-06-Ashar.pdf,1321,ashar,Shrimati Saralabala Dasi,Byakti o jati,6
+2040,UDB-016-1321-06-Ashar.pdf,1321,ashar,Shri---,Swami Vivekananda ki Shri Ramkrishna hoite biruddha mat prochar koriachen?,6
+2041,UDB-016-1321-06-Ashar.pdf,1321,ashar,Sister Nivedita,Kedarkhonde Swami-Sangbad,6
+2042,UDB-016-1321-06-Ashar.pdf,1321,ashar,,Swami Vivekanander patra,6
+2043,UDB-016-1321-06-Ashar.pdf,1321,ashar,shrijyotirindranath sen,Ishwar Tripurasundari,6
+2044,UDB-016-1321-06-Ashar.pdf,1321,ashar,Shri Kanailal Pal,Europeo Darshaner Itihaas,6
+2045,UDB-016-1321-06-Ashar.pdf,1321,ashar,,Sangbad o Mantabya,6
+2046,UDB-016-1321-07-Srabon.pdf,1321,srabon,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,7
+2047,UDB-016-1321-07-Srabon.pdf,1321,srabon,Swami Vivekananda,Debbani,7
+2048,UDB-016-1321-07-Srabon.pdf,1321,srabon,Shri Kanailal Pal,Europeo Darshaner Itihaas,7
+2049,UDB-016-1321-07-Srabon.pdf,1321,srabon,Shri Suprakash Chakraborty,Keno Shri Ramkrishnake bhokti kori,7
+2050,UDB-016-1321-07-Srabon.pdf,1321,srabon,Sister Nivedita,Kedarkhonde Swami-Sangbad,7
+2051,UDB-016-1321-07-Srabon.pdf,1321,srabon,,Swami Vivekanander patra,7
+2052,UDB-016-1321-07-Srabon.pdf,1321,srabon,,Dhormmo,7
+2053,UDB-016-1321-07-Srabon.pdf,1321,srabon,Shri Mayamoy Mitra,Chandranath Bhraman,7
+2054,UDB-016-1321-07-Srabon.pdf,1321,srabon,,Sangbad o Mantabya,7
+2055,UDB-016-1321-08-Vadro.pdf,1321,vadro,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,8
+2056,UDB-016-1321-08-Vadro.pdf,1321,vadro,,Debbani,8
+2057,UDB-016-1321-08-Vadro.pdf,1321,vadro,Shri Girijashankar Roy Chaudhuri,Pandit Vijaykrishna Goswamir Brahmanubhuti,8
+2058,UDB-016-1321-08-Vadro.pdf,1321,vadro,Sister Nivedita,Kedarkhonde Swami-Sangbad,8
+2059,UDB-016-1321-08-Vadro.pdf,1321,vadro,Shri Shoroshilal Sarkar,Manabshamaj,8
+2060,UDB-016-1321-08-Vadro.pdf,1321,vadro,,Swami Vivekanander patra,8
+2061,UDB-016-1321-08-Vadro.pdf,1321,vadro,Shri Upendranath Dutta,Jaina-Darshaner Itihash,8
+2062,UDB-016-1321-08-Vadro.pdf,1321,vadro,,Sangbad o Mantabya,8
+2063,UDB-016-1321-08-Vadro.pdf,1321,vadro,,Sangkhipta Alochona,8
+2064,UDB-016-1321-09-Ashyeen.pdf,1321,ashyeen,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,9
+2065,UDB-016-1321-09-Ashyeen.pdf,1321,ashyeen,Shri---,Agamani,9
+2066,UDB-016-1321-09-Ashyeen.pdf,1321,ashyeen,Swami Vivekananda,Debbani,9
+2067,UDB-016-1321-09-Ashyeen.pdf,1321,ashyeen,Shri Satishchandra Bhattacharya,Bharoter gourav-kahini o bharoter itihash,9
+2068,UDB-016-1321-09-Ashyeen.pdf,1321,ashyeen,Sister Nivedita,Kedarkhonde Swami-Sangbad,9
+2069,UDB-016-1321-09-Ashyeen.pdf,1321,ashyeen,,Swami Vivekanander patra,9
+2070,UDB-016-1321-09-Ashyeen.pdf,1321,ashyeen,,Debipujar Subhabashar,9
+2071,UDB-016-1321-09-Ashyeen.pdf,1321,ashyeen,,Sangkhipta Alochona,9
+2072,UDB-016-1321-10-Karttik.pdf,1321,karttik,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,10
+2073,UDB-016-1321-10-Karttik.pdf,1321,karttik,Shri Manmathanath Bandapadhyay,Ramayan Mahabharat sombondhe dui charti kotha,10
+2074,UDB-016-1321-10-Karttik.pdf,1321,karttik,,Bharater Sadhana,10
+2075,UDB-016-1321-10-Karttik.pdf,1321,karttik,Sister Nivedita,Kedarkhonde Swami-Sangbad,10
+2076,UDB-016-1321-10-Karttik.pdf,1321,karttik,Shri Satishchandra Bhattacharya,Bharoter gourav-kahini o bharoter itihash,10
+2077,UDB-016-1321-10-Karttik.pdf,1321,karttik,,Swami Vivekanander patra,10
+2078,UDB-016-1321-10-Karttik.pdf,1321,karttik,Swami Vivekananda,Debbani,10
+2079,UDB-016-1321-11-Agrohawan.pdf,1321,agrohawan,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,11
+2080,UDB-016-1321-11-Agrohawan.pdf,1321,agrohawan,Swami Vivekananda,Debbani,11
+2081,UDB-016-1321-11-Agrohawan.pdf,1321,agrohawan,Sister Nivedita,Kedarkhonde Swami-Sangbad,11
+2082,UDB-016-1321-11-Agrohawan.pdf,1321,agrohawan,,Shri Shri Ramkrishnadev,11
+2083,UDB-016-1321-11-Agrohawan.pdf,1321,agrohawan,Shri Gyanendramohan Das,Markin-chatro ebong kajer bajar,11
+2084,UDB-016-1321-11-Agrohawan.pdf,1321,agrohawan,,Swami Vivekanander patra,11
+2085,UDB-016-1321-11-Agrohawan.pdf,1321,agrohawan,Shri Girijashankar Roy Chaudhuri,Bargso,11
+2086,UDB-016-1321-11-Agrohawan.pdf,1321,agrohawan,,Bichitra Pratidan,11
+2087,UDB-016-1321-11-Agrohawan.pdf,1321,agrohawan,,Sangbad o Mantabya,11
+2088,UDB-016-1321-12-Poush.pdf,1321,poush,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,12
+2089,UDB-016-1321-12-Poush.pdf,1321,poush,Shri Kanailal Pal,Europeo Darshaner Itihaas,12
+2090,UDB-016-1321-12-Poush.pdf,1321,poush,Sister Nivedita,Kedarkhonde Swami-Sangbad,12
+2091,UDB-016-1321-12-Poush.pdf,1321,poush,,Swami Vivekanander patra,12
+2092,UDB-016-1321-12-Poush.pdf,1321,poush,Shri Harishchandra Das,Dukkho ki?,12
+2093,UDB-016-1321-12-Poush.pdf,1321,poush,Shri Girijashankar Roy Chaudhuri,Bargso,12
+2094,UDB-016-1321-12-Poush.pdf,1321,poush,Swami Vivekananda,Debbani,12
+2095,UDB-016-1321-12-Poush.pdf,1321,poush,,Sangkhipta Alochona,12
+2096,UDB-016-1321-12-Poush.pdf,1321,poush,,Sangbad o Mantabya,12
+2097,UDB-017-1320-21-01-Magh.pdf,1321,magh,,Shri Shri Ramkrishnaleelaprasanga,1
+2098,UDB-017-1320-21-01-Magh.pdf,1321,magh,Shri Kanailal Pal,Europeo Darshaner Itihaas,1
+2099,UDB-017-1320-21-01-Magh.pdf,1321,magh,Swami Vivekananda,Debbani,1
+2100,UDB-017-1320-21-01-Magh.pdf,1321,magh,,Streeshikkha o Nivedita,1
+2101,UDB-017-1320-21-01-Magh.pdf,1321,magh,,Swami Vivekanander patra,1
+2102,UDB-017-1320-21-01-Magh.pdf,1321,magh,Shri Ahindranath Ghosh,Mallabhumi o Mallabhupagana,1
+2103,UDB-017-1320-21-01-Magh.pdf,1321,magh,Shri Tarapodo Mukhapadhyay,Swami Vivekananda,1
+2104,UDB-017-1320-21-01-Magh.pdf,1321,magh,,Swami Vivekanander Triponchasattomo Janmotsab,1
+2105,UDB-017-1320-21-01-Magh.pdf,1321,magh,,Sangbad o Mantabya,1
+2106,UDB-017-1320-21-02-Falgoon.pdf,1321,falgoon,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,2
+2107,UDB-017-1320-21-02-Falgoon.pdf,1321,falgoon,Swami Vivekananda,Debbani,2
+2108,UDB-017-1320-21-02-Falgoon.pdf,1321,falgoon,,Bharater Sadhana,2
+2109,UDB-017-1320-21-02-Falgoon.pdf,1321,falgoon,,Swami Vivekanander patra,2
+2110,UDB-017-1320-21-02-Falgoon.pdf,1321,falgoon,,Acharya Vivekananda,2
+2111,UDB-017-1320-21-02-Falgoon.pdf,1321,falgoon,Swami Saradananda,Swamijir Ashfoot Smriti,2
+2112,UDB-017-1320-21-02-Falgoon.pdf,1321,falgoon,Shri Ahindranath Ghosh,Mallabhumi o Mallabhupagana,2
+2113,UDB-017-1320-21-02-Falgoon.pdf,1321,falgoon,,Shargachi Ashram,2
+2114,UDB-017-1320-21-02-Falgoon.pdf,1321,falgoon,,Sangbad o Mantabya,2
+2115,UDB-017-1320-21-03-Chaitra.pdf,1321,chaitra,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,3
+2116,UDB-017-1320-21-03-Chaitra.pdf,1321,chaitra,,Swamijir Ashfoot Smriti,3
+2117,UDB-017-1320-21-03-Chaitra.pdf,1321,chaitra,Swami Vivekananda,Debbani,3
+2118,UDB-017-1320-21-03-Chaitra.pdf,1321,chaitra,Pahariya Paakhi,Ramkrishna,3
+2119,UDB-017-1320-21-03-Chaitra.pdf,1321,chaitra,,Acharya Vivekananda,3
+2120,UDB-017-1320-21-03-Chaitra.pdf,1321,chaitra,,Swami Vivekanander patra,3
+2121,UDB-017-1320-21-03-Chaitra.pdf,1321,chaitra,Shri Niradchandra Dutta,Abatar-Chitra,3
+2122,UDB-017-1320-21-03-Chaitra.pdf,1321,chaitra,Shri Ahindranath Ghosh,Mallabhumi o Mallabhupagana,3
+2123,UDB-017-1320-21-03-Chaitra.pdf,1321,chaitra,Shri Haricharan Kabya-Byakaran-Tirtha,Shri Ramkrishnapanchakam,3
+2124,UDB-017-1320-21-03-Chaitra.pdf,1321,chaitra,,Sangbad o Mantabya,3
+2125,UDB-017-1320-21-04-Boishakh.pdf,1322,boishakh,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,4
+2126,UDB-017-1320-21-04-Boishakh.pdf,1322,boishakh,,Swamijir Ashfoot Smriti,4
+2127,UDB-017-1320-21-04-Boishakh.pdf,1322,boishakh,Swami Vivekananda,Debbani,4
+2128,UDB-017-1320-21-04-Boishakh.pdf,1322,boishakh,Shri Kanailal Pal,Europeo Darshaner Itihaas,4
+2129,UDB-017-1320-21-04-Boishakh.pdf,1322,boishakh,,Americae Swamiji,4
+2130,UDB-017-1320-21-04-Boishakh.pdf,1322,boishakh,,Shafal Matri Sneh,4
+2131,UDB-017-1320-21-04-Boishakh.pdf,1322,boishakh,,Swami Vivekanander patra,4
+2132,UDB-017-1320-21-04-Boishakh.pdf,1322,boishakh,,Shahaj Kaaz,4
+2133,UDB-017-1320-21-04-Boishakh.pdf,1322,boishakh,Shri Ahindranath Ghosh,Mallabhumi o Mallabhupagana,4
+2134,UDB-017-1320-21-04-Boishakh.pdf,1322,boishakh,,Sangkhipta Alochona,4
+2135,UDB-017-1320-21-05-Joishtho.pdf,1322,joishtho,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,5
+2136,UDB-017-1320-21-05-Joishtho.pdf,1322,joishtho,Swami Vivekananda,Debbani,5
+2137,UDB-017-1320-21-05-Joishtho.pdf,1322,joishtho,,Shreyo o Preyo,5
+2138,UDB-017-1320-21-05-Joishtho.pdf,1322,joishtho,,Americae Swamiji,5
+2139,UDB-017-1320-21-05-Joishtho.pdf,1322,joishtho,Shri Ahindranath Ghosh,Mallabhumi o Mallabhupagana,5
+2140,UDB-017-1320-21-05-Joishtho.pdf,1322,joishtho,Shri Gokuldas Dey,Ayushman Nander Upakhyan,5
+2141,UDB-017-1320-21-05-Joishtho.pdf,1322,joishtho,,Swami Vivekanander patra,5
+2142,UDB-017-1320-21-05-Joishtho.pdf,1322,joishtho,Shri Bhuvanmohan Chattopadhyay,Haridware Kumbhamela Darshan,5
+2143,UDB-017-1320-21-05-Joishtho.pdf,1322,joishtho,,Adwaitabad---Prachya o Pashchatya,5
+2144,UDB-017-1320-21-05-Joishtho.pdf,1322,joishtho,,Sangbad o Mantabya,5
+2145,UDB-017-1320-21-06-Ashar.pdf,1322,ashar,Swami Vivekananda,Debbani,6
+2146,UDB-017-1320-21-06-Ashar.pdf,1322,ashar,Shri Sarashilal Sarkar,Bedantor ekti multwatta sombondhe Kyanter proman,6
+2147,UDB-017-1320-21-06-Ashar.pdf,1322,ashar,Shri Gokuldas Dey,Bhagaban Buddho o Bhikkhudwoi,6
+2148,UDB-017-1320-21-06-Ashar.pdf,1322,ashar,Swami Saradananda,Bedanto o Bhakti,6
+2149,UDB-017-1320-21-06-Ashar.pdf,1322,ashar,Sister Nivedita,Acharya Sri Vivekananda,6
+2150,UDB-017-1320-21-06-Ashar.pdf,1322,ashar,,Swami Vivekanander patra,6
+2151,UDB-017-1320-21-06-Ashar.pdf,1322,ashar,Shri Girijashankar Roy Chaudhuri,Oyoken,6
+2152,UDB-017-1320-21-06-Ashar.pdf,1322,ashar,,Ashtottarshatoponishad,6
+2153,UDB-017-1320-21-06-Ashar.pdf,1322,ashar,,Purbobonge Durbhikker Jonyo Shahajya Prarthana,6
+2154,UDB-017-1320-21-06-Ashar.pdf,1322,ashar,,Sangbad o Mantabya,6
+2155,UDB-017-1320-21-07-Srabon.pdf,1322,srabon,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,7
+2156,UDB-017-1320-21-07-Srabon.pdf,1322,srabon,Shri Girijashankar Roy Chaudhuri,Oyoken,7
+2157,UDB-017-1320-21-07-Srabon.pdf,1322,srabon,Sister Nivedita,Acharya Sri Vivekananda,7
+2158,UDB-017-1320-21-07-Srabon.pdf,1322,srabon,Shri Basantakumar Chattapadhyay,Ayodhya-Bhromon,7
+2159,UDB-017-1320-21-07-Srabon.pdf,1322,srabon,Shri Gokuldas Dey,Bhagaban Buddho o Debdatta,7
+2160,UDB-017-1320-21-07-Srabon.pdf,1322,srabon,Swami Saradananda,Bhagaban Shriramkrishnadever bhasmabashesh ashthisambandhe koyekti katha,7
+2161,UDB-017-1320-21-07-Srabon.pdf,1322,srabon,,Shriramkrishna Missioner Durbhikkhokarjya,7
+2162,UDB-017-1320-21-08-Vadro.pdf,1322,vadro,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,8
+2163,UDB-017-1320-21-08-Vadro.pdf,1322,vadro,Swami Shuddhananda,Saadhanbhajan o Jeebsheva,8
+2164,UDB-017-1320-21-08-Vadro.pdf,1322,vadro,Sister Nivedita,Acharya Sri Vivekananda,8
+2165,UDB-017-1320-21-08-Vadro.pdf,1322,vadro,Shri Basantakumar Chattapadhyay,Ayodhya-Bhromon,8
+2166,UDB-017-1320-21-08-Vadro.pdf,1322,vadro,Shri Girijashankar Roy Chaudhuri,Oyoken,8
+2167,UDB-017-1320-21-08-Vadro.pdf,1322,vadro,,Samalochana,8
+2168,UDB-017-1320-21-08-Vadro.pdf,1322,vadro,,Shriramkrishnamissioner Durbhikkokarjya,8
+2169,UDB-017-1320-21-09-Ashyeen.pdf,1322,ashyeen,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,9
+2170,UDB-017-1320-21-09-Ashyeen.pdf,1322,ashyeen,Swami Shuddhananda,Manush,9
+2171,UDB-017-1320-21-09-Ashyeen.pdf,1322,ashyeen,Sister Nivedita,Acharya Sri Vivekananda,9
+2172,UDB-017-1320-21-09-Ashyeen.pdf,1322,ashyeen,Shri Girijashankar Roy Chaudhuri,Oyoken,9
+2173,UDB-017-1320-21-09-Ashyeen.pdf,1322,ashyeen,,Oyoken-Darbare,9
+2174,UDB-017-1320-21-09-Ashyeen.pdf,1322,ashyeen,Shri Kanailal Pal,Europeo Darshaner Itihaas,9
+2175,UDB-017-1320-21-09-Ashyeen.pdf,1322,ashyeen,Shri Shrishchandra Motilal,Mon na Mati,9
+2176,UDB-017-1320-21-09-Ashyeen.pdf,1322,ashyeen,,Swami Vivekanander patra,9
+2177,UDB-017-1320-21-09-Ashyeen.pdf,1322,ashyeen,,Shri Shri Ramkrishna Missioner Durbhikkhokarjya,9
+2178,UDB-017-1320-21-09-Ashyeen.pdf,1322,ashyeen,,Missioner Durbhikkhabhandare Praptiswikar,9
+2179,UDB-017-1320-21-10-Karttik.pdf,1322,karttik,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,10
+2180,UDB-017-1320-21-10-Karttik.pdf,1322,karttik,Shrimati Saralabala Dasi,Khristan Niti o Shaktibad,10
+2181,UDB-017-1320-21-10-Karttik.pdf,1322,karttik,Sister Nivedita,Acharya Sri Vivekananda,10
+2182,UDB-017-1320-21-10-Karttik.pdf,1322,karttik,Shri Kanailal Pal,Europeo Darshaner Itihaas,10
+2183,UDB-017-1320-21-10-Karttik.pdf,1322,karttik,Shri Basantakumar Chattapadhyay,Shri Ramanujacharya o tahar purbobarti acharjyagan,10
+2184,UDB-017-1320-21-10-Karttik.pdf,1322,karttik,Swami Shuddhananda,Atmadoshanusandan o Mayabad,10
+2185,UDB-017-1320-21-10-Karttik.pdf,1322,karttik,,Swami Vivekanander patra,10
+2186,UDB-017-1320-21-10-Karttik.pdf,1322,karttik,,Nachiketa,10
+2187,UDB-017-1320-21-10-Karttik.pdf,1322,karttik,,Shri Ramkrishna Missioner Durbhikkhokarjya,10
+2188,UDB-017-1320-21-10-Karttik.pdf,1322,karttik,,Shri Ramkrishna Missioner Durbhikkhabhandare Praptiswikar,10
+2189,UDB-017-1320-21-10-Karttik.pdf,1322,karttik,,Sangbad o Mantabya,10
+2190,UDB-017-1320-21-11-Agrohawan.pdf,1322,agrohawan,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,11
+2191,UDB-017-1320-21-11-Agrohawan.pdf,1322,agrohawan,Shrimati Saralabala Dasi,Khristan Niti o Shaktibad,11
+2192,UDB-017-1320-21-11-Agrohawan.pdf,1322,agrohawan,Shri Basantakumar Chattapadhyay,Shri Ramanujacharya o tahar purbobarti acharjyagan,11
+2193,UDB-017-1320-21-11-Agrohawan.pdf,1322,agrohawan,Sister Nivedita,Acharya Sri Vivekananda,11
+2194,UDB-017-1320-21-11-Agrohawan.pdf,1322,agrohawan,,Bhabbar Katha,11
+2195,UDB-017-1320-21-11-Agrohawan.pdf,1322,agrohawan,Shri Kanailal Pal,Europeo Darshaner Itihaas,11
+2196,UDB-017-1320-21-11-Agrohawan.pdf,1322,agrohawan,,Swami Vivekanander patra,11
+2197,UDB-017-1320-21-11-Agrohawan.pdf,1322,agrohawan,,Shamalochana,11
+2198,UDB-017-1320-21-11-Agrohawan.pdf,1322,agrohawan,,Sangbad o Mantabya,11
+2199,UDB-017-1320-21-11-Agrohawan.pdf,1322,agrohawan,,Shri Ramkrishna Missioner Durbhikkhokarjya,11
+2200,UDB-017-1320-21-11-Agrohawan.pdf,1322,agrohawan,,Durbhikkhabhandare praptiswikar,11
+2201,UDB-017-1320-21-12-Poush.pdf,1322,poush,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,12
+2202,UDB-017-1320-21-12-Poush.pdf,1322,poush,Swami Shuddhananda,Ishtanishtha,12
+2203,UDB-017-1320-21-12-Poush.pdf,1322,poush,Sister Nivedita,Acharya Sri Vivekananda,12
+2204,UDB-017-1320-21-12-Poush.pdf,1322,poush,,Swami Vivekanander patra,12
+2205,UDB-017-1320-21-12-Poush.pdf,1322,poush,Brahmachari,Dwaiba o Puroshkar,12
+2206,UDB-017-1320-21-12-Poush.pdf,1322,poush,Shri Girijashankar Roy Chaudhuri,Oyoken-Darbare,12
+2207,UDB-017-1320-21-12-Poush.pdf,1322,poush,Shri Kanailal Pal,Europeo Darshaner Itihaas,12
+2208,UDB-017-1320-21-12-Poush.pdf,1322,poush,,Sangkhipta Samalochona,12
+2209,UDB-017-1320-21-12-Poush.pdf,1322,poush,,Sangbad o Mantabya,12
+2210,UDB-017-1320-21-12-Poush.pdf,1322,poush,,Shri Ramkrishna Missioner Durbhikkhokarjya,12
+2211,UDB-018-1322-23-18-01-MAGH.pdf,1322,magh,,Sri Sri Ramakrishnaleela Prosongo,1
+2212,UDB-018-1322-23-18-01-MAGH.pdf,1322,magh,Sister Nivedita,Acharya Sri Vivekananda,1
+2213,UDB-018-1322-23-18-01-MAGH.pdf,1322,magh,Swami Sudhhananda,Toposhya,1
+2214,UDB-018-1322-23-18-01-MAGH.pdf,1322,magh,Shri Kanailal Pal,Europeo Darshaner Itihaas,1
+2215,UDB-018-1322-23-18-01-MAGH.pdf,1322,magh,Sri Atulkrishna Das,Rameshwar-Dorshon,1
+2216,UDB-018-1322-23-18-01-MAGH.pdf,1322,magh,Sri Gokuldas Dey,Budhha O Mar,1
+2217,UDB-018-1322-23-18-01-MAGH.pdf,1322,magh,Sri Gyanendra Kumar Kabyarnab,Kormmokando O Ponchoyagga,1
+2218,UDB-018-1322-23-18-01-MAGH.pdf,1322,magh,,Swami Vivekanander patra,1
+2219,UDB-018-1322-23-18-01-MAGH.pdf,1322,magh,,Ramakrishna Missioner Durbhikhhokarjo,1
+2220,UDB-018-1322-23-18-01-MAGH.pdf,1322,magh,,Durbhikhhobhandarer Prapti Swikar,1
+2221,UDB-018-1322-23-18-02-FALGOON.pdf,1322,falgoon,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,2
+2222,UDB-018-1322-23-18-02-FALGOON.pdf,1322,falgoon,Sister Nivedita,Acharya Sri Vivekananda,2
+2223,UDB-018-1322-23-18-02-FALGOON.pdf,1322,falgoon,Shri Kanailal Pal,Europeo Darshaner Itihaas,2
+2224,UDB-018-1322-23-18-02-FALGOON.pdf,1322,falgoon,Sri Atulkrishna Mitra,Rameshwar-Dorshon,2
+2225,UDB-018-1322-23-18-02-FALGOON.pdf,1322,falgoon,,Swami Vivekanander patra,2
+2226,UDB-018-1322-23-18-02-FALGOON.pdf,1322,falgoon,Sri Gokuldas Dey,Sthobir Mahakal O Churhkal,2
+2227,UDB-018-1322-23-18-02-FALGOON.pdf,1322,falgoon,Sri Phonindranath Ghosh,Shankar,2
+2228,UDB-018-1322-23-18-02-FALGOON.pdf,1322,falgoon,Sri-,Konika,2
+2229,UDB-018-1322-23-18-02-FALGOON.pdf,1322,falgoon,Sri Kiran Chandra Dutta,Bishorjon,2
+2230,UDB-018-1322-23-18-02-FALGOON.pdf,1322,falgoon,,Srimot Swami Vivekanander Jonmotithi Smorone,2
+2231,UDB-018-1322-23-18-02-FALGOON.pdf,1322,falgoon,,Swami Vivekanander Chotuhponchastomo Janmotsab,2
+2232,UDB-018-1322-23-18-02-FALGOON.pdf,1322,falgoon,,Sangbad o Mantabya,2
+2233,UDB-018-1322-23-18-02-FALGOON.pdf,1322,falgoon,,Sri Ramakrishna Missioner Durbhikhhokarjo,2
+2234,UDB-018-1322-23-18-03-CHAITRA.pdf,1322,chaitra,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,3
+2235,UDB-018-1322-23-18-03-CHAITRA.pdf,1322,chaitra,Sister Nivedita,Acharya Sri Vivekananda,3
+2236,UDB-018-1322-23-18-03-CHAITRA.pdf,1322,chaitra,Srimoti Saralibala Dashi,Banimondire,3
+2237,UDB-018-1322-23-18-03-CHAITRA.pdf,1322,chaitra,Sri Bosontokumar Chattopadhyay,Hindur Bishesotto,3
+2238,UDB-018-1322-23-18-03-CHAITRA.pdf,1322,chaitra,Sri Upendranath Dutta,Ahalya,3
+2239,UDB-018-1322-23-18-03-CHAITRA.pdf,1322,chaitra,Sri Kumudbondhu Sen,Swami Vivekananda,3
+2240,UDB-018-1322-23-18-03-CHAITRA.pdf,1322,chaitra,Shri Kanailal Pal,Europeo Darshaner Itihaas,3
+2241,UDB-018-1322-23-18-03-CHAITRA.pdf,1322,chaitra,Sri Atulkrishna Das,Rameshwar-Dorshon,3
+2242,UDB-018-1322-23-18-03-CHAITRA.pdf,1322,chaitra,,Swami Vivekanander patra,3
+2243,UDB-018-1322-23-18-03-CHAITRA.pdf,1322,chaitra,Sri Upendranath Dutta,Yaksha O Deb-Sangbad,3
+2244,UDB-018-1322-23-18-03-CHAITRA.pdf,1322,chaitra,,Sangbad o Mantabya,3
+2245,UDB-018-1322-23-18-04-BOISHAKH.pdf,1323,boishakh,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,4
+2246,UDB-018-1322-23-18-04-BOISHAKH.pdf,1323,boishakh,Sister Nivedita,Acharya Sri Vivekananda,4
+2247,UDB-018-1322-23-18-04-BOISHAKH.pdf,1323,boishakh,Sri Rameshchandra Basu,Protimapuja O Poribar-Seba,4
+2248,UDB-018-1322-23-18-04-BOISHAKH.pdf,1323,boishakh,Shri Kanailal Pal,Europeo Darshaner Itihaas,4
+2249,UDB-018-1322-23-18-04-BOISHAKH.pdf,1323,boishakh,Sri Gyanendra Kumar Kabyarnab,Yoger Sohit  Iswarer Sombondho,4
+2250,UDB-018-1322-23-18-04-BOISHAKH.pdf,1323,boishakh,Sri Atulkrishna Das,Rameshwar-Dorshon,4
+2251,UDB-018-1322-23-18-04-BOISHAKH.pdf,1323,boishakh,,Swami Vivekanander patra,4
+2252,UDB-018-1322-23-18-04-BOISHAKH.pdf,1323,boishakh,Sri Upendranath Dutta,Ved-Kotha,4
+2253,UDB-018-1322-23-18-04-BOISHAKH.pdf,1323,boishakh,,Sangkhipta Alochona,4
+2254,UDB-018-1322-23-18-04-BOISHAKH.pdf,1323,boishakh,,Sangbad o Mantabya,4
+2255,UDB-018-1322-23-18-04-BOISHAKH.pdf,1323,boishakh,,Ramakrishna Missioner Durbhikhhokarjo,4
+2256,UDB-018-1322-23-18-04-BOISHAKH.pdf,1323,boishakh,,Durbhikhhobhandarer Praptiswikar,4
+2257,UDB-018-1322-23-18-05-JOISTHO.pdf,1323,joistho,Swami Suddhananda,Borttoman Somoye Hindujibone Vedanter Probhab O Upojogita ,5
+2258,UDB-018-1322-23-18-05-JOISTHO.pdf,1323,joistho,Sister Nivedita,Acharya Sri Vivekananda,5
+2259,UDB-018-1322-23-18-05-JOISTHO.pdf,1323,joistho,Sri Atulkrishna Das,Rameshwar-Dorshon,5
+2260,UDB-018-1322-23-18-05-JOISTHO.pdf,1323,joistho,,Swami Vivekanander patra,5
+2261,UDB-018-1322-23-18-05-JOISTHO.pdf,1323,joistho,Sri Gokuldas Dey,Buddhadeber Dainik Karjo-Biboroni,5
+2262,UDB-018-1322-23-18-05-JOISTHO.pdf,1323,joistho,,Sangbad o Mantabya,5
+2263,UDB-018-1322-23-18-05-JOISTHO.pdf,1323,joistho,,Sri Ramakrishna Missioner Durbhikhhokarjo,5
+2264,UDB-018-1322-23-18-06-ASHAR.pdf,1323,ashar,Swami Suddhananda,"""Ami""r Onusondhane",6
+2265,UDB-018-1322-23-18-06-ASHAR.pdf,1323,ashar,Sister Nivedita,Acharya Sri Vivekananda,6
+2266,UDB-018-1322-23-18-06-ASHAR.pdf,1323,ashar,Sri-,Ekti Mohatmar Kotha,6
+2267,UDB-018-1322-23-18-06-ASHAR.pdf,1323,ashar,Sri Atulkrishna Das,Rameshwar-Dorshon,6
+2268,UDB-018-1322-23-18-06-ASHAR.pdf,1323,ashar,Sri Gokul Das ,Songhomitta,6
+2269,UDB-018-1322-23-18-06-ASHAR.pdf,1323,ashar,Sri Probodhchandra Dey,Prakritir Samonjosse Udbhider Sthan,6
+2270,UDB-018-1322-23-18-06-ASHAR.pdf,1323,ashar,,Sangkhipta Alochona,6
+2271,UDB-018-1322-23-18-06-ASHAR.pdf,1323,ashar,,Sri Ramakrishna Missioner Durbhikhhokarjo,6
+2272,UDB-018-1322-23-18-06-ASHAR.pdf,1323,ashar,,Durbhikhhobhandarer Praptiswikar,6
+2273,UDB-018-1322-23-18-07-SRABON.pdf,1323,srabon,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,7
+2274,UDB-018-1322-23-18-07-SRABON.pdf,1323,srabon,Sister Nivedita,Acharya Sri Vivekananda,7
+2275,UDB-018-1322-23-18-07-SRABON.pdf,1323,srabon,Dr Paul Dawson,Vedanta-Dorshon,7
+2276,UDB-018-1322-23-18-07-SRABON.pdf,1323,srabon,Sri Bosontokumar Chattopadhyay,Hindur Protimapuja,7
+2277,UDB-018-1322-23-18-07-SRABON.pdf,1323,srabon,Sri Bhujongodhar Roy Chowdhury,Kali Koralini,7
+2278,UDB-018-1322-23-18-07-SRABON.pdf,1323,srabon,Shri Kanailal Pal,Europeo Darshaner Itihaas,7
+2279,UDB-018-1322-23-18-07-SRABON.pdf,1323,srabon,,Swami Vivekanander patra,7
+2280,UDB-018-1322-23-18-07-SRABON.pdf,1323,srabon,Sri Gopal Chandra Das,Mayabati Bhromon,7
+2281,UDB-018-1322-23-18-07-SRABON.pdf,1323,srabon,Swami Saradananda,Basiful,7
+2282,UDB-018-1322-23-18-07-SRABON.pdf,1323,srabon,,Sri Ramakrishna Missioner Durbhikhhokarjo,7
+2283,UDB-018-1322-23-18-07-SRABON.pdf,1323,srabon,,Durbhikhhobhandarer Praptiswikar,7
+2284,UDB-018-1322-23-18-08-VADRO.pdf,1323,vadro,Swami Sudhhananda,Adwaitabad O Puja-archcha,8
+2285,UDB-018-1322-23-18-08-VADRO.pdf,1323,vadro,Sister Nivedita,Acharya Sri Vivekananda,8
+2286,UDB-018-1322-23-18-08-VADRO.pdf,1323,vadro,Dr Paul Dawson,Vedanta-Dorshon,8
+2287,UDB-018-1322-23-18-08-VADRO.pdf,1323,vadro,Sri Gokuldas Dey,Samrat Ashoker Dhormmo,8
+2288,UDB-018-1322-23-18-08-VADRO.pdf,1323,vadro,Sri Debendranath Basu,Bartaman Yugadharma O Sri Vivekananda,8
+2289,UDB-018-1322-23-18-08-VADRO.pdf,1323,vadro,Sri Gopal Chandra Das,Mayabati Bhromon,8
+2290,UDB-018-1322-23-18-08-VADRO.pdf,1323,vadro,,Sangkhipta Alochona,8
+2291,UDB-018-1322-23-18-08-VADRO.pdf,1323,vadro,,Sangbad o Mantabya,8
+2292,UDB-018-1322-23-18-08-VADRO.pdf,1323,vadro,,Sri Ramakrishna Missioner Durbhikhhokarjo,8
+2293,UDB-018-1322-23-18-09-ASHYEEN.pdf,1323,ashyeen,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,9
+2294,UDB-018-1322-23-18-09-ASHYEEN.pdf,1323,ashyeen,Sister Nivedita,Acharya Sri Vivekananda,9
+2295,UDB-018-1322-23-18-09-ASHYEEN.pdf,1323,ashyeen,Sri Bosontokumar Chattopadhyay,Vedante Shristitwatta,9
+2296,UDB-018-1322-23-18-09-ASHYEEN.pdf,1323,ashyeen,,Muktir Pothe,9
+2297,UDB-018-1322-23-18-09-ASHYEEN.pdf,1323,ashyeen,Sri Sorodindu Ghosh,Mehar Kalibari O Sarbananda Thakur,9
+2298,UDB-018-1322-23-18-09-ASHYEEN.pdf,1323,ashyeen,Srimoti Monoroma Debi ,Sri Sri Ramakrishna,9
+2299,UDB-018-1322-23-18-09-ASHYEEN.pdf,1323,ashyeen,Shri Kanailal Pal,Europeo Darshaner Itihaas,9
+2300,UDB-018-1322-23-18-09-ASHYEEN.pdf,1323,ashyeen,,Soundaryotwatta,9
+2301,UDB-018-1322-23-18-09-ASHYEEN.pdf,1323,ashyeen,,Yuktapradesh O Bihare e Bhison Bonna,9
+2302,UDB-018-1322-23-18-09-ASHYEEN.pdf,1323,ashyeen,,Durbhikhhobhandarer Praptiswikar,9
+2303,UDB-018-1322-23-18-10-KARTTIK.pdf,1323,karttik,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,10
+2304,UDB-018-1322-23-18-10-KARTTIK.pdf,1323,karttik,Swami Sudhhananda,Manabsamaje Dhormmer Proyojon,10
+2305,UDB-018-1322-23-18-10-KARTTIK.pdf,1323,karttik,Sister Nivedita,Acharya Sri Vivekananda,10
+2306,UDB-018-1322-23-18-10-KARTTIK.pdf,1323,karttik,Shri Kanailal Pal,Europeo Darshaner Itihaas,10
+2307,UDB-018-1322-23-18-10-KARTTIK.pdf,1323,karttik,Shri Girijashankar Roy Chaudhuri,Frederick Niche,10
+2308,UDB-018-1322-23-18-10-KARTTIK.pdf,1323,karttik,,Swami Vivekanander patra,10
+2309,UDB-018-1322-23-18-10-KARTTIK.pdf,1323,karttik,,Sangbad o Mantabya,10
+2310,UDB-018-1322-23-18-10-KARTTIK.pdf,1323,karttik,,Sri Ramakrishna Missioner Durbhikhhokarjo,10
+2311,UDB-018-1322-23-18-11-AGROHAWAN.pdf,1323,agrohawan,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,11
+2312,UDB-018-1322-23-18-11-AGROHAWAN.pdf,1323,agrohawan,Sister Nivedita,Acharya Sri Vivekananda,11
+2313,UDB-018-1322-23-18-11-AGROHAWAN.pdf,1323,agrohawan,Sri Kiran Chandra Dutta,Manusher Swarup Ki?,11
+2314,UDB-018-1322-23-18-11-AGROHAWAN.pdf,1323,agrohawan,Shri Girijashankar Roy Chaudhuri,Niche Rochito Gronthadir Porichoy,11
+2315,UDB-018-1322-23-18-11-AGROHAWAN.pdf,1323,agrohawan,Sri Gokuldas Dey,Parileyak,11
+2316,UDB-018-1322-23-18-11-AGROHAWAN.pdf,1323,agrohawan,Shri Kanailal Pal,Europeo Darshaner Itihaas,11
+2317,UDB-018-1322-23-18-11-AGROHAWAN.pdf,1323,agrohawan,,Swami Vivekanander patra,11
+2318,UDB-018-1322-23-18-11-AGROHAWAN.pdf,1323,agrohawan,,Bharotetihasher Podanko,11
+2319,UDB-018-1322-23-18-11-AGROHAWAN.pdf,1323,agrohawan,,Sri Ramakrishna Mission Durbhikhho O Banyanibaron karjyo,11
+2320,UDB-018-1322-23-18-12-POUSH.pdf,1323,poush,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,12
+2321,UDB-018-1322-23-18-12-POUSH.pdf,1323,poush,,Gotakotok Kora Satyakotha,12
+2322,UDB-018-1322-23-18-12-POUSH.pdf,1323,poush,Sister Nivedita,Acharya Sri Vivekananda,12
+2323,UDB-018-1322-23-18-12-POUSH.pdf,1323,poush,Shri Kanailal Pal,Europeo Darshaner Itihaas,12
+2324,UDB-018-1322-23-18-12-POUSH.pdf,1323,poush,Sri Satyendranath Majumdar,Sushil Master,12
+2325,UDB-018-1322-23-18-12-POUSH.pdf,1323,poush,,Karmmojog,12
+2326,UDB-018-1322-23-18-12-POUSH.pdf,1323,poush,,Sotkotha,12
+2327,UDB-018-1322-23-18-12-POUSH.pdf,1323,poush,,Swami Vivekanander patra,12
+2328,UDB-018-1322-23-18-12-POUSH.pdf,1323,poush,,Monisha,12
+2329,UDB-018-1322-23-18-12-POUSH.pdf,1323,poush,,Sangkhipta Alochona,12
+2330,UDB-018-1322-23-18-12-POUSH.pdf,1323,poush,,Songbad,12
+2331,UDB-019-1323-24-19-01-MAGH.pdf,1323,magh,Sister Nivedita,Acharya Sri Vivekananda,1
+2332,UDB-019-1323-24-19-01-MAGH.pdf,1323,magh,,Golposholpo,1
+2333,UDB-019-1323-24-19-01-MAGH.pdf,1323,magh,Shri Girijashankar Roy Chaudhuri,Niche Rochito Gronthadir Porichoy,1
+2334,UDB-019-1323-24-19-01-MAGH.pdf,1323,magh,Sri Gokuldas Dey,Budhhabani,1
+2335,UDB-019-1323-24-19-01-MAGH.pdf,1323,magh,Shri Kanailal Pal,Europeo Darshaner Itihaas,1
+2336,UDB-019-1323-24-19-01-MAGH.pdf,1323,magh,Brahmachari Sadhuchaitanya,Dharmmo O Mokkho,1
+2337,UDB-019-1323-24-19-01-MAGH.pdf,1323,magh,Sri Upendranath Dutta,Twattagyan,1
+2338,UDB-019-1323-24-19-01-MAGH.pdf,1323,magh,,Sotkotha,1
+2339,UDB-019-1323-24-19-01-MAGH.pdf,1323,magh,,Swami Vivekanander patra,1
+2340,UDB-019-1323-24-19-01-MAGH.pdf,1323,magh,,Monisha,1
+2341,UDB-019-1323-24-19-01-MAGH.pdf,1323,magh,,Sri Ramakrishna Missioner Banya Nibaron Karjyo,1
+2342,UDB-019-1323-24-19-01-MAGH.pdf,1323,magh,,Durbhikkho Bhandare Prapti Swikar,1
+2343,UDB-019-1323-24-19-02-FALGOON.pdf,1323,falgoon,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,2
+2344,UDB-019-1323-24-19-02-FALGOON.pdf,1323,falgoon,Sister Nivedita,Acharya Sri Vivekananda,2
+2345,UDB-019-1323-24-19-02-FALGOON.pdf,1323,falgoon,Sri Nagendranath Roy,Tantre Srigurutwatta,2
+2346,UDB-019-1323-24-19-02-FALGOON.pdf,1323,falgoon,Shri Girijashankar Roy Chaudhuri,Niche(Friedrich Nietzsche),2
+2347,UDB-019-1323-24-19-02-FALGOON.pdf,1323,falgoon,,Rochito Gronthadir Srenibibhag,2
+2348,UDB-019-1323-24-19-02-FALGOON.pdf,1323,falgoon,,Bhagini Nivedita,2
+2349,UDB-019-1323-24-19-02-FALGOON.pdf,1323,falgoon,Shri Kanailal Pal,Europeo Darshaner Itihaas,2
+2350,UDB-019-1323-24-19-02-FALGOON.pdf,1323,falgoon,,Sotkotha,2
+2351,UDB-019-1323-24-19-02-FALGOON.pdf,1323,falgoon,Sri Mayamoy Mitra,Safal Sadhona,2
+2352,UDB-019-1323-24-19-02-FALGOON.pdf,1323,falgoon,,Swami Vivekander Ponchoponchashot Janmotsab,2
+2353,UDB-019-1323-24-19-02-FALGOON.pdf,1323,falgoon,,Sangbad o Mantabya,2
+2354,UDB-019-1323-24-19-03-CHAITRA.pdf,1323,chaitra,Sri Phonindranath Ghosh ,Pothik,3
+2355,UDB-019-1323-24-19-03-CHAITRA.pdf,1323,chaitra,Sister Nivedita,Acharya Sri Vivekananda,3
+2356,UDB-019-1323-24-19-03-CHAITRA.pdf,1323,chaitra,Brahmachari Bimalchaitanya,Satyalabh,3
+2357,UDB-019-1323-24-19-03-CHAITRA.pdf,1323,chaitra,Sri Neelkantha Chowdhury,Amadiger Adorsho,3
+2358,UDB-019-1323-24-19-03-CHAITRA.pdf,1323,chaitra,Sri Bhubon Mohan Howladar,Swami Vivekananda,3
+2359,UDB-019-1323-24-19-03-CHAITRA.pdf,1323,chaitra,Swami Vivekananda,Samajik Sommelon Abhibhason,3
+2360,UDB-019-1323-24-19-03-CHAITRA.pdf,1323,chaitra,,Swami Vivekanander patra,3
+2361,UDB-019-1323-24-19-03-CHAITRA.pdf,1323,chaitra,Sri Upendranath Dutta,Kaliyo-Domon,3
+2362,UDB-019-1323-24-19-03-CHAITRA.pdf,1323,chaitra,,Sotkotha,3
+2363,UDB-019-1323-24-19-03-CHAITRA.pdf,1323,chaitra,,Somalochona,3
+2364,UDB-019-1323-24-19-03-CHAITRA.pdf,1323,chaitra,,Sangbad o Mantabya,3
+2365,UDB-019-1323-24-19-03-CHAITRA.pdf,1323,chaitra,,Sister Nivedita Balikavidyalaya,3
+2366,UDB-019-1323-24-19-04-BOISHAKH.pdf,1324,boishakh,Sri Prafullachandra Maity,Sarbodhormmosomonnoy,4
+2367,UDB-019-1323-24-19-04-BOISHAKH.pdf,1324,boishakh,Sister Nivedita,Acharya Sri Vivekananda,4
+2368,UDB-019-1323-24-19-04-BOISHAKH.pdf,1324,boishakh,Srimoti Priyongboda Debi,Baikali,4
+2369,UDB-019-1323-24-19-04-BOISHAKH.pdf,1324,boishakh,,Srimot Swami Vivekananda,4
+2370,UDB-019-1323-24-19-04-BOISHAKH.pdf,1324,boishakh,Shri Kanailal Pal,Europeo Darshaner Itihaas,4
+2371,UDB-019-1323-24-19-04-BOISHAKH.pdf,1324,boishakh,,Sotkotha,4
+2372,UDB-019-1323-24-19-04-BOISHAKH.pdf,1324,boishakh,,Somalochona,4
+2373,UDB-019-1323-24-19-04-BOISHAKH.pdf,1324,boishakh,,Sri Ramakrishna Missioner Memorial,4
+2374,UDB-019-1323-24-19-04-BOISHAKH.pdf,1324,boishakh,,Lord Carmichaeler Potro,4
+2375,UDB-019-1323-24-19-04-BOISHAKH.pdf,1324,boishakh,,Sangbad o Mantabya,4
+2376,UDB-019-1323-24-19-05-JOISTHO.pdf,1324,joistho,Sister Nivedita,Acharya Sri Vivekananda,5
+2377,UDB-019-1323-24-19-05-JOISTHO.pdf,1324,joistho,Pandit Promothonath Tarkobhushan,Vedanto Darshon O Boudhho Darshon,5
+2378,UDB-019-1323-24-19-05-JOISTHO.pdf,1324,joistho,Janaiko Brahmachari,Ekti Proshno,5
+2379,UDB-019-1323-24-19-05-JOISTHO.pdf,1324,joistho,Shri Kanailal Pal,Europeo Darshaner Itihaas,5
+2380,UDB-019-1323-24-19-05-JOISTHO.pdf,1324,joistho,Sri Kumudbondhu Sen,Swami Vivekananda O Tahar Bani,5
+2381,UDB-019-1323-24-19-05-JOISTHO.pdf,1324,joistho,Sri Romonikanto Basu ,Shankardev,5
+2382,UDB-019-1323-24-19-05-JOISTHO.pdf,1324,joistho,,Swami Vivekanander patra,5
+2383,UDB-019-1323-24-19-05-JOISTHO.pdf,1324,joistho,,"Pradeshik Sammilane ""Banglar Kotha""",5
+2384,UDB-019-1323-24-19-05-JOISTHO.pdf,1324,joistho,,Sangbad o Mantabya,5
+2385,UDB-019-1323-24-19-06-ASHAR.pdf,1324,ashar,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,6
+2386,UDB-019-1323-24-19-06-ASHAR.pdf,1324,ashar,Sister Nivedita,Acharya Sri Vivekananda,6
+2387,UDB-019-1323-24-19-06-ASHAR.pdf,1324,ashar,Pandit Horoprasad Shastri,Bonge Boudhhodhormo,6
+2388,UDB-019-1323-24-19-06-ASHAR.pdf,1324,ashar,Sri GyanendraMohon Das,Nauchandi,6
+2389,UDB-019-1323-24-19-06-ASHAR.pdf,1324,ashar,Sri Romonikanto Basu ,Shankardev,6
+2390,UDB-019-1323-24-19-06-ASHAR.pdf,1324,ashar,Sri Surendranath Sen ,Hazaribager Deboshan O Koljati,6
+2391,UDB-019-1323-24-19-06-ASHAR.pdf,1324,ashar,,"Pradeshik Sammilane ""Banglar Kotha""",6
+2392,UDB-019-1323-24-19-06-ASHAR.pdf,1324,ashar,,Sangkhipta Samalochona,6
+2393,UDB-019-1323-24-19-07-SRABON.pdf,1324,srabon,Sri Khirodprasad Vidyabinod,Pratidhwani,7
+2394,UDB-019-1323-24-19-07-SRABON.pdf,1324,srabon,Sister Nivedita,Acharya Sri Vivekananda,7
+2395,UDB-019-1323-24-19-07-SRABON.pdf,1324,srabon,Sri Amulyacharan Ghosh Vidyabhusan,Shankar-Dorshon,7
+2396,UDB-019-1323-24-19-07-SRABON.pdf,1324,srabon,Pandit Sri Promothonath Tarkobhusan,Boudhho O VedantoDarshone Nirbbantwatta,7
+2397,UDB-019-1323-24-19-07-SRABON.pdf,1324,srabon,,"Pradeshik Sammilane ""Banglar Kotha""",7
+2398,UDB-019-1323-24-19-07-SRABON.pdf,1324,srabon,,Ekti Detroit Mohila O Tahar Bharityo Karjyo,7
+2399,UDB-019-1323-24-19-08-VADRO.pdf,1324,vadro,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,8
+2400,UDB-019-1323-24-19-08-VADRO.pdf,1324,vadro,Sister Nivedita,Acharya Sri Vivekananda,8
+2401,UDB-019-1323-24-19-08-VADRO.pdf,1324,vadro,Sri Ahibhusan Dey Chowdhury,Bedokto Adhikari Veder Karon,8
+2402,UDB-019-1323-24-19-08-VADRO.pdf,1324,vadro,Sri Amulyacharan Ghosh Vidyabhusan,Shankar-Dorshon,8
+2403,UDB-019-1323-24-19-08-VADRO.pdf,1324,vadro,,Somalochona,8
+2404,UDB-019-1323-24-19-08-VADRO.pdf,1324,vadro,,Sangbad o Mantabya,8
+2405,UDB-019-1323-24-19-09-ASHYEEN.pdf,1324,ashyeen,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,9
+2406,UDB-019-1323-24-19-09-ASHYEEN.pdf,1324,ashyeen,Sister Nivedita,Acharya Sri Vivekananda,9
+2407,UDB-019-1323-24-19-09-ASHYEEN.pdf,1324,ashyeen,Brahmachari Probhas,Brojo-Bhromon,9
+2408,UDB-019-1323-24-19-09-ASHYEEN.pdf,1324,ashyeen,Sri Romonikanto Basu ,Madhabdev,9
+2409,UDB-019-1323-24-19-09-ASHYEEN.pdf,1324,ashyeen,Shri Kanailal Pal,Europeo Darshaner Itihaas,9
+2410,UDB-019-1323-24-19-09-ASHYEEN.pdf,1324,ashyeen,Sri GyanendraMohon Das,Gaji Miya,9
+2411,UDB-019-1323-24-19-09-ASHYEEN.pdf,1324,ashyeen,,Sangbad o Mantabya,9
+2412,UDB-019-1323-24-19-10-KARTTIK.pdf,1324,karttik,Sister Nivedita,Acharya Sri Vivekananda,10
+2413,UDB-019-1323-24-19-10-KARTTIK.pdf,1324,karttik,Sri Phonindranath Ghosh ,Agamani,10
+2414,UDB-019-1323-24-19-10-KARTTIK.pdf,1324,karttik,Sri Nirmmalchandra Chowdhury,Jiboner Sahitya,10
+2415,UDB-019-1323-24-19-10-KARTTIK.pdf,1324,karttik,Sri Kumudbondhu Sen,Swamiji O Bhoktitwatta,10
+2416,UDB-019-1323-24-19-10-KARTTIK.pdf,1324,karttik,Brahmachari Probhas,Brojo-Bhromon,10
+2417,UDB-019-1323-24-19-10-KARTTIK.pdf,1324,karttik,Sri Romonikanto Basu ,Haridev,10
+2418,UDB-019-1323-24-19-10-KARTTIK.pdf,1324,karttik,,Sotkotha,10
+2419,UDB-019-1323-24-19-10-KARTTIK.pdf,1324,karttik,Swami Brahmananda,Bidyadaner Subhojogodoy,10
+2420,UDB-019-1323-24-19-10-KARTTIK.pdf,1324,karttik,,Sangbad o Mantabya,10
+2421,UDB-019-1323-24-19-11-AGROHAWAN.pdf,1324,agrohawan,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,11
+2422,UDB-019-1323-24-19-11-AGROHAWAN.pdf,1324,agrohawan,Sister Nivedita,Acharya Sri Vivekananda,11
+2423,UDB-019-1323-24-19-11-AGROHAWAN.pdf,1324,agrohawan,Swami Sudhhananda,Kah Pontha?,11
+2424,UDB-019-1323-24-19-11-AGROHAWAN.pdf,1324,agrohawan,Sri Prosonnomoyi Debi,Ahalya Pashani,11
+2425,UDB-019-1323-24-19-11-AGROHAWAN.pdf,1324,agrohawan,Brahmachari Probhas,Brojo-Bhromon,11
+2426,UDB-019-1323-24-19-11-AGROHAWAN.pdf,1324,agrohawan,Brahmachari Dhrubochaitanya,Baidik O Boudhhadhormo,11
+2427,UDB-019-1323-24-19-11-AGROHAWAN.pdf,1324,agrohawan,Sri Satyendranath Mojumdar,Bishu Dada,11
+2428,UDB-019-1323-24-19-11-AGROHAWAN.pdf,1324,agrohawan,,Sangbad o Mantabya,11
+2429,UDB-019-1323-24-19-12-POUSH.pdf,1324,poush,Swami Sudhhananda,Ashwasbani,12
+2430,UDB-019-1323-24-19-12-POUSH.pdf,1324,poush,Sister Nivedita,Acharya Sri Vivekananda,12
+2431,UDB-019-1323-24-19-12-POUSH.pdf,1324,poush,Sri Ahibhusan Dey Chowdhury,Maya,12
+2432,UDB-019-1323-24-19-12-POUSH.pdf,1324,poush,Sri Prafulla Maity,Dorshone Bedtwatta,12
+2433,UDB-019-1323-24-19-12-POUSH.pdf,1324,poush,Sri-,Ek O Bohu,12
+2434,UDB-019-1323-24-19-12-POUSH.pdf,1324,poush,Shri Kanailal Pal,Europeo Darshaner Itihaas,12
+2435,UDB-019-1323-24-19-12-POUSH.pdf,1324,poush,Brahmachari Probhas,Brojo-Bhromon,12
+2436,UDB-019-1323-24-19-12-POUSH.pdf,1324,poush,Sri Nirmmalchandra Sarkar,Swami Vivekananda,12
+2437,UDB-019-1323-24-19-12-POUSH.pdf,1324,poush,,Mothura Onchole Joloplabon,12
+2438,UDB-019-1323-24-19-12-POUSH.pdf,1324,poush,,Sangbad o Mantabya,12
+2439,UDB-020-1324-25-20-01-MAGH.pdf,1324,magh,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,1
+2440,UDB-020-1324-25-20-01-MAGH.pdf,1324,magh,Sister Nivedita,Acharya Sri Vivekananda,1
+2441,UDB-020-1324-25-20-01-MAGH.pdf,1324,magh,Sri Basanta Kumar Chattopadhyay,Maya O Bigyanbad,1
+2442,UDB-020-1324-25-20-01-MAGH.pdf,1324,magh,Dr. Sri Soroshilal Sarkar,Swapna-twatta,1
+2443,UDB-020-1324-25-20-01-MAGH.pdf,1324,magh,Sri Kumudbondhu Sen,Sadhusongo,1
+2444,UDB-020-1324-25-20-01-MAGH.pdf,1324,magh,Swami Amritananda,Vedanta-Poribhasha,1
+2445,UDB-020-1324-25-20-01-MAGH.pdf,1324,magh,,Sotkotha,1
+2446,UDB-020-1324-25-20-01-MAGH.pdf,1324,magh,,Mothura Onchole Jalaplabon,1
+2447,UDB-020-1324-25-20-02-FALGOON.pdf,1324,falgoon,Sister Nivedita,Acharya Sri Vivekananda,2
+2448,UDB-020-1324-25-20-02-FALGOON.pdf,1324,falgoon,Swami Sudhhananda,Vedanta-Prochar,2
+2449,UDB-020-1324-25-20-02-FALGOON.pdf,1324,falgoon,Sri Upendranath Dutta,Rup-kotha,2
+2450,UDB-020-1324-25-20-02-FALGOON.pdf,1324,falgoon,Dr. Sri Soroshilal Sarkar,Swapna-twatta,2
+2451,UDB-020-1324-25-20-02-FALGOON.pdf,1324,falgoon,,Sangbad o Mantabya,2
+2452,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,3
+2453,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,Sister Nivedita,Acharya Sri Vivekananda,3
+2454,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,Sri Basanta Kumar Chattopadhyay,Tolstoyer Adorsho,3
+2455,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,Sri Radhakomol Mukhopadhyay,Vivekananda Smorone,3
+2456,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,Dr. Sri Soroshilal Sarkar,Swapna-twatta,3
+2457,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,Swami Amritananda,Ogyan ba Maya,3
+2458,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,Sri Phonindranath Ghosh,Bani-Ahwan,3
+2459,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,Swami Basudebananda,Bharatiyo Sikkha,3
+2460,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,,Sotkotha,3
+2461,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,,Sri Sri Ramakrishna Paramhongshodeber Troishititomo Janmotshob,3
+2462,UDB-020-1324-25-20-03-CHAITRA.pdf,1324,chaitra,,Sangbad o Mantabya,3
+2463,UDB-020-1324-25-20-04-BAISHAKH.pdf,1325,baishakh,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,4
+2464,UDB-020-1324-25-20-04-BAISHAKH.pdf,1325,baishakh,Swami Vivekananda,Sarbbabhaumik Dharmmer Adarsha,4
+2465,UDB-020-1324-25-20-04-BAISHAKH.pdf,1325,baishakh,Sri Karttikchandra Mitra,Sikhguru,4
+2466,UDB-020-1324-25-20-04-BAISHAKH.pdf,1325,baishakh,Dr. Sri Soroshilal Sarkar,Swapna-twatta,4
+2467,UDB-020-1324-25-20-04-BAISHAKH.pdf,1325,baishakh,Swami Mukteswarananada,Diner Prarthona,4
+2468,UDB-020-1324-25-20-04-BAISHAKH.pdf,1325,baishakh,Swami Basudebananda,Bharatiyo Sikkha,4
+2469,UDB-020-1324-25-20-04-BAISHAKH.pdf,1325,baishakh,,Sikhha,4
+2470,UDB-020-1324-25-20-04-BAISHAKH.pdf,1325,baishakh,Srimoti Saralabala Dashi,Nobo Borsho,4
+2471,UDB-020-1324-25-20-04-BAISHAKH.pdf,1325,baishakh,,Shoksangbad,4
+2472,UDB-020-1324-25-20-05-JAISTHA.pdf,1325,jaistha,Swami Vivekananda,Sarbbabhaumik Dharmmer Adarsha,5
+2473,UDB-020-1324-25-20-05-JAISTHA.pdf,1325,jaistha,Sri Karttikchandra Mitra,Sikhguru,5
+2474,UDB-020-1324-25-20-05-JAISTHA.pdf,1325,jaistha,Sri-,Swadhinota,5
+2475,UDB-020-1324-25-20-05-JAISTHA.pdf,1325,jaistha,Swami Amritananda,Iswarchaitanya O Jeebchaitanya,5
+2476,UDB-020-1324-25-20-05-JAISTHA.pdf,1325,jaistha,Swami Basudebananda,Bharatiyo Sikkha,5
+2477,UDB-020-1324-25-20-05-JAISTHA.pdf,1325,jaistha,Sri Shastrapani Sharmma,Sri Sri Kamakhya Dham,5
+2478,UDB-020-1324-25-20-05-JAISTHA.pdf,1325,jaistha,Sri Basanta Kumar Chattopadhyay,Tolstoyer Adorsho Sombhondhe Alochona,5
+2479,UDB-020-1324-25-20-05-JAISTHA.pdf,1325,jaistha,Sri Vinodeshwar Dasgupta,Mahakobi Girishchandrake Bujhibar Antoray,5
+2480,UDB-020-1324-25-20-06-ASHAR.pdf,1325,ashar,Swami Sudhhananda,Nibhrito Chinta,6
+2481,UDB-020-1324-25-20-06-ASHAR.pdf,1325,ashar,Sri Karttikchandra Mitra,Sikhguru,6
+2482,UDB-020-1324-25-20-06-ASHAR.pdf,1325,ashar,Swami Amritananda,Jogot O Iswar,6
+2483,UDB-020-1324-25-20-06-ASHAR.pdf,1325,ashar,Sri Biharilal Sarkar,Sri krishna Sebok Udhhab,6
+2484,UDB-020-1324-25-20-06-ASHAR.pdf,1325,ashar,Swami Basudebananda,Bharatiyo Sikkha,6
+2485,UDB-020-1324-25-20-06-ASHAR.pdf,1325,ashar,Dr. Sri Soroshilal Sarkar,Swapna-twatta,6
+2486,UDB-020-1324-25-20-06-ASHAR.pdf,1325,ashar,,Sangkhipta Alochona,6
+2487,UDB-020-1324-25-20-07-SRABON.pdf,1325,srabon,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,7
+2488,UDB-020-1324-25-20-07-SRABON.pdf,1325,srabon,Swami Vivekananda,Sarbbabhaumik Dharmmer Adarsha,7
+2489,UDB-020-1324-25-20-07-SRABON.pdf,1325,srabon,Sri Karttikchandra Mitra,Sikhguru,7
+2490,UDB-020-1324-25-20-07-SRABON.pdf,1325,srabon,Sri Hariprasad Basu,Pother Sombol,7
+2491,UDB-020-1324-25-20-07-SRABON.pdf,1325,srabon,Sri Biharilal Sarkar,Udhhab O Brojogopi,7
+2492,UDB-020-1324-25-20-07-SRABON.pdf,1325,srabon,Swami Basudebananda,Bharatiyo Sikkha,7
+2493,UDB-020-1324-25-20-07-SRABON.pdf,1325,srabon,,Sister Nivedita Balikavidyalaya,7
+2494,UDB-020-1324-25-20-07-SRABON.pdf,1325,srabon,,Bastrasankat,7
+2495,UDB-020-1324-25-20-08-VADRO.pdf,1325,vadro,,Mahasamadhi,8
+2496,UDB-020-1324-25-20-08-VADRO.pdf,1325,vadro,Sri Hariprasad Basu,Pother Sombol,8
+2497,UDB-020-1324-25-20-08-VADRO.pdf,1325,vadro,Swami Amritananda,Srishti ba samanyo adhyarop,8
+2498,UDB-020-1324-25-20-08-VADRO.pdf,1325,vadro,Sri Biharilal Sarkar,Sri Krishna O Udhhab ,8
+2499,UDB-020-1324-25-20-08-VADRO.pdf,1325,vadro,Swami Basudebananda,Bharatiyo Sikkha,8
+2500,UDB-020-1324-25-20-08-VADRO.pdf,1325,vadro,Sri Basanta Kumar Chattopadhyay,Gayatrir Tatporjyo,8
+2501,UDB-020-1324-25-20-08-VADRO.pdf,1325,vadro,Sri Probodh Chandra Chattopadhyay,Brahmon O Samaj,8
+2502,UDB-020-1324-25-20-08-VADRO.pdf,1325,vadro,,Sangkhipta Samalochona,8
+2503,UDB-020-1324-25-20-08-VADRO.pdf,1325,vadro,,Sri Ramakrishna Mission,8
+2504,UDB-020-1324-25-20-09-ASHYEEN.pdf,1325,ashyeen,Swami Saradananda,Shri Shri Ramkrishnaleelaprasanga,9
+2505,UDB-020-1324-25-20-09-ASHYEEN.pdf,1325,ashyeen,Swami Vivekananda,Dhormmo Jinista ki?,9
+2506,UDB-020-1324-25-20-09-ASHYEEN.pdf,1325,ashyeen,Swami Basudebananda,Bharatiyo Sikkha,9
+2507,UDB-020-1324-25-20-09-ASHYEEN.pdf,1325,ashyeen,Sri Biharilal Sarkar,Sri Krishna O Udhhab ,9
+2508,UDB-020-1324-25-20-09-ASHYEEN.pdf,1325,ashyeen,Sri Kartickchandra Mitra,Sikhguru,9
+2509,UDB-020-1324-25-20-09-ASHYEEN.pdf,1325,ashyeen,,Bonge Bostro Sonkot,9
+2510,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,Swami Vivekananda,Dhormmo Jinista ki?,10
+2511,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,Swami Premananda,Potro,10
+2512,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,,Smriti,10
+2513,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,Swami Adbhutananda,Sotkotha,10
+2514,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,,Ishar Proti Moriyom,10
+2515,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,Swami Basudebananda,Bharatiyo Sikkha,10
+2516,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,Sri Surendranath Mukhopadhyay,Amader Sadhana,10
+2517,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,Sri Biharilal Sarkar,Ma,10
+2518,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,Sri Upendranath Dutta,Vedkatha,10
+2519,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,Sri Karttikchandra Mitra,Sikhguru,10
+2520,UDB-020-1324-25-20-10-KARTTIK.pdf,1325,karttik,,Uttarbange Banya,10
+2521,UDB-020-1324-25-20-11-AGROHAWAN.pdf,1325,agrohawan,Swami Vivekananda,Sarbbabhaumik Dharmmalaabher Upaay,11
+2522,UDB-020-1324-25-20-11-AGROHAWAN.pdf,1325,agrohawan,Sri Biharilal Sarkar,Sri Krishna O Udhhab ,11
+2523,UDB-020-1324-25-20-11-AGROHAWAN.pdf,1325,agrohawan,Sri Sarachhandra Chakraborty,Adan-Prodan,11
+2524,UDB-020-1324-25-20-11-AGROHAWAN.pdf,1325,agrohawan,,Swami Premanander Upodesh,11
+2525,UDB-020-1324-25-20-11-AGROHAWAN.pdf,1325,agrohawan,Sri Guruprasad Mukhopadhyay,Shimla O Shipimela,11
+2526,UDB-020-1324-25-20-11-AGROHAWAN.pdf,1325,agrohawan,Sri Gokuldash Dey,Tathagata-Vashishtha-Sangbad,11
+2527,UDB-020-1324-25-20-11-AGROHAWAN.pdf,1325,agrohawan,Dr. Sri Jitendra Prasad Basu,Sahitya Soundorjo,11
+2528,UDB-020-1324-25-20-11-AGROHAWAN.pdf,1325,agrohawan,,Sangbad o Mantabya,11
+2529,UDB-020-1324-25-20-12-POUSH.pdf,1325,poush,,Swami Vivekanander Swabhibyakti,12
+2530,UDB-020-1324-25-20-12-POUSH.pdf,1325,poush,Swami Vivekananda,Sarbbabhaumik Dharmmalaabher Upaay,12
+2531,UDB-020-1324-25-20-12-POUSH.pdf,1325,poush,Sri Gyanendra Mohon Das,Bilaichondi O Musholmaner Hindutva,12
+2532,UDB-020-1324-25-20-12-POUSH.pdf,1325,poush,Dr. Sri Soroshilal Sarkar,Swapna-twatta,12
+2533,UDB-020-1324-25-20-12-POUSH.pdf,1325,poush,,Sangbad o Mantabya,12
+2534,UDB-020-1324-25-20-12-POUSH.pdf,1325,poush,,Sister Nivedita Balika-Vidyalaya,12
